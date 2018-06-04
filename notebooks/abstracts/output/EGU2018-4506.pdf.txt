@@ -1,0 +1,30 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-4506, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The EC Horizon 2020 project SWAMI: Space Weather Atmosphere
+Model and Indices
+
+Sean Bruinsma (1), David Jackson (2), Claudia Stolle (3), and Sandra Negrin (4)
+(1) CNES, Space Geodesy Ofﬁce, Toulouse, France (sean.bruinsma@cnes.fr), (2) Met Ofﬁce, Exeter, United Kingdom
+(david.jackson@metofﬁce.gov.uk), (3) GFZ Helmholtz Centre Potsdam, Potsdam, Germany (cstolle@gfz-potsdam.de), (4)
+DEIMOS Space S.L.U, Madrid, Spain (sandra.negrin@elecnor-deimos.com)
+
+In the framework of the H2020 project SWAMI, which started in January 2018, a new whole atmosphere model
+(0-1500 km) will be developed that can be used for launch operations, re-entry computations, orbit prediction, as
+well as aeronomy and space weather studies. Such a model is currently not available in Europe, whereas models
+in the US and Japan have irreconcilable limits for users.
+The model will be constructed by blending two existing models, the Drag Temperature Model (DTM) and the
+Uniﬁed Model (UM). The CNES thermosphere speciﬁcation model DTM2013, which was developed in the FP7
+project ATMOP, will ﬁrst be improved by assimilating more density data to drive down remaining biases as a
+function of solar activity and seasons mainly. Secondly, a new high cadence Kp geomagnetic index, which will
+be developed as part of the project, will be used in order to improve storm-time performance. Compared to
+the progress made in solar activity proxy research, geomagnetic index development and forecasting is lagging;
+SWAMI will focus on improving the geomagnetic index as well as its forecast. The Met Ofﬁce UM will be
+extended to the lower thermosphere in order to have an overlap with DTM. Then, the average of a multi-year run
+and the inter-annual variability are computed, representing climatology and weather, respectively. UM and DTM
+will then be blended in the 120-160 km altitude region to create a whole atmosphere model, which will be made
+available in a user-friendly package in 2020.
+
+

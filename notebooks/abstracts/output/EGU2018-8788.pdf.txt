@@ -1,0 +1,38 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-8788, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Implementation of Sentinel-5p data in the CAMS global data assimilation
+system
+
+Richard Engelen, Melanie Ades, Jerôme Barré, Antje Inness, Roberto Ribas, Anna Agusti-Panareda, Johannes
+Flemming, Zak Kipling, Mark Parrington, Vincent-Henri Peuch, and Martin Suttie
+European Centre for Medium-Range Weather Forecasts, Research Department, Reading, United Kingdom
+(richard.engelen@ecmwf.int)
+
+The Copernicus Atmosphere Monitoring Service (CAMS) led by ECMWF will be one of the major users of
+Sentinel-5p data. The much-improved quality and spatial resolution of the S5p observations is expected to improve
+the CAMS analyses and forecasts. During the S5p commissioning phase ECMWF already started testing data and
+is providing valuable feedback on the data quality to ESA and the retrieval algorithm teams.
+A global data assimilation system is a powerful tool to monitor the quality of satellite data because it provides
+continuous global coverage and allows us to build up statistics of the differences between the (new) observations
+and the model quickly. The model ﬁelds are interpolated in time and space to the location of the observations,
+statistical analyses of the differences between the model’s ﬁrst guess or analysis ﬁelds and the observations (the
+so-called departures) are calculated and their time evolution is monitored. When the observations are stable,
+the departures normally show a relatively smooth behaviour from day to day. A sudden jump on a global scale,
+which is larger than the instrument noise, is an indication of possible problems in the data or potentially the
+model. Long term monitoring statistics can also detect (regional) biases between the model, which is constrained
+by many different (satellite) data sets, and the S5p observations and between different satellite retrievals (e.g.
+between ozone retrievals from different instruments such as S5p, GOME-2 and OMI) and allows us to monitor
+S5p instrument and algorithm stability.
+As a ﬁrst step, the S5p data are included passively in the global CAMS data assimilation system. This means
+the data will be fed into the system and ﬁrst-guess statistics will be calculated. However, the data will not be
+assimilated into the CAMS model and therefore not inﬂuence the model ﬁelds at this stage. This assessment
+can take several months to ensure the new observations can be safely used to improve the CAMS analyses and
+forecasts. Once the results look good, the new observations will be used to constrain the CAMS system as part of
+the various satellite data sets that are used each day.
+In this presentation, we will show the methodology for the monitoring of S5p data with the CAMS system and
+present ﬁrst results.
+
+

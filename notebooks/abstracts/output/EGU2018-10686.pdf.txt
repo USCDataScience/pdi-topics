@@ -1,0 +1,38 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10686, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Investigating the impact of anthropogenic pollution on cloud properties
+derived from ground based remote sensors at the North Slope of Alaska
+
+Maximilian Maahn (1,2), Claudia Acquistapace (3), Gijs de Boer (1,2), Christopher Cox (1,2), Graham Feingold
+(2), Tobias Marke (3), Christopher Williams (1,2)
+(1) University of Colorado Boulder, CIRES, United States (maximilian.maahn@colorado.edu), (2) NOAA Earth System
+Research Laboratory, Boulder, CO, USA, (3) University of Cologne, Cologne, Germany
+
+When acting as cloud condensation nuclei (CCN) or ice nucleating particles (INPs), aerosols have a strong
+potential to inﬂuence cloud properties. In particular, they can impact the number, size, and phase of cloud particles
+and potentially cloud lifetime through aerosol indirect and semi-direct effects. In polar regions, these effects are
+of great importance for the radiation budget due to the shortwave albedo and longwave emissivity of mixed-phase
+clouds.
+
+The Department of Energy (DOE) Atmospheric Radiation Measurement (ARM) program operates two su-
+per sites equipped with state of the art ground-based remote sensing instruments in northern Alaska. The sites are
+both coastal and are highly correlated with respect to large scale synoptic patterns. While the site at Utqia˙gvik
+(formerly known as Barrow) generally represents a relatively pristine Arctic environment lacking signiﬁcant
+anthropogenic sources, the site at Oliktok Point, approximately 250 km to the east, is surrounded by the Prudhoe
+Bay Oil Field, which is the largest oil ﬁeld in North America. Comparing both sites allows to identify the impact
+of anthropogenic pollution on cloud properties.
+
+Based on aircraft measurement,
+the authors recently showed that differences in the properties of liquid
+clouds properties between the sites can be attributed to local emissions associated with the industrial activities in
+the Prudhoe Bay region (Maahn et al. 2017, ACP). However, aircraft measurements do not provide a representative
+sample of cloud properties due to temporal limitations in the amount of data. In order to investigate how frequently
+and to what extent liquid cloud properties and processes are modiﬁed, we use ground based remote sensing
+observations such as e.g., cloud radar, Doppler lidar, and microwave radiometer obtained continuously at the two
+sites. In this way, we are able to quantify inter-site differences with respect to cloud drizzle production, liquid
+water path, frequency of cloud occurrence, and cloud radiative properties.
+
+

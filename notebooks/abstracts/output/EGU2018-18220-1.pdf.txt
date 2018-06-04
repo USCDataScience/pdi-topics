@@ -1,0 +1,32 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18220-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Best Practices For Monitoring, Mitigation and Preservation of Cultural
+Heritage Sites Affected By Geo-Hazards
+
+Kyriacos Themistocleous (1), Diofantos Hadjimitsis (1), Silas Michaelides (1), Daniele Spizzichino (2), Giovanni
+Crosta (3), José Fernandez (4), and Bees Emma (5)
+(1) Eratosthenes Research Center, Department of Civil Engineering And Geomatics, Cyprus University of Technology,
+Limassol, Cyprus (k.themistocleous@cut.ac.cy), (2) ISPRA -Istituto Superiore per la Protezione e Ricerca Ambientale, Rome,
+Italy (daniele.spizzichino@isprambiente.it), (3) University of Milano, Milan, Italy (giovannibattista.crosta@unimib.it), (4)
+Instituto Geológico y Minero de España, Madrid, Spain (jose.fernandez@igme.es), (5) British Geological Survey,
+Environmental Science Centre, Keyworth, England (ebee@bgs.ac.uk)
+
+Abstract: PROTHEGO (PROTection of European Cultural HEritage from GeO-hazards) uses novel space
+technology to monitor surface deformation with mm precision to analyze the impact of geohazards in cultural
+heritage sites in Europe. The project includes the 395 monuments of UNESCO in Europe to monitor geo-hazards,
+with case studies conducted in 4 UNESCO sites in England, Spain, Italy and Cyprus. The PROTHEGO project
+uses long-term low-impact monitoring systems, such as UAVs and geodetic techniques, as well as InSAR data
+to monitor and assess the risk from natural hazards on the archaeological site to evaluate potential geo-hazards.
+This paper will present an overview of best practices for the innovative diagnosis, monitoring, mitigation and
+preservation of Cultural Heritage monuments sites affected by geo-hazards that are potentially unstable due to
+landslides, sinkholes, settlement, subsidence, active tectonics as well as structural deformation.
+The "PROTection of European Cultural HEritage from GeO - hazards (PROTHEGO)” project HERITAGE
+PLUS/0314/36 is funded in the framework of the Joint Programming Initiative on Cultural Heritage and Global
+Change (JPICH) – HERITAGE PLUS under ERA-NET Plus and the Seventh Framework Programme (FP7) of
+the European Commission and the Cyprus Research Promotion Foundation, contract KOINA/ΠΠ-HERITAGE
+PLUS/0314/36.
+
+

@@ -1,0 +1,40 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-4329, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The Meteorological Drivers of the September 2015 Severe Dust Event in
+the Eastern Mediterranean
+
+Philipp Gasch (1), Daniel Rieger (2), Carolin Walter (1), Pavel Khain (3), Yoav Levi (3), Peter Knippertz (1), and
+Bernhard Vogel (1)
+(1) Institute of Meteorology and Climate Research, Karlsruhe Institute of Technology, Karlsruhe, Germany
+(peter.knippertz@kit.edu), (2) Deutscher Wetterdienst, Offenbach, Germany, (3) Israel Meteorological Service, Bet Dagan,
+Israel
+
+In 6–8 September 2015 one of the severest and most unusual dust events on record occurred in the Eastern
+Mediterranean. Five people died, hundreds were hospitalized, daily life and trafﬁc in the region were disrupted.
+Surprisingly, operational dust transport models were unable to forecast the event and therefore no early warnings
+were given to the population.
+
+This study details the reasons for this forecast failure and presents simulations of the event at convection-
+permitting resolution using the modelling system ICON-ART. The results allow for an in-depth analysis of the
+inﬂuence of the synoptic situation, the complex interaction of multiple driving atmospheric systems and the
+mineral dust radiative effect on the dust event. A comparison of the results with observations reveals the quality
+of the simulation results with respect to structure and timing of the dust transport. The forecast of the dust event
+is improved decisively, most likely due to the explicit representation of convection and a more highly resolved
+orography.
+
+The event is triggered by the unusually early occurrence of an active Red Sea trough situation with an
+easterly axis over Mesopotamia. The connected sustained organized mesoscale convection produces multiple
+cold-pool outﬂows responsible for intense dust emissions. Complexity is added by the interaction with an intense
+heat low, the inland-penetrating Eastern Mediterranean sea breeze and the widespread occurrence of supercritical
+ﬂow conditions and subsequent hydraulic jumps in the vicinity of the Jordan Rift Valley. The newly implemented
+mineral dust radiation interaction leads to systematically more intense and faster propagating cold-pool outﬂows.
+
+This case study demonstrates how processes across a wide range of scales can conspire to produce one of
+the most severe dust events on record for this region with large impacts on the population. The results suggest that
+high resolution and a sophisticated treatment of convection, dust and radiation is needed for a realistic forecast
+and early warning.
+
+

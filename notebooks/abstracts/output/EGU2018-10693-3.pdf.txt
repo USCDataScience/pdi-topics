@@ -1,0 +1,28 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10693-3, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+A long-term plan and ambition for the Swarm constellation
+
+Rune Floberghagen (1), Roger Haagmans (2), and Diego Fernandez (1)
+(1) European Space Agency, Directorate of Earth Observation Programmes, Frascati, Italy (rune.ﬂoberghagen@esa.int), (2)
+European Space Agency, Directorate of Earth Observation Programmes, Noordwijk, The Netherlands
+
+In late 2017 the European Space Agency’s Swarm constellation passed its ﬁrst mission extension review and got
+the green light for an ambitious plan to address a reﬁned set of research goals. While the present formal approval
+for budgetary reasons provides funding through 2021, already now it is clear that Swarm is targeting a long-term
+scenario, stretching until the next solar maximum or even longer, made possible by the excellent health and quality
+of all on-board systems and the available resources. Strong and vocal support from the user community has been
+absolutely vital in achieving this key milestone.
+
+This contribution details the present technical and programmatic status of the mission with particular em-
+phasis on the plans for the extended mission, in terms of constellation operations, science data products as well as
+broader research goals that will be actively supported by the Agency. It is also an occasion to discuss synergetic
+effects obtained through strategic collaboration initiatives with other sensor systems, such as (but not exclusively)
+the Canadian e-POP (now Swarm Echo). Other such opportunities include the Chinese CSES mission, the soon
+to be launched Icon and Gold, and also various ground-based sensor systems or modelling frameworks. Overall,
+this contribution aims to sketch the envisaged contribution of Swarm to all areas of science in which the extended
+mission is expected to play a signiﬁcant role in the years to come.
+
+

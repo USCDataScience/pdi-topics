@@ -1,0 +1,30 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-5997, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+A Preliminary Study on Estimating the Impact of Plastic Mulched
+Landcover on Evapotranspiration Using SEBAL Model
+
+Lizhen Lu (1), Yanlin Huang (1), Liping Di (2), and Yanshen Sun (1)
+(1) School of earth sciences, Zhejiang University, Hangzhou, China (llz_gis@zju.edu.cn), (2) Center for Spatial Information
+Science and Systems, George Mason University, Fairfax, U.S.A (ldi@gmu.edu)
+
+Abstract: As one of planting technologies, in recent years signiﬁcant area of cropland has been covered by thin
+plastic ﬁlm as the mulch to increase the crop yield. It is expected that the large-scale plastic mulched landcover
+(PML) have impacts on evapotranspiration (ET), surface energy balance (SEB), weather, and climate at local,
+regional or even continental scale. However, such impacts have been poorly understood so far. In order to
+understand the impacts, this study used a surface energy balance algorithm for land (SEBAL) model to compute
+the latent heat ﬂux for the plastic mulched cotton area in northern Xinjiang, with Landsat 8 imagery as the main
+data source. Based on the latent heat ﬂux with the assumption that evapotranspirative fraction remains constant in
+24h, this study derived daily ET for each pixel in the study area. The experimental results showed that daily ET of
+PML is about 40% of that of the non-PML vegetated land and in between that of the non-PML vegetated land and
+the bare land. Comparing the model derived daily ET with ﬁeld measure, the relative deviation indicated SEBAL
+model, to a certain extent, can be used to estimate ET in the PML area. The high relative deviation is most likely
+caused by: 1) the assumption of homogeneous surface landcover in SEBAL model, which is not true since PML is
+the combination of plastic mulched land, bare land, and/or even vegetation; 2) the uncertainty in “cold” and “hot”
+pixel selection; and 3) deviation of model values and true values of surface roughness and other parameters.
+Keywords: plastic mulched landcover (PML); evapotranspiration (ET); surface energy balance (SEB); remote
+sensing-based estimation; Landsat 8 imagery; Xinjiang
+
+

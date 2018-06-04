@@ -1,0 +1,37 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-13983, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Predicting key agronomic soil properties with ﬂuorescence spectroscopy
+combined with reﬂectance spectroscopy: a farm-scale study in a
+Mediterranean viticultural agroecosystem
+
+Emmanuelle Vaudour (1), Zoran G. Cerovic (2), Dav M. Ebengo (1,3), and Gwendal Latouche (2)
+(1) UMR ECOSYS, AgroParisTech, INRA, Université Paris-Saclay, 78850, THIVERVAL-GRIGNON, France
+(emmanuelle.vaudour@agroparistech.fr), (2) UMR 8079, CNRS, Université Paris-Sud, Université Paris-Saclay, Laboratoire
+Ecologie, Systématique et Evolution, 91405 Orsay cédex, France, (3) Förderverein Uni Kinshasa
+(www.foerderverein-uni-kinshasa.de)
+
+For adequate crop and soil management, rapid, accurate techniques for monitoring soil properties are particularly
+decisive when a farmer starts up his activities and needs a diagnosis of his cultivated ﬁelds. This study aimed
+to evaluate the potential of ﬂuorescence spectroscopy performed on whole soil solid samples, for predicting key
+soil properties at the scale of a Mediterranean 6 ha-wine estate with contrasted soils. Fluorescence measurements
+were carried out using the portable non-contact hand-held multiple excitation ﬂuorescence sensor (Multiplex,
+FORCE-A, Orsay, France) in conjunction with reﬂectance measurements in the Vis-NIR-SWIR range.
+Combining Vis-NIR-SWIR reﬂectance spectra and a set of ﬂuorescence signals enabled to improve the power
+of prediction of a number of key agronomic soil properties including SOC, Ntot, CaCO3, iron and particle-size
+contents (clay, ﬁne silt, ﬁne sand, coarse sand), CEC, pH and exchangeable Ca, K and Mg, with cross-validation
+RPD ≥2 and R2≥0.75.
+Predictions of SOC, Ntot, CaCO3, iron contents, pH, were still good (RPD ≥ 1.8, R2 ≥ 0.68) when using a
+single ﬂuorescence signal such as SFR_R or FERARI indices, highlighting the unexpected importance of red
+excitations and indices derived from plant studies. The predictive ability of single ﬂuorescence indices or original
+signals was very signiﬁcant for topsoil: this is very important for a farmer who wishes to update information
+on soil nutrient for the purpose of fertility diagnosis and particularly nitrogen fertilization. These results open
+encouraging perspectives for using miniaturized ﬂuorescence devices enabling red excitation coupled with red or
+far-red ﬂuorescence emissions, directly in the ﬁeld.
+
+This work was supported by the wine Estate Domaine des Chauvets (Vinsobres cru) and by the French
+Space Agency (CNES) through the TOSCA-PLEIADES-CO project.
+
+

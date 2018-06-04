@@ -1,0 +1,51 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-15916, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The contribution of China’s short-lived pollutants to global climate forcing
+
+Thomas Gasser (1), Bengang Li (2), Philippe Ciais (3), Shilong Piao (2,4), Shu Tao (2), and the Sino-French
+Institute for Earth system science (SOFIE) team
+(1) International Institute for Applied Systems Analysis (IIASA), Laxenburg, Austria (gasser@iiasa.ac.at), (2) College of
+Urban and Environmental Sciences, Peking University, Beijing, China, (3) Laboratoire des Sciences du Climat et de
+l’Environnement (LSCE/IPSL), Gif-sur-Yvette, France, (4) Institute of Tibetan Plateau Research, Chinese Academy of
+Sciences, Beijing, China
+
+Knowledge of the contribution that individual countries have made to global radiative forcing is important to the
+implementation of the agreement on “common but differentiated responsibilities” reached by the United Nations
+Framework Convention on Climate Change.
+
+Over the past three decades, China has experienced rapid economic development, accompanied by increased
+emission of greenhouse gases, ozone precursors and aerosols, but the magnitude of the associated radiative forcing
+has remained unclear.
+
+Here we use a global coupled biogeochemistry-climate model, and a chemistry and transport model
+to
+quantify China’s present-day contribution to global radiative forcing due to well-mixed greenhouse gases,
+short-lived atmospheric climate forcers, and land-use-induced regional surface albedo changes.
+We ﬁnd that China contributes 10% ± 4% of the current global radiative forcing. China’s relative contribu-
+tion to the positive (warming) component of global radiative forcing, mainly induced by well-mixed greenhouse
+gases and black carbon aerosols, is 12% ± 2%. Its relative contribution to the negative (cooling) component is
+15% ± 6%, dominated by the effect of sulfate and nitrate aerosols.
+China’s strongest contributions are 0.16 ± 0.02 watts per square metre for CO2 from fossil fuel burning,
+0.13 ± 0.05 watts per square metre for methane, −0.11 ± 0.05 watts per square metre for sulfate aerosols, and
+0.09 ± 0.06 watts per square metre for black carbon aerosols.
+
+Therefore, in relative terms, China contributes more strongly to cooling climate down than to warming it
+up. Although, in absolute terms, China’s emission of active species still has a net warming effect. This overall
+picture is mostly painted by the key role of Chinese short-lived pollutants, as China contributes substantially to the
+global radiative forcing induced by aerosols (for example, 28% ± 10% of sulfate aerosols, 24% ± 8% of nitrate
+aerosols, and 14% ± 6% of black carbon aerosols).
+
+These estimates exclude the effect of aerosol-cloud interactions (also driven by short-lived species). A ten-
+tative inclusion of this effect (and other secondary effects that are not well constrained) further reduces China’s
+contribution to the global radiative forcing, albeit at the cost of a great increase in uncertainty. We estimate that
+China’s global contribution would then be 8% ± 8%.
+
+China’s eventual goal of improving air quality will result in changes in radiative forcing in the coming
+years: a reduction of sulfur dioxide emissions would drive a faster future warming, unless offset by larger
+reductions of radiative forcing from (sometimes co-emitted) well-mixed greenhouse gases, ozone precursors,
+and/or black carbon.
+
+

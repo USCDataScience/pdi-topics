@@ -1,0 +1,37 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-684, 2018
+EGU General Assembly 2018
+© Author(s) 2017. CC Attribution 4.0 license.
+
+Soniﬁcation and Citizen Science: New Tools for Magnetospheric ULF
+Wave Research?
+
+Martin Archer (1), Michael Hartinger (2), Robert Redmon (3), Vassilis Angelopoulos (4), Robert Clauer (2), and
+Rico Belhke (5)
+(1) Queen Mary University of London, School of Physics and Astronomy, London, United Kingdom
+(m.archer10@imperial.ac.uk), (2) Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA, (3) National
+Oceanic and Atmospheric Administration, Boulder, Colorado, USA, (4) University of California, Los Angeles, California,
+USA, (5) Technical University of Denmark, Kongens Lyngby, Denmark
+
+Soniﬁcation, the process of converting an oscillatory time-series into audible sound, is a technique little used in
+space physics but offers effective navigation, mining, and analysis of large datasets. Such a technique not only
+enables researchers to gain broader insights into the data but also lends itself well to citizen science.
+
+A pilot demonstrating this saw soniﬁed GOES (which often maps near to the auroral oval during disturbed
+times) magnetometer data being released to London schools as part of exploratory projects. This technique differs
+from typical citizen science projects which tend to be more prescriptive. We present a case study identiﬁed by
+school students via this approach of novel long-lasting narrowband decreasing-frequency standing Alfvén waves
+over multiple days. It was found that this event occurred during the recovery phase of a geomagnetic storm where,
+through simultaneous plasma density measurements by the THEMIS spacecraft, the decreasing frequencies were
+due to the reﬁlling of the plasmasphere following the storm. Further exploration of the audio revealed similar
+events following other major storms.
+
+Finally, we present preliminary multi-instrument soniﬁcation of conjugate high-latitude ground magnetometers
+for interhemispheric comparisons of ULF wave phenomena. Two events are presented during similar solar wind
+driving conditions but under different ionospheric conductivity conﬁgurations (one was near solstice and the other
+near equinox).
+
+We therefore highlight the potential of soniﬁcation and citizen science in tackling the “zoo” of ULF wave
+phenomena in the auroral oval, polar cap and nearby regions of Earth’s magnetosphere-ionosphere system.
+
+

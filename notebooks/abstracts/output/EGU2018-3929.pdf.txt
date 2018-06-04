@@ -1,0 +1,33 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-3929, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Modeling scale coupling in space turbulence
+
+Giovanni Lapenta, Kirit Makwana, Francesco Pucci, Maria Elena Innocenti, and Diego Gonzalez-Herrero
+KU Leuven, Wiskunde, Wiskunde, Leuven, Belgium (giovanni.lapenta@wis.kuleuven.be)
+
+Modelling space, astrophysical and laboratory plasmas requires us to consider ﬂuid and kinetic models together.
+Often ﬂuid models cannot capture completely some microscopic aspects. For example, there are aspects of
+shocks and reconnection processes that cannot be described by ﬂuid models completely. A striking example is the
+two-way coupling between particles and waves: waves energize particles and unstable particle distributions cause
+instabilities. Fluid models can capture some aspects but kinetic models are needed for a complete description.
+Conversely, kinetic models are too expensive to model large scales.
+We report our efforts centered on bridging this gap. The central glue used is the implicit moment method. By
+introducing the moments of the distribution functions and by formulating the discretization implicitly, we allow
+the kinetic model to morph into a ﬂuid model, at large scales. The latest development in our effort is to introduce
+a description of the ﬁrst order moment (current) via a mass-matrix. The mass matrix is a mathematical construct
+that summarizes the plasma response.
+The advantage of the new approach is to be practical at all scales: we showed one example where the same kinetic
+model covers nearly 20 orders of magnitude in temporal and spatial scales. Additionally, energy is conserved
+exactly, a feature of physical relevance and a powerful aid to avoid numerical instabilities.
+
+[1] Lapenta, G. (2017). Exactly energy conserving semi-implicit particle in cell formulation. Journal of
+Computational
+Physics, 334, 349-366.
+
+[2] Lapenta, G., Gonzalez-Herrero, D., & Boella, E. (2017). Multiple-scale kinetic simulations with the
+energy conserving semi-implicit particle in cell method. Journal of Plasma Physics, 83(2).
+
+

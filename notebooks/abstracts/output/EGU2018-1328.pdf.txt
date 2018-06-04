@@ -1,0 +1,29 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-1328, 2018
+EGU General Assembly 2018
+© Author(s) 2017. CC Attribution 4.0 license.
+
+The Dynamics of Cold Water Upwelled by a Wave-inertia Pump in the
+Stratiﬁed Ocean Environment with Vertical Shear
+
+Cayla Dean and Alexander Soloviev
+Nova Southeastern University Oceanographic Center, Dania Beach, United States (cd821@nova.edu)
+
+The wave-inertia pumps driven by surface waves are capable of producing ﬂow of cold water to the surface.
+The cold water brought from a deeper layer has higher density than the surface water and tends to sink back
+down. In this work, the dynamics of the cold water in the stratiﬁed environment with vertical shear is estimated
+using computational ﬂuid dynamics software ANSYS Fluent. A 3D large eddy simulation model is initialized
+with observational vertical temperature, salinity, and current velocity data from sample locations in the Straits of
+Florida. A periodic boundary condition is set along the direction of the current, which allows us to simulate inﬁnite
+fetch. The results of the simulation indicate that the cold water brought to the sea surface by a wave-inertia pump
+forms a convective jet. This jet plunges into the upper ocean mixed layer and penetrates below the thermocline.
+On the way down, the jet partially mixes with the surrounding water reducing the temperature of the upper ocean
+layer. The cold jet is also slightly warmed; as a result, when the jet reaches the density equilibrium depth below
+the thermocline, it has accumulated some additional heat. The mixing of the cold water produced by the artiﬁcial
+upwelling depends on stratiﬁcation, regional ocean circulation, vertical shear, and other environmental parameters.
+One potential application of the artiﬁcial upwelling system is the mitigation of hurricane intensity. The ocean heat
+content (OHC) is the “fuel” for hurricanes. The surface layer mixing with the upwelled cold water produced by
+wave-inertia pumps reduces the OHC accessible to hurricanes. At the same time, the results of the simulation
+indicate that some additional heat is accumulated below the thermocline.
+
+

@@ -1,0 +1,22 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-3782, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Attributing meteorological and human control factors in China 2013-2017
+air quality trend
+
+Sunling Gong (1), Hongli Liu (1), Huairui Li (2), Bin Liu (2), and Jianjun He (1)
+(1) China Meteorological Administration, Beijing, China (gongsl@cma.gov.cn), (2) Langfang Academy of Eco
+Industrialization for Wisdom Environment
+
+Air quality in China has been improving steadily since 2013 after the implementation of the state control strategy.
+The national PM2.5 annual concentrations dropped signiﬁcantly, from 45% to 25%, among heavily polluted
+area of Beijing, Tianjin and Hebei Province (BTH), indicating the major achievement of the government control
+efforts. However, during the last ﬁve years, the meteorological conditions in various regions of China has also
+been ﬂuctuated, which complicated the quantiﬁcation of control efforts. This paper presents a methodology and
+an index EMI (environmental meteorology index) that is used to separate the meteorological and human control
+factors. Analysis shows that the changing trends of air quality in China has a clear contribution of meteorological
+factors. Detailed results of this research will be presented in the conference.
+
+

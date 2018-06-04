@@ -1,0 +1,36 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-5165-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Sentinel-5 Precursor: Early In-Flight Operation & Results
+
+Herbert Nett (1), Sten Ekholm (1), Kevin McMullan (1), Willy Rits (1), Stefano Mattia (1), Eric Pourrier (1),
+Daniel Mesples (2), Pepijn Veefkind (3), Maximilian Schwinger (4), Diego Loyola (4), Quintus Kleipool (3), and
+Antje Ludewig (3)
+(1) ESA/ESTEC, Earth Observation Project Department, Noordwijk ZH, Netherlands (herbert.nett@esa.int), (2) ESA/ESOC,
+Robert-Bosch-Str. 5, D-64293 Darmstadt (daniel.mesples@esa.int), (3) KNMI, Utrechtseweg 297, NL-3731 GA De Bilt
+(pepijn.veefkind@knmi.nl), (4) DLR-EOC, Oberpfaffenhofen, D-82234 Wessling (maximilian.Schwinger@dlr.de)
+
+As ﬁrst atmospheric mission within the EC’s Copernicus Programme the Sentinel-5 Precursor (S-5P) satellite
+was launched on 13 October ‘17. Following a ﬂawless orbit injection and platform functional check-out the
+spacecraft’s only payload instrument TROPOMI (TROPOspheric Monitoring Instrument) was switched on after a
+25 days outgassing period.
+Immediately after the instrument’s radiant cooler opening, on 7 November ’17, ﬁrst Earth radiance measurements
+were acquired and an extensive in-ﬂight calibration and characterization program was started. Besides Phase
+E1 speciﬁc measurements nominal Earth radiance and Solar irradiance observations were acquired for use in
+functional tests by the Level 1B / 2 processor developers. Various minor – though important – corrections to
+algorithms and conﬁguration settings were identiﬁed leading to the installation of enhanced processor versions in
+the S5P Payload Data Ground Segment (PDGS) mid December ‘17. The updated processors were used to generate
+a ﬁrst set of sample products (Level 1B & 2) for delivery to expert teams worldwide taking part in the S-5P CalVal
+Announcement of Opportunity project.
+During the ﬁrst part of the 6 months commissioning phase excellent performance of the S-5P satellite has been
+demonstrated and key parameters regarding the payload’s radiometric sensitivity, spatial resolution and sampling
+capabilities could be fully veriﬁed. The Phase E1 speciﬁc measurement tasks will be completed in April ’18
+leading to the release of a second, overall update of L1B/2 processing chains and related calibration key data. The
+routine operations phase (Phase E2), with a nominal duration of 6.5 years, will commence immediately after the
+spacecraft In-Orbit Commissioning Review scheduled end April ’18.
+This paper will provide an overview of the S-5P commissioning tasks and report on results of early in-ﬂight
+calibration activities. An outlook will be given on the transition to the routine operations phase.
+
+

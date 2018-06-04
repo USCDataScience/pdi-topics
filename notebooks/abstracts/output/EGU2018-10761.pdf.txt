@@ -1,0 +1,28 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10761, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Extreme Earth: Advancing global storm resolving models to usher in a
+new era of climate modelling and climate change science.
+
+Bjorn Stevens
+Max Planck Institute for Meteorology, Managing Director, Hamburg, Germany (bjorn.stevens@mpimet.mpg.de)
+
+Over the past decades climate models have contributed to many advances in our understanding of climate change.
+So it should come as no surprise that some of the most outstanding open problems in climate science, questions
+such as how clouds and circulation respond to warming, can be linked to basic and well recognized deﬁciencies
+in how these models are formulated. In the past, computational limitations and incomplete understanding forced
+us to accept these deﬁciencies. Today, the computational limitations are falling away, and a new quality of climate
+model— Global Storm (or Cloud) Resolving Models — is coming into more common use. By virtue of their
+ability to resolve the main modes of energy transport, these models (and their oceanic counterparts) provide a more
+fundamental representation of the climate system, and a more direct link to observations, than is possible with the
+quasi-two dimensional models that we have become accustomed to. By more naturally linking diabatic processes
+to circulation, these models offer the best chance to make progress on what otherwise seem to be intractable
+problems: from quantifying radiative forcing, to bounding climate sensitivity, to assessing factors inﬂuencing shifts
+in circulation patterns, to determining the origins of extremes. In this talk I will describe how and why differences
+between Global Storm Resolving Models and traditional climate models are so decisive. I will also outline how
+Extreme Earth, a European Initiative on Future and Emerging Technology, proposes to enable the use of Global
+Storm Resolving Models to usher in a new era of climate modelling and climate change science
+
+

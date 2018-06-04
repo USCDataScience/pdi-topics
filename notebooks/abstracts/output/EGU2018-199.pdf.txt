@@ -1,0 +1,30 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-199, 2018
+EGU General Assembly 2018
+© Author(s) 2017. CC Attribution 4.0 license.
+
+Improving weather forecasts by assimilation of crowdsourced
+meteorological data in NWP models
+
+Gert-Jan Steeneveld (1), Sytse Koopmans (1), and Ronald van Haren (2)
+(1) Wageningen University, Meteorology and Air Quality Section, Wageningen, Netherlands (gert-jan.steeneveld@wur.nl), (2)
+Netherlands eScienceCenter, Amsterdam, The Netherlands
+
+Crowdsourcing and citizen science contributions have become more and more a valuable approach in the at-
+mospheric sciences. Hobby meteorologists put forward their collected data on platforms as www.netatmo.com
+, www.weathersignal.com , www.wunderground.com, and wow.metofﬁce.gov.org. Moreover smartphones provide
+pressure observations, air temperature, humidity directly from sensors, but can also be estimated from smartphone
+battery temperatures. In addition, many weather observations are being collected from a variety of transport modes.
+This development helps to understand the weather in data-scarce regions. So far, crowdsourced data have mainly
+been used for academic research by evaluating them against routine observations, and for numerical model val-
+idation. In this study we explore the added value of crowdsourced observations in numerical weather prediction
+via data-assimilation into initial ﬁelds of the Weather Research and Forecasting model. The highest relevance is
+expected for weather phenomena are characterised by small-scale processes, since the crowdsourced data are excel-
+lent for ﬁlling gaps in route measurement networks. In this study we will apply data assimilation of private weather
+station data for forecasting the urban heat island (UHI) effect of Amsterdam at 100 m grid spacing. Thereto we
+present a new method for assimilating air temperatures into an urban canopy scheme. It is shown that the additional
+data assimilation improves the UHI prediction. Moreover, we will show that data assimilation of private weather
+stations observations substantially improves the forecast for a squall line that inundated a large part of Amsterdam
+on July 28th 2014. With data assimilation, both intensity and location are substantially improved.
+
+

@@ -1,0 +1,37 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-11224, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The Mediterranean aerosol scientiﬁc research : history and recent
+progress from ChArMEx
+
+François Dulac
+LSCE, CEA-CNRS-UVSQ, IPSL, Université Paris-Saclay, Gif-sur-Yvette, France (francois.dulac@cea.fr)
+
+This presentation is focused on the tropospheric aerosol in the Mediterranean region. The Mediterranean basin
+is situated at the interface between contrasted regions of three continents (southern Europe, northern Africa
+and the Middle East), and is bordered by as many as 21 countries with densely populated coastal regions.
+As a consequence, the aerosol over the basin is strongly impacted by long-range transport from a variety of
+continental sources. In addition, the long and dry Mediterranean summer seasons favours aerosol accumulation
+so that background particle concentrations are often larger over the basin than over most of continental Europe.
+In particular, desert dust dominates the total mass of aerosol particles over the basin, whereas the ﬁne particle
+fraction is dominated by sulphate in the eastern basin and organics in the western part.
+
+A brief history of tropospheric aerosol studies in the region based on an extensive literature review extend-
+ing up to 2011 is given, starting with desert dust observations in Israel in the late 1960’s. Developments of ﬁeld
+campaigns including research vessels and research aircraft, in situ background monitoring station, remote sensing
+and modelling are listed, and associated improvements in our knowledge of the regional aerosol are illustrated.
+
+From 2012 on, the focus is put on highlights from the strong experimental and modelling effort undertaken
+as part of the Chemistry Aerosol Mediterranean Experiment (ChArMEx), a federated multilateral project to
+explore the atmospheric environment and its impacts on air quality, regional climate and marine biogeochemistry.
+In particular, ﬁve summer airborne campaigns including research aircraft and long-range drifting balloons for two
+of them, were performed in 2012, 2013 and 2014, and a shipborne campaign in late spring 2017. Work packages
+on emissions and sources, chemical processes and ageing, aerosol-radiation interactions, aerosol deposition,
+variability and trends, and future evolution have brought many new results (see also respective work package
+overview presentations in the same session). Many ChArMEx-related results can be found in a special issue
+(https://www.atmos-chem-phys.net/special_issue334.html) and a large database is available upon user registration
+(http://mistrals.sedoo.fr/ChArMEx/).
+
+

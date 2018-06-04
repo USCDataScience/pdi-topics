@@ -1,0 +1,31 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-12440, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+In situ detection of microbial fossils on planetary bodies by combined
+laser mass spectrometry and optical microscopy
+
+Reto Wiesendanger (1,7), Peter Wurz (1), Marek Tulej (1), David Wacey (2), Anna Neubeck (3), Valentine
+Grimaudo (4), Andreas Riedo (5), Pavel Moreno (4), Alena Cedeno Lopez (4), and Magnus Ivarsson (6)
+(1) Space Research & Planetary Sciences, University of Bern, Sidlerstrasse 5, 3012 Bern, Switzerland
+(reto.wiesendanger@space.unibe.ch), (2) Centre for Microscopy Characterisation and Analysis, The University of Western
+Australia, Perth, WA 6009, Australia, (3) Department of Geological Sciences, Stockholm University, Sweden, (4) Department
+of Chemistry and Biochemistry, Interfacial Electrochemistry Group, University of Bern, Bern, Switzerland, (5) Sackler
+Laboratory for Astrophysics, Leiden Observatory, Leiden University, The Netherlands., (6) 5Department of Paleobiology and
+Nordic Centre for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden., (7) Microsystems for Space
+Technologies Laboratory, Ecole Polytechnique Fédérale Lausanne, Rue de la Maladière 71b, Neuchâtel, Switzerland
+
+The in-situ detection of fossilised forms of microbial life on planetary bodies requires thorough analysis of the
+chemistry, mineralogy, and morphology of the putative fossil and its host. We developed a dedicated instrument
+suite that fulﬁls the severe requirements of space ﬂight as well as the scientiﬁc performance for such an endeavour
+with high accuracy and reliability. The suite consists of a high vacuum compatible microscope with micrometre
+resolution and a mass spectrometer able to detect trace elements down to the ppb level with permill accuracy. The
+instrument suite is designed to ﬁt on typical planetary landers. We built a ﬂight prototype and we will present its
+architecture and design features, as well as its key performance factors.
+Using the 1.9 billion year old gunﬂint chert as an analogue sample, we demonstrate how different types of
+microbial fossils and the host regions on the sample can be distinguished and selected for chemical analysis. We
+will present the results of the chemical and imaging analysis of the selected locations and assign the sampled
+locations to known groups of fossilized bacteria.
+
+

@@ -1,0 +1,31 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10490, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The RAVAN CubeSat mission: overview and results
+
+William Swartz (1), Steven Lorentz (2), and Philip Huang (1)
+(1) Johns Hopkins University Applied Physics Laboratory, Laurel, Maryland, USA (bill.swartz@jhuapl.edu), (2) L-1
+Standards and Technology, Manassas, Virginia, USA
+
+The small imbalance between the incident solar irradiance and Earth-leaving ﬂuxes of total and shortwave solar-
+reﬂected energy is vital to understanding and predicting climate change. Accurately quantifying the spatial and
+temporal variation of Earth’s outgoing energy from space is a challenge—one potentially rendered more tractable
+with the advent of multipoint measurements from small satellite or hosted payload constellations. The Radiometer
+Assessment using Vertically Aligned Nanotubes (RAVAN) 3U CubeSat, launched November 11, 2016 and still
+operating over a year later, is a pathﬁnder for a constellation to measure the Earth’s energy imbalance. Funded
+by NASA’s Earth Science Technology Ofﬁce, the objective of RAVAN is to establish that compact, broadband
+radiometers calibrated to high accuracy can be built and operated in space for low cost. We present an overview
+of the mission and on-orbit results demonstrating RAVAN’s two key technologies. First, we show measurements
+of the solar irradiance and Earth’s outgoing energy with radiometers that use vertically aligned carbon nanotube
+(VACNT) absorbers. VACNT forests are some of the blackest materials known and have an extremely ﬂat spectral
+response over a wide wavelength range. The measurements are made at both shortwave, solar wavelengths and
+in the thermal infrared. Second, we show the performance of two gallium phase-change cells that are used to
+monitor the degradation of RAVAN’s radiometer sensors. A 3-axis controlled CubeSat bus allows for routine solar
+and deep-space attitude maneuvers, which are essential for calibrating RAVAN’s Earth radiation measurements.
+RAVAN also demonstrates partnering with a commercial vendor for the CubeSat bus, payload integration and test,
+and mission operations. This paradigm has allowed us to focus on technology development essential to the new
+Earth measurement.
+
+

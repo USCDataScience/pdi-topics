@@ -1,0 +1,25 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18515, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Hurricane Harvey and its associated intense rainfall in the Houston area
+
+Jarrett Davidson (1), Bernhard Rappenglück (1), and Lance Wood (2)
+(1) University of Houston, Department of Earth and Atmospheric Sciences, Houston, United States (brappenglueck@uh.edu),
+(2) Houston-Galveston National Weather Service (NOAA)
+
+On August 25th 2017, Hurricane Harvey made landfall near Corpus Christi, Texas as a category 4 hurricane with
+maximum sustained winds of 130 mph, produced highest rainfall totals of 50 inches in some areas of Houston,
+Texas, caused 77 deaths and estimated damages are still being calculated and have reached $180 billion dollars.
+This study describes meteorological data from genesis to landfall of Hurricane Harvey and tries to pinpoint which
+of the tropical cyclone conditions allowed this storm to strengthen and produce the signiﬁcant amount of rain
+during its lifespan in the Houston area. The favorable conditions that played a part in the genesis and intensiﬁcation
+of Harvey include sea surface temperature, wind shear, convection and general atmospheric circulation along its
+trajectory. Special attention will be given to the spatial and temporal development of precipitation and wind speeds,
+as well as travel time and path of Harvey after landfall, since these conditions caused most of the damage. This
+work also investigates potential diurnal impacts, which have been proposed to cause deep moist convection as
+Hurricane Harvey continued to gain intensity in the nighttime hours causing rainfall rates and wind speeds to
+increase.
+
+

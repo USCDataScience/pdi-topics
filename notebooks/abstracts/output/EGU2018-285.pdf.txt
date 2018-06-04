@@ -1,0 +1,27 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-285, 2018
+EGU General Assembly 2018
+© Author(s) 2017. CC Attribution 4.0 license.
+
+Weakening of the senegalo-mauritanian upwelling system under climate
+change in the CMIP5 data base
+
+Adama Sylla (1), Juliette Mignot (2), Xavier Capet (2), and Amadou Gaye (1)
+(1) LPAOSF, ESP/UCAD, Dakar, Senegal, (2) LOCEAN, IRD-UPMC-CNRS-MNHN, Paris, France
+
+The oceanic region located off the Guinean, Senegalese and Mauritanian coasts is one of the most productive one
+in the world ocean. This is due to the senegalo-mauritanian upwelling system. This upwelling occurs in winter
+which is very speciﬁc to this region. In particular, it differs from the well-known upwelling systems located along
+the eastern coast of the tropical oceans but further poleward such as along the Moroccan, Californian, Peru-Chili
+and Benguela coasts. These upwelling systems are maximum in summer. Several studies have investigated their
+sensitivity to global warming. Early studies have suggested that their intensity may increase in the future, but
+recent observations do not show clear robust evidence. The winter senegalo-mauritanian upwelling system has
+been largely excluded from these studies, in spite of its crucial role for the socio-economical development of the
+populations of the surrounding region, whose food and income strongly depend of the halieutic resources.
+In this context, this study proposes a precise characterization of the representation of this system in the CMIP5
+climate models, and its response to climate change. Our analysis is based on characteristics of the upwelling
+in terms of wind forcing, anomalous sea surface height and sea surface temperature signature. In spite of some
+diversity in the model’s ability to represent the senegalo-mauritanian upwelling system, the results suggest that its
+intensity may decrease in the future, primarily because of a reduction of the wind forcing.
+
+

@@ -1,0 +1,34 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-9610-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+NOAA’s Strategic Plans for operational environmental modeling
+
+Hendrik Tolman and Ivanka Stajner
+NOAA/National Wearher Service, Silver Spring, Maryland, U.S.A. (hendrik.tolman@noaa.gov)
+
+The US National Weather Service (NWS) runs a large number of operational models, generally know as the
+Production Suite. Driven by external reviews, a strategic plan and a roadmap for the production suite have been
+developed. Planning has been done at four stages.
+
+1. A NOAA-wide Uniﬁed Modeling Committee (UMC) coordinates modeling between the NOAA line of-
+ﬁces, including the NWS. The UMC provides strategic guidance to NOAA.
+
+2. A Strategic Vision document has been developed outlining a transition of NOAA environmental model-
+ing to a Uniﬁed Community approach. This is a strategic document, approved by the senior leadership of NOAA
+Line Ofﬁces.
+
+3. A roadmap document has been developed to outline how the Production Suite of the NWS and its part-
+ners can with transition to an approach based on a Uniﬁed Forecast System across scales, including a fully coupled
+environmental modeling approach, with full resolution ensembles and reforecasts and reanalyses. This represents
+a 5-10 year plan approved by senior leadership of LOs contributing to the Production Suite.
+
+4. A strategic implementation plan has been developed to implement the Roadmap. This is a three-year ex-
+ecution plan, that will be updated annually, and is review by the funding authorities within the line ofﬁces.
+
+The presentation will review the main elements of the four plans, as well as the status of the transition of
+the Production Suite to its new uniﬁed and simpliﬁed conﬁguration for seamless prediction across local to global
+spatial scales with temporal ranges from minutes to seasons.
+
+

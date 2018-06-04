@@ -1,0 +1,45 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18974, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+LOFAR for Space Weather (LOFAR4SW) H2020 program
+
+Hanna Rothkaehl (1), René Vermeulen (2,4), Richard Fallows (2), Joris Verbiest (3), Nicole Vilmer (5), Michael
+Olberg (6), Mario Bisi (7), and Peter Gallagher (8)
+(1) Space Research Centre Polish Academy of Sciences, Warsaw, Poland (hrot@cbk.waw.pl), (2) ASTRON, Dwingeloo, The
+Netherlands, (3) Bielefeld University, Bielefeld, Germany, (4) The International LOFAR Telescope (ILT), Dwingeloo, The
+Netherlands, (5) Observatoire de Paris, Paris, France, (6) Onsala Space Observatory (OSO), Onsala, Sweden, (7) The
+Rutherford Appleton Laboratory (RAL), Chilton, England, (8) Trinity College Dublin ( TCD), Dublin, Ireland
+
+The LOFAR for Space Weather (LOFAR4SW) is an international project the aim of which is to deliver the full
+conceptual and technical design for creating a new leading-edge European research facility for space weather
+science.
+The project will engage with stakeholders to prepare a facility which produces unique research data
+with key impact on advance predictions of space weather events affecting crucial technological
+infrastructures of today’s society.
+
+The objective of LOFAR4SW is to prepare for a large scale high-end research facility in which completely
+simultaneous, independent observing modes and signal paths provide continuous access to two research commu-
+nities: radio astronomy and space weather research.
+
+Space weather science aims,
+through observation, monitoring, analysis and modelling, at understanding
+and ultimately predicting the complex state of the solar wind - magnetosphere - ionosphere - thermosphere system,
+and the potential impact on biological and technological systems on Earth. Increased fundamental knowledge,
+coupled to large-scale monitoring programs, is needed for much more advanced predictions of the impact of space
+weather events on Earth.
+
+A fully-implemented LOFAR4SW system will enable a wide range of solar and space weather research
+topics to be tackled and have unique strengths in several high-impact science areas: tracing the initial launch
+of a CME; detailed tracking of the solar wind and CMEs through interplanetary space; in-depth studies of
+micro-structure in the Earth’s ionosphere.
+This facility will uniquely provide the missing link of measurements of the interplanetary magnetic ﬁeld on global
+scales – a key parameter in forecasting the severity of geomagnetic storm on Earth. The LOFAR4SW will allow
+scientists to to answer many important questions with regard to the solar corona, the heliosphere, and Earth’s
+ionosphere.
+
+The action was started on December 2017 and the aim of this presentation is to show the main goals of
+the project and the initiated activities
+
+

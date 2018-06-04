@@ -1,0 +1,36 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-5460-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Toward an updated empirical thermospheric models from additional
+thermospheric data and new geomagnetic indices: perspectives from the
+H2020 SWAMI activity
+
+Claudia Stolle (1,2), Sean Bruinsma (3), David Jackson (4), Sandra Negrin (5), Yuri Shprits (1,2), Jürgen Matzka
+(1), Ruggero Vasile (1), Irina Zhelavskaya (1,2)
+(1) GFZ Potsdam, Section 2.3 Geomagnetism, Potsdam, Germany, (2) University of Potsdam, Faculty of Science, Potsdam,
+Germany, (3) CNES, Toulouse, France, (4) Met Ofﬁce, Exeter, United Kingdom, (5) DEIMOS, Madrid, Spain
+
+Scientiﬁc Low Earth Orbiting (LEO) satellites monitor parameters that are relevant for space weather quantiﬁ-
+cation and modelling. The missions provide global coverage and, thanks to their duration of several years, they
+also provide excellent opportunities for developing global empirical and physical models of the ionosphere and
+thermosphere.
+This presentation includes perspectives from the H2020 project SWAMI (Space Weather Atmosphere Model and
+Indices) that started in January 2018. Within this activity, the CIRA thermosphere speciﬁcation model DTM2013
+will be improved by assimilating more neutral density data to reduce remaining biases due to incomplete modelling
+of solar activity and seasonal variations. These new data includes ﬁve more years of GRACE high-resolution
+observations from 2012-2016, the last year of the GOCE mission, Swarm mean density data, and mean neutral
+densities from 2010-2017 inferred from geodetic satellites at about 800 km.
+In the early phase of the project, the DTM2013 model will be compared with these new density data to identify
+systematic errors. The model performance under geomagnetic storm conditions will be analysed and used as a
+benchmark for comparison with new models that are parameterized with a higher cadence (< 3 h) Kp index and
+empirical Kp predictions.
+Within the SWAMI activity, the upper boundary of the Met Ofﬁce Uniﬁed Model (UM) shall be extended from
+around 85 km to around 150-170 km. A key building block of this extended UM is the development of new
+radiation schemes in the ultraviolet and extreme ultraviolet parts of the spectrum. The DTM will then be coupled
+to the UM at around the 120-160 km altitude region in order to create a whole atmosphere model. The resulting
+model can be used for launch operations, re-entry computations, orbit prediction, and aeronomy and space weather
+studies.
+
+

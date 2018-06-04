@@ -1,0 +1,38 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-5231, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Toward an empirically-based characterization of methane emissions from
+oil and gas: from atmospheric measurements to effective emission
+reductions
+
+Daniel Zavala-Araiza (1) and Steven P. Hamburg (2)
+(1) Environmental Defense Fund, Climate and Energy Program, Austin, United States (dzavala@edf.org), (2) Environmental
+Defense Fund, New York, United States (shamburg@edf.org)
+
+Methane, the principal component of natural gas, is a powerful greenhouse gas. While there are several sources of
+anthropogenic methane (e.g., agriculture, waste sector), oil and gas infrastructure is physically concentrated and
+the number of organizations responsible for operating this equipment is relatively limited: creating an opportunity
+for rapid cost-effective mitigation that can yield signiﬁcant and rapid climatic beneﬁts.
+
+There is uncertainty in the scale and location of methane emissions from oil and gas infrastructure within
+and among regions of the world. An empirically-based characterization of emission sources is critical to improv-
+ing emission inventories and implementing effective mitigation strategies.
+
+We synthesize results from recent multi-scale ﬁeld studies (i.e. aircraft-based, ground-based) across North
+America, where empirical data clearly indicate that emissions are higher than inventories suggest, and there is a
+disproportionate contribution from a small fraction of high-emitting sites/facilities to total emissions.
+
+We highlight speciﬁc examples where the information produced by the multi-scale studies has guided a di-
+versity of decision makers including (i) improvements/updates to national emission inventories, (ii) collaborations
+that focus on detecting and quantifying high-emitting sources, (iii) national and sub-national entities that have
+incorporated empirical data into the design of effective regulations.
+
+Finally, we identify sectors and geographies within the oil and gas supply chain where similar work is
+needed to reduce uncertainty and identify further mitigation opportunities. We summarize how the Climate and
+Clean Air Coalition (CCAC) Oil and Gas Methane Study and the Integrated Global Greenhouse Gas Information
+System (IG3IS) will expand this effort, and the importance of ensuring transparency of the collected data, external
+review, deployment of multiple methodologies, and publication of results in peer-reviewed journals.
+
+

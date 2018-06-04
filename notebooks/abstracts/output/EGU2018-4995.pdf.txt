@@ -1,0 +1,30 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-4995, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Ionospheric changes caused by solar eclipse August 21st 2017, as obtained
+by GPS observations
+
+M.Mahdi Alizadeh, Sahar Sobhkhiz, and Saeed Zare
+K.N.Toosi University of Technology, Department of Geodesy, Tehran, Iran, Islamic Republic Of (m.alizadeh@email.com)
+
+Ionosphere is the upper layer of the atmosphere and is produced when Sun’s radiation ionizes atoms and molecules
+within this layer.
+Different natural and artiﬁcial phenomena affect physical behavior of the Earth’s ionosphere. Among these, solar
+eclipse is a phenomenon which has an apparent effect on the ionosphere. Solar eclipses occur when Sun, Earth
+and Moon are aligned at the phase of new Moon, in which the Moon is placed directly between the Sun and the
+Earth and its shadow falls on the Earth.
+Remote sensing the ionosphere during the solar eclipse provides great opportunity to study this phenomena and
+the behavior of ionospheric parameters through its occurrence.
+On each solar eclipse the geometry of eclipse formation, magnetizes plasma differently so none of them make
+exact similar disturbances. In this study we investigate the effects of the solar eclipse on ionospheric models
+and scintillation indices before, during, and after eclipse incidence at August 21st 2017. Daily observations
+from ground-based IGS stations over North-America were used for ionosphere modeling and also high-rate GPS
+observations from UNAVCO data center which includes thousands of globally distributed permanent station
+network were used for studying scintillation indices.
+The driven results of this study demonstrate that scintillation effects are signiﬁcantly reduced when solar eclipse
+occurs. Regarding TEC models, our results conﬁrm previous studies on ionospheric responses to eclipse as well
+as theoretical assumptions.
+
+

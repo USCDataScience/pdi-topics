@@ -1,0 +1,24 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-8393, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+O3 and its precursors in Shanghai, China: Characteristics and insights on
+regional control policy
+
+Shengrong Lou (1), Hongli Wang (1), Li Li (1), Shengao Jing (1), Qian Wang (1), Rusha Yan (1), Cheng Huang
+(1), and Xiaobing Li (2)
+(1) Shanghai Academy of Environment Sciences, Atmospheric Research Department, China (lousr@saes.sh.cn), (2) Shanghai
+Jiao Tong University, School of Mechanical Engineering
+
+Ozone pollution become a major topic in summer seasons in Shanghai, the largest megacity in Yangtze-River-Delta
+Region. Series of measurements on ozone and its precursors were taken at ozone season in 2014-2017. The charac-
+teristics of VOCs in city center, suburban area and industrial area were quite distinctive. Aromatics were the main
+contributor to ozone pollution in city center area while alkenes were important in industrial area. Regional trans-
+port of air mass brought large amount of ozone in some polluted cases. Ozone LIDAR was applied to investigate
+the vertical proﬁle of ozone concentration in boundary layer and ozone transport. A detailed analysis on transport
+route showed that ozone produced in surrounding cities could transport up to several hundred kilometers, leading
+to a severe inﬂuence on night chemistry of Shanghai. The control policy of ozone in Shanghai was developed based
+on the founding above.
+
+

@@ -1,0 +1,34 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-19659, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Long-term Monitoring of Methane Emissions from Natural Gas
+Production in the Marcellus shale
+
+Zachary Barkley, Thomas Lauvaux, Natasha Miles, Scott Richardson, Aijun Deng, Douglas Martins, Kenneth
+Davis, Colm Sweeney, Kathryn McKain, Tom Murphy, Russ Dickerson, Xinrong Ren, Joshua DiGangi, and Alan
+Fried
+
+According to the US Environmental Protection Agency, more than 10% of all methane (CH4) emissions in the U.S.
+are located along the western edge of the Appalachian mountains with the majority of these emissions coming from
+natural gas infrastructure and coal mines. However, short-term atmospheric top-down studies over unconventional
+wells in Pennsylvania have found emission rates to be much higher than reported estimates. To better understand
+the causes of the discrepancy, we present the ﬁrst long-term (i.e.8-month) top-down estimates from a tower network
+deployed across the Marcellus shale, measuring continuously CH4 and isotopic mixing ratios of 13CH4 at four
+locations. We quantiﬁed gas-related emissions and compared our results to a high-resolution inventory and a one-
+month aircraft campaign with 10 mass-balance emission estimates over the region. We also use the WRF-Chem
+mesoscale model at 3km resolution to simulate CH4 enhancements from a customized emissions inventory and
+compare the modelled enhancements to observations from the 10 ﬂights that were downwind of unconventional gas
+wells. Based on the same modeled wind ﬁelds coupled to a Lagrangian Particle Dispersion model, we performed an
+18-month Bayesian inversion. With repeated periods of enhanced atmospheric signals, we highlight the presence
+of large temporal variations over four to six weeks, based on our long-term tower data set. We conclude here
+that both aircraft- and tower-based emissions estimates show larger CH4 emissions than reported by the US EPA.
+However, the overall leakage rate reported on a production basis remains small thanks to the high-producing wells
+across the northeastern Marcellus shale region. To solve the source attribution problem, we also present how
+we calibrated 13CH4 CRDS analyzers deployed at four locations which allowed us to separate natural gas from
+biogenic sources. Finally, recent results from the Atmospheric Carbon and Transport (ACT-America) campaign
+using ethane measurements to separate coal from natural gas CH4 emissions, highlighting the potential use of
+atmospheric tracers to attribute emissions to speciﬁc sectors of activities.
+
+

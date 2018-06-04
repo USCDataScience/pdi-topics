@@ -1,0 +1,34 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-4468, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+On the Anthropogenic Origin of Noctilucent Clouds
+
+Franz-Josef Lübken, Uwe Berger, and Gerd Baumgarten
+Leibniz Institute of Atmospheric Physics, Kühlungsborn, Germany (luebken@iap-kborn.de)
+
+The MIMAS (Mesospheric Ice Microphysics and Transport) ice model is used to study the trend behavior of
+polar mesospheric clouds (PMCs) responding to long-term changes in mesospheric temperatures and water vapor
+at northern middle and high latitudes from 1871 until now. The calculated trends in PMC formation are partly
+forced by a long-term change in the thermal and compositorial state of the atmospheric background. We estimate
+the climate change in the PMC environment using trend studies with our Leibniz-Institute Middle Atmosphere
+(LIMA) model. We take into account long-term changes in solar activity and trace gas distributions. Furthermore,
+LIMA adapts NOAA CIRES 20thC V2 reanalysis data (20th century) that describes the temporal evolution of
+troposphere/lower stratosphere since 1871.
+In the past we have concentrated on trends in ice layers mainly for periods after the late 1970s since satellite
+observations of background Parameters relevant for our topic are available since then. More recently we have
+extended our trend analysis of background temperatures and noctilucent Clouds (NLC) to a longer period, namely
+from 1871 to present. We concentrate on the most important drivers for NLC trends, namely carbon dioxide (CO2)
+and water vapor (H2O). Since the main increase of these species occurs in the last 40-50 years, NLC parameters
+such as occurrence frequency, mean integrated backscatter (IBS), mean altitude, and mean ice water content (IWC)
+increase accordingly. First, we will present and discuss long term trends in temperatures and water vapor. To
+separate their impact on the long term evolution of NLC, we have performed runs with temperature trends (caused
+mainly by increase of CO2) and water vapor trends (caused mainly by increase of CH4) separately. Trends of
+NLC parameters are rather small in the ﬁrst couple of decades (namely from 1870 until approximately 1960) and
+accelerate signiﬁcantly thereafter. We ﬁnd that the reason for the observed enhancement of NLC brightness in the
+last decades is primarily the increase of water vapor, whereas the decrease of temperatures plays a secondary role.
+In our presentation we will discuss the implications of our results for the role of NLC as indicators for climate
+change.
+
+

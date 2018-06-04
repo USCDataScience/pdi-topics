@@ -1,0 +1,39 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18466, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Fukushima Daiichi–derived radionuclides in the atmosphere, transport
+and deposition in Japan: a review
+
+Anne Mathieu (1), Mizuo Kajino (2,3,4), Irène Korsakissok (1), Raphael Périllat (1,5), Denis Quélo (1), Arnaud
+Quérel (1,6), Olivier Saunier (1), Thomas Sekiyama (2), Yasuhito Igarashi (2), and Damien Didier (1)
+(1) Institut de Radioprotection et de Sûreté Nucléaire (IRSN), PSE-SANTE, SESUC, BMCA, 92262, Fontenay-aux-Roses
+Cedex, France(anne.mathieu@irsn.fr), (2) 2Meteorological Research Institute (MRI), Japan Meteorological Agency (JMA),
+Tsukuba, Ibaraki 305-0052, Japan., (3) RIKEN Advanced Institute for Computational Science, Kobe, Hyogo 650-0047, Japan,
+(4) Faculty of Life and Environmental Sciences, University of Tsukuba, Tsukuba, Ibaraki 305-8577, Japan, (5) Phimeca
+Engineering, 75012, Paris, France, (6) Strathom Energie, 75002, Paris, France
+
+The Fukushima Daiichi Nuclear Power Plant accident of March 11 2011 led to a signiﬁcant release of radionu-
+clides in the environment. More than 99 % of the release activity in the atmosphere was due to highly volatile
+radionuclides such as I, Te, Cs, Xe, Kr.
+Fairly quickly after the accident, the main release events had been identiﬁed and their consequences roughly
+assessed. Most releases were dispersed over the Paciﬁc Ocean whereas about 20 % was dispersed over the Japan
+main highland causing areas of signiﬁcant deposit. Since then, the understanding of the different episodes has been
+greatly enhanced. It is appropriate to review what happened in terms of releases into the atmosphere, transport,
+and deposition of radionuclides on the Japanese territory (Mathieu et al 2018). We describe here, the current state
+of understanding of the release phase of the accident and the means used to achieve it.
+Numerous radiological measurements taken in the Japanese environment enabled the scientists to substantially
+reconstruct the four main sequences of contamination, to identify the probable trajectories of the radioactive
+plumes, and to link them with precipitation data to explain the areas of deposition.
+The measurements were supplemented by modelling techniques. The most signiﬁcant progress come from the
+quantiﬁcation of the atmospheric releases, the improvement of meteorological data to better take into account
+the inﬂuence of the complex orography on the plumes trajectories and the modelling of deposition processes.
+Notwithstanding more realistic simulations, progress is still to be made to accurately estimate people exposure
+due to the release phase of the FDNPP accident.
+An important result is that the bulk of the deposition was mostly generated at the beginning of the precipitation, by
+light rain in less than one hour. The scavenging of plume transported in altitude generates high deposition zones.
+Therefore, they do not necessarily match the zones within which inhalation exposure to the radioactive plumes
+was the largest.
+
+

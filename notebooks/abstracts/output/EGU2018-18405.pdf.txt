@@ -1,0 +1,28 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18405, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Coupling of atmosphere and ocean through a dynamic wave interface
+
+Joanna Staneva and Corinna Schrum
+HZG, Institute for Coastal Research, Geesthacht, Germany (joanna.staneva@hzg.de)
+
+The coupling of models is a commonly used approach when addressing the complex interactions between differ-
+ent components of earth system. In climate and forecasting research and activities, advanced models are needed
+and there is an urge towards the use of coupled modelling. This study presents the development of a new, high-
+resolution, coupled atmosphere, ocean and wave model system for the North Sea and the Baltic Sea, which is
+part of the Geestacht COAstal model SysTem GCOAST. We focus on the nonlinear feedback between strong tidal
+currents and wind-waves, which can no longer be ignored, in particular in the coastal zone where its role seems
+to be dominant. The proposed coupling parameterizations account for the feedback between of the upper ocean
+on the atmospheric circulation by accounting for the effects of sea surface temperature and the sea surface rough-
+ness. Several sensitivity experiments are performed to estimate the individual and collective effects of different
+coupling components. The performance of the coupled modelling system is illustrated for the cases of several
+extreme events. For example, the inclusion of wave coupling leads to decreases strong winds through wave de-
+pendent surface roughness or changes sea surface temperature, the mixing and ocean circulation; leading to better
+agreement with in-situ and satellite measurements. Comparisons with available atmospheric and oceanic observa-
+tions showed that the use of the fully coupled system reduces the errors, especially under severe storm conditions.
+This justiﬁes the further developments and implementation of the coupled model systems, (i.e. including the land,
+biogeochemical, ﬁshery, etc. components) for both, operational and climate, research and development activities.
+
+

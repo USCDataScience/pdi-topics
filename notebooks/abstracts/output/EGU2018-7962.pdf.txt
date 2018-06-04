@@ -1,0 +1,24 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-7962, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Seamless probabilistic analysis and forecasting: from minutes to days
+ahead
+
+Alexander Kann, Yong Wang, Aitor Atencia, Nauman Awan, Markus Dabernig, Josef Kemetmüller, Florian
+Meier, Irene Schicker, Lukas Tüchler, Clemens Wastl, and Christoph Wittmann
+Central Institute for Meteorology and Geodynamics, Numerical Weather Prediction, Vienna, Austria
+(alexander.kann@zamg.ac.at)
+
+During the last years, a seamless probabilistic forecasting system (SAPHIR) has been continuously developed at
+ZAMG. The system is designed to provide the best possible deterministic weather information as well as proba-
+bilistic forecasts on very high resolution (1km). The system is updated up to every 10 minutes and spans the forecast
+horizons from the current state of the atmosphere, minutes to hours ahead, up to the short range of +72 hours. The
+system integrates various kinds of observation data (i.e. station data, radar and satellite data) and smartly combines
+observation-based analysis and nowcasting methods, ensemble nowcasting, a convection-permitting RUC model,
+a convection-permitting EPS, ensemble calibration, and regional and global deterministic and probabilistic NWP
+models.
+The concept of the system and ﬁrst results will be presented and discussed.
+
+

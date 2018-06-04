@@ -1,0 +1,26 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-8917, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The Causes of the Little Ice Age
+
+Alan Robock and Brian Zambri
+Rutgers University, Department of Environmental Sciences, New Brunswick, NJ, United States (robock@envsci.rutgers.edu)
+
+Both external forcing (solar radiation, volcanic eruptions) and internal ﬂuctuations have been proposed to explain
+such multi-centennial perturbations as the Little Ice Age. Conﬁdence in these hypotheses is limited due to the
+limited number of proxies, as well as only one observed realization of the Last Millennium. Here, we evaluate dif-
+ferent hypotheses on the origin of Little Ice Age-like anomalies, focusing in particular on the long-term response of
+North Atlantic and Arctic climate perturbations to solar and volcanic perturbations. For that, we conduct a range of
+sensitivity tests carried out with the Community Earth System Model at the National Center for Atmospheric Re-
+search, focusing in particular on the sensitivity to initial conditions and the strength of solar and volcanic forcing.
+By comparing the climate response to various combinations of external perturbations, we demonstrate nonlin-
+ear interactions that are necessary to explain trends observed in the fully coupled system and discuss physical
+mechanisms through which these external forcings can trigger multidecadal modes of the Atlantic Multidecadal
+Oscillation and subsequently lead to a Little-Ice-Age-like regime. For that, we capture and compare patterns of
+the coupled atmosphere-sea-ice-ocean response as revealed through a range of data analysis techniques. We show
+that the large 1257 Samalas, 1452 Kuwae, and 1600 Huaynaputina volcanic eruptions were the main causes of the
+multi-centennial glaciation associated with the Little Ice Age.
+
+

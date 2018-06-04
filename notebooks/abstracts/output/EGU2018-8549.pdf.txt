@@ -1,0 +1,62 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-8549, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Index-based insurance design for drought and ﬂood events in rice
+cultivation
+
+Omar Valverde Arias (1), Alberto Garrido (1,2), Ana Maria Tarquis (1,3)
+(1) CEIGRAM, ETSIAAB, Universidad Politécnica de Madrid (UPM), Practice ﬁeld of School Agricultural Engineering,
+Senda del Rey St. 13, 28040 Madrid, Spain (omar.valverde@upm.es), (2) Department of Agricultural Economics and Social
+Sciences, ETSIAAB, UPM, Ciudad Universitaria s.n., 28040 Madrid, Spain (alberto.garrido@upm.es), (3) Department of
+Applied Mathematics ETSIAAB, UPM, Ciudad Universitaria s.n., 28040 Madrid, Spain (anamaria.tarquis@upm.es)
+Index-based insurance is a very efﬁcient strategy for protecting farmers(cid:48) incomes, when a climatic catastrophic
+event occurs. The extreme climatic events that affect farmers more frequently are drought and ﬂoods, which in
+turn are associated with large economic. Index-based insurance does not need in situ veriﬁcation of the insured
+event, with the occurrence being determined by an index that is much correlated with the farmer(cid:48)s losses.
+
+For this study, we rely in previous studies, which helped determine agro-ecological homogenous zones
+(AHZ) with similar climatic and soil conditions through principal components analysis. In the rice crop study
+area, in Babahoyo canton-Ecuador, two main AHZ were delimited, named f7 and f15. The differences among
+these two AHZs, both over bare soil and over rice crop, were statistically signiﬁcant using soil reﬂectance and
+NDVI respectively. The most important soil differences between zones f7 and f15 are slope, texture, and effective
+depth; and related with climate is precipitation.
+
+In this stage of the study, seventeen years of NDVI data (2001-2017) along rainfed rice crop cycle in
+Ecuador (January to May) were analysed using MODIS imagery. It permitted sampling rice yield in zones f7 and
+f15 during rice crop cycle of 2016 and 2017. Then, these yields were correlated with its corresponding NDVI
+values, obtaining a correlation coefﬁcient of 0.84. The correlation coefﬁcient between the estimated yields with
+found yields was also acceptable (0.8). Therefore, we have chosen NDVI as an index for indicating the occurrence
+of drought and ﬂooding, due to the high sensibility of this index to these events, evidenced in the temporal data
+analysis and for its high correlation with yield.
+The threshold value of NDVI average of rice crop cycle was 0.4, which was established through the mean of
+the years that were deeply affected by drought (2013, 2016) and ﬂoods (2008, 2012). Although, that NDVI was
+found signiﬁcant different between zones f7 (0.45) and f15 (0.48), we could use a unique threshold value (0.4) for
+monitoring drought and ﬂooding events in both zones. The differences found in zones f7 and f15 were reﬂected in
+the insurance’s premium price, because each zone faces different drought and ﬂooding risk, and the ensured yield
+is going to be different between these zones (f7=5.1 TM/ha and f15=6.7 TM/ha).
+
+ACKNOWLEDGEMENTS
+Financial support of Omar Valverde Ph.D. studies in UPM by National Secretary of Higher Education Science
+Technology and Innovation of Ecuador (SENESCYT in Spanish) is greatly appreciated. The authors would like to
+also acknowledge to CGSIN-MAGAP for the data provided.
+
+REFERENCES
+Arias, O.V., Garrido, A., Villeta, M., Tarquis, A.M., 2017. Homogenisation of a soil properties
+map by principal
+insurance policies. Geoderma.
+doi:http://dx.doi.org/10.1016/j.geoderma.2017.01.01
+Valverde-Arias, O., Garrido, A., Valencia, J.L., Tarquis, A.M., 2018. Using geographical information system
+to generate a drought risk map for rice cultivation: Case study in Babahoyo canton (Ecuador). Biosyst. Eng.
+doi:https://doi.org/10.1016/j.biosystemseng.2017.08.007
+
+index agricultural
+
+component
+
+analysis
+
+to deﬁne
+
+

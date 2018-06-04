@@ -1,0 +1,26 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-7297, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Mutual Information and Entropy based Band Selection for
+Spectral-Spatial Classiﬁcation of Hyperspectral Images
+
+Subir Paul and Nagesh Kumar Dasika
+Department of Civil Engineering, Indian Institute of Science, Bengaluru, India (subirpaul@iisc.ac.in)
+Hyperspectral (HS) datasets are comprised of large numbers of spectral bands (∼100-300) with very narrow band-
+width (∼5-10 nm), which are proven to be very efﬁcient for land-use land-cover classiﬁcation and numerous other
+applications. However, the ﬁne spectral and spatial resolution of the HS dataset as compared to multi-spectral data
+introduces the complexity of high dimensionality leading to high computational cost in data processing. In order to
+address this issue besides achieving a signiﬁcantly improved classiﬁcation performance, a simple information the-
+ory based band (or feature) selection approach is proposed in this study. Moreover a spectral-spatial classiﬁcation
+technique is used to further enhance the classiﬁcation accuracy. The proposed approach utilizes an unsupervised
+feature selection technique based on the information theory measures, mutual information and entropy. Spatial
+information is included in the model by creating the morphological proﬁles corresponding to the spectral features
+(bands) to improve the classiﬁcation performance. The classiﬁcation is carried out using the spectral-spatial fea-
+tures in the support vector machine (SVM) classiﬁer. This classiﬁcation approach has been evaluated for two HS
+datasets i.e. Indian Pines and Botswana and the achieved overall accuracies are 94.05±0.66% and 97.01±0.77%
+respectively. Further analysis also suggested that the proposed approach performs comparatively better than other
+feature selection based classiﬁcation approaches available in literature.
+
+

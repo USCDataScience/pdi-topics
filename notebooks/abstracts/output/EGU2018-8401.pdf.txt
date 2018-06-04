@@ -1,0 +1,43 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-8401, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Increasing the contribution of satellite gravity ﬁeld missions to the
+investigation of the thermosphere-ionosphere
+
+Eelco Doornbos (1), Claudia Stolle (2), Martin Rother (2), Gang Lu (3), Brian Anderson (4), Tim Visser (1), Jose
+van den IJssel (1), Pieter Visser (1), Bjorn Frommknecht (5), and Fabrice Cipriani (6)
+(1) Delft University of Technology, Faculty of Aerospace Engineering, Space Engineering, Delft, Netherlands
+(e.n.doornbos@tudelft.nl), (2) Faculty of Aerospace Engineering, TU Delft, Delft, The Netherlands
+(e.n.doornbos@tudelft.nl), (3) High Altitude Observatory, National Center for Atmospheric Research, Boulder, Colorado,
+USA, (4) The Johns Hopkins University Applied Physics Laboratory, Laurel, Maryland, USA, (5) ESA/ESRIN, Frascati, Italy,
+(6) ESA/ESTEC Noordwijk, The Netherlands
+
+Satellite gravity ﬁeld missions, such as CHAMP, GRACE, GOCE and GRACE-FO, are designed to make
+extremely accurate measurements in low Earth orbit of the (relative) motion of satellites, and proof masses inside
+these satellites, in order to infer information on the Earth’s gravity ﬁeld. There are several mechanisms through
+which the thermosphere and ionosphere inﬂuence the way in which this motion is measured. The accelerometers,
+drag-free control system, dual-frequency radio-tracking systems, star cameras and magnetometers that are
+part of the payloads and platforms of the satellites, are to some extent also devices for active space weather
+monitoring. The space weather observations, which are considered an error source to be mitigated for the primary
+goal of gravity ﬁeld determination, are a valuable source of information for studies of the thermosphere-ionosphere.
+
+For nearly two decades now, data from the accelerometers on board these gravity ﬁeld missions have had a
+very large impact on studies of the thermosphere density and horizontal neutral wind. Accurate information
+on ionospheric electron content has been derived from dual-frequency satellite-to-satellite tracking systems
+as well. More recent developments are the derivation of vertical neutral wind from GOCE acceleration data
+and the calibration of platform magnetometer data, converted into ionospheric ﬁeld-aligned current densities.
+Using these processing techniques, GOCE, GRACE and GRACE-FO can be turned into sources of valuable
+thermosphere-ionosphere data, that supplement dedicated missions such as Swarm, in terms of temporal and
+spatial coverage.
+
+To demonstrate the value of this data in the space weather and space physics domains, we provide comparisons of
+these data with other data sources, such as AMPERE, as well as with output of a global thermosphere-ionosphere
+general circulation model. It is noteworthy that satellite mission concepts for investigations of thermosphere-
+ionosphere coupling, that are currently under study, would carry similar devices and beneﬁt from similar satellite
+platform designs and orbits as the current gravity ﬁeld missions. It is clear that there is a large potential to increase
+this synergy today, and opportunity for dual-purpose missions in the future. We therefore conclude by providing
+recommendations in terms of instrumentation and data handling for present and future missions.
+
+

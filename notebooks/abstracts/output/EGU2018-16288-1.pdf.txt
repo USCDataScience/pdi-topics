@@ -1,0 +1,41 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-16288-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Assessment and Deployment of Bird-Carried Meteorological Sensors for
+Microclimate Measurements in Urban Terrain
+
+Rick M. Thomas (1), Ford Cropley (1), A. Rob Mackenzie (1), S. James Reynolds (1), Jonathan P. Sadler (1), Lee
+Chapman (1), Andrew Quinn (1), Jian Zhong (1), Ben Schellenberg (2), and Xiaoming Cai (1)
+(1) University of Birmingham, United Kingdom (r.thomas@bham.ac.uk), (2) Department of Aerospace Engineering,
+University of Bristol
+
+The Cityﬂocks project has been developing and deploying lightweight, fast-response meteorological sensors to be
+carried by bird species in urban areas to address the paucity of measurements in the region a few hundred metres
+above the urban rooftops. Accurate and fast routine temperature measurements in this region will help further
+our understanding of the above-canopy internal boundary layer structure and the spatial variability of Urban
+Boundary Layers (Barlow 2014). Data implications include improving forecasting of Urban Heat Island events
+and urban weather, improving air pollution modelling and informing sustainable urban planning. Other methods
+of making such measurements routinely, such as using manned aircraft or Unmanned Aerial Vehicles (UAVs), can
+be prohibitively expensive or require onerous permissions and logistics to achieve.
+
+A ﬁrst-iteration prototype was carried initially by a trained White-tailed Eagle (Haliaeetus albicilla) and an
+Imperial Eagle (Aquila adalberti) to assess probe-mounting locations (back or tail mounted temperature sensor),
+other met sensors and the potential for data contamination due to heat generation by birds (Thomas et al. 2017).
+Other characterisation tests included car-mounted solar radiation shield tests, UAV-mounted tests for altimeter
+testing and ﬁeld tests of temperature responses to solar-heated surface elements.
+
+We present results demonstrating that packages meet their speciﬁed target of measuring at least a 0.5 de-
+gree celcius change in temperature over each hundred metres of ﬂight track, as well as accurately recording
+their location and orientation using on-board GPS, 3-axis gyroscopes and accelerometers, and a pressure altitude
+sensor. The package has been miniaturised and carried by captive homing pigeons (Columba livia) for initial tests
+prior to more widespread deployment later in 2018.
+
+1. Barlow, J.F., Progress in observing and modelling the urban boundary layer. Urban Climate, 2014. 10,
+Part 2: p. 216-240.
+2. Thomas, R.M., et al., Avian Sensor Packages for Meteorological Measurements in Complex Terrain and
+Urban Environments. Bulletin of the American Meteorological Society 2017. (In press. Early release available:
+http://journals.ametsoc.org/doi/10.1175/BAMS-D-16-0181.1).
+
+

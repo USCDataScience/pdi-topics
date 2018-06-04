@@ -1,0 +1,32 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-7687, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The boundary layer of the remote southeast Atlantic is often smoky and
+other recent ﬁndings from the LASIC campaign
+
+Paquita Zuidema
+University of Miami, RSMAS/MPO, Miami, United States (pzuidema@rsmas.miami.edu)
+
+Paquita Zuidema and the LASIC Science and Instrument Team
+
+From June 1, 2016 through October 31, 2017, the DOE ARM Mobile Facility 1 characterized the aerosol
+and cloud structure during two biomass-burning aerosol seasons to unprecedented detail over Ascension Island
+(14W, 8S). The island is subject to the outﬂow of biomass-burning aerosol from continental Africa, over 1500 km
+away, from approximately July to November and is located within warm ocean waters that encourage trade-wind
+cumulus within deep boundary layers. An early, unexpected ﬁnding is that smoke reaches the surface more often
+than not, at times reaching black carbon mass concentrations similar to those near ﬁre sources on land. The
+synoptic variation is strong, with very clean surface conditions also occasionally present. The aerosol vertical
+distribution shifts, broadly, from one weighted towards the surface to more in the free-troposphere, from July
+to November. Free-tropospheric aerosol, when present, is typically in contact with the uppermost cloud layer.
+Filter-based estimates indicate more shortwave absorption and lower single-scattering albedos earlier in the boreal
+summer for the same black carbon mass, indicating changes in the composition of the accompanying (e.g., brown)
+carbon. The event with the highest aerosol loading is explained by a direct transport into the boundary layer of
+smoke from the continent, but this transport pathway is otherwise atypical. The boundary layer is deeper when
+smoke is present near the surface and more well-mixed, with a stronger diurnal cycle in the boundary layer
+potential temperature. The non-precipitating low cloud fraction decreases when smoke is present in the boundary
+layer (a cloud ‘burn-off’ response). In summary the new observations indicate an aerosol-cloud regime that is
+extensive and with the potential to demonstrate unanticipated aerosol-cloud interactions.
+
+

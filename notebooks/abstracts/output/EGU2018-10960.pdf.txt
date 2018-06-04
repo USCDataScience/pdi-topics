@@ -1,0 +1,41 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10960, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Three-Dimensional Mapping of Tsunami Debris using Optical Sensor and
+LiDAR Data
+
+Shunichi Koshimura (1) and Takumi Fukuoka (2)
+(1) Tohku University, International Research Institute of Disaster Science, Sendai, Japan (koshimura@irides.tohoku.ac.jp), (2)
+NTT DATA Corporation, Japan (fukuokatkm@nttdata.co.jp)
+
+Immediately following the Great East Japan Earthquake Disaster in 2011, approximately 23 million t of debris was
+generated and accumulated over wide areas because of the subsequent tsunami. Timely removal of the debris is
+an important and immediate issue for disaster recovery; therefore, accurate estimation of the quantity of debris is
+essential. Two estimation methods are used currently. The ﬁrst is to derive the amount from experiential relation-
+ship based on the number of demolished buildings and their total ﬂoor area under the assumption that most of the
+debris is derived from buildings, and the second is a direct method of estimation based on the amount of debris
+hauled to temporary storage sites. The former has a disadvantage of estimating only the debris in accordance with
+demolished houses and does not consider other factors such as other structures, automobiles, driftwood, ships, and
+ﬁshery facilities. The latter also has a drawback of time consumption because it requires continuous measurement
+at the storage depots.
+Remote sensing technology is widely applied for the interpretation of wide disaster areas. In recent years, image
+analysis has become the main stream in interpreting damage. In particular, synthetic aperture radar is often used
+for discriminating the tsunami inundation areas based on backscattering intensity and for determining the damage
+of buildings based on aerial photographs.
+In this study, a new remote sensing method has been developed for directly measuring the amount of debris dis-
+tributed in the affected areas and for mapping the results. Speciﬁcally, two methods are proposed. The ﬁrst extracts
+spatial extent of debris areas through image analysis using digital aerial photos and satellite images obtained im-
+mediately after tsunami disaster. The second determines the amount of debris on the ground and quantitatively
+estimates its amount (volume, weight) by integrating analysis that use the height of the debris obtained by aircraft
+light detection and ranging (LiDAR).
+To understand the impact of the 2011 Tohoku earthquake tsunami and to observe the recovery efforts in the tsunami-
+affected areas, we conducted an integrated analysis identifying the spatial distribution and amount of tsunami de-
+bris, with aerial photos, satellite images, and LiDAR data. The analysis was conducted in Onagawa Town, Miyagi
+Prefecture including the ground truth data acquisition. The horizontal mapping of tsunami debris in Onagawa town
+was performed through object-based image analysis of aerial and satellite images. Integration of horizontal map-
+ping of tsunami debris and the analysis of digital surface model (DSM) of LiDAR data yields an estimate of the
+volume of the debris to be used as the observation of debris removal efforts.
+
+

@@ -1,0 +1,79 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-7133-2, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The COST Action "Origin and Evolution of Life on Earth and in the
+Universe": An interdisciplinary research, training and outreach effort
+
+Muriel Gargaud (1), Wolf Geppert (2), John Brucato (3), Elias Chatzitheorides (4), David Dunér (5), Ján Hrušák
+(6), Emmanuelle Javaux (7), Zuzana Kanuchova (8), Terence Kee (9), Akos Kereszturi (10), Puriﬁcación
+López-García (11), Anna Losiak (12), Christophe Malatere (13), Nigel Mason (14), Riho Motlep (15), Lena
+Noack (16), Olga Prieto-Ballesteros (17), Ewa Szuszkiewicz (18), Inge Loes ten Kate (19), and Ján Žabka (6)
+(1) Laboratoire d’Astrophysique de Bordeaux, Université de Bordeaux, Pessac, France (Muriel.Gargaud@u-bordeaux.fr), (2)
+Stockholm University, Physics Department, Stockholm University Astrobiology Center, Stockholm, Sweden
+(wgeppert@fysik.su.se), (3) Astrophysical Observatory of Arcetri, Firenze, Italy (jbrucato@arcetri.astro.it), (4) Department of
+Geological Sciences, National Technical University of Athens, Greece (eliasch@metal.ntua.gr), (5) History of Science and
+Ideas, Lund University, Lund, Sweden (david.duner@kultur.lu.se), (6) J. Heyrovsky Institute of Physical chemistry, Czech
+Academy of Sciences, Prague, Czech Republic (hrusak@kav.cas.cz), (7) Département de Géologie, Université de Liège,
+Liège, Belgium (ej.javaux@uliege.be ), (8) Astronomical Institute, Slovak Academy of Sciences, Tatranska Lomnica, Slovak
+Republic (pipovci@gmail.com), (9) School of Chemistry, University of Leeds, UK (T.P.Kee@leeds.ac.uk), (10) Research
+Centre for Astronomy and Earth Sciences, Budapest, Hungary (kereszturiakos@gmail.com), (11) Evolution et Systématique
+Laboratoire ESE; Université Paris-Sud, Orsay, France (puri.lopez@u-psud.fr), (12) Wild Fire Lab, University of Exeter, UK
+(a.i.losiak@exeter.ac.uk), (13) Département de philosophie Université du Québec à Montréal
+(malaterre.christophe@uqam.ca), (14) School of Physical Sciences, Open University, Milton Keynes, UK
+(nigel.mason@open.ac.uk), (15) Geoloogian Osakond, Tartu Ülikool, Tartu, Estonia (riho.motlep@ut.ee), (16) Institute of
+Geological Sciences. Freie Universität Berlin, Germany (lena.noack@fu-berlin.de ), (17) Centro de Astrobiología,
+CSIC-INTA, Madrid Spain (prietobo@cab.inta-csic.es), (18) Institute of Physics, University of Szczecin, Szczecin, Poland
+(szusz@univ.szczecin.pl), (19) Department of Earth Sciences, Universiteit Utrecht, The Netherlands (I.L.tenKate@uu.nl)
+
+The COST Action ”Origins of Life on Earth and in the Universe” (2014-2018) is a multidisciplinary network
+involving around 170 researchers (many of them early career investigators) from 30 European countries.
+
+Research activities are coordinated by ﬁve working groups:
+• Understanding the formation and evolution of planetary systems and habitable planets
+• Searching for the origins of the building blocks of Life
+• Tracing the origin of life on Earth and ﬁnding its limits
+• Detecting life on other planets and its satellites
+• History and philosophy of science.
+
+Also, two teams: “Education and Training” and “Outreach and Dissemination” existed. Efforts of the Working
+Groups resulted in numerous peer-reviewed papers of which many were a direct result of >80 short term scientiﬁc
+missions funded by the Action. The bridging between natural sciences and humanities initiated by WG5 led to an
+international conference, a summer school and a White paper entitled “Astrobiology and Society in Europe Today”.
+
+The Action has organised four major international conferences:
+
+“Habitability in the Universe: From the Early Earth to Exoplanets”, Porto(PT), 2015
+“From star and planet formation to early Life”, Vilnius(LT), 2016,
+“Early Earth and exo-Earths: origin and evolution of life”, Warsaw (PL), 2017
+“Life on Earth and beyond: emergence, survivability and impact on the environment”, Bertinoro(IT), 2018
+
+Between these events, thematic workshops were held:
+
+“Missions to Habitable Worlds”, Budapest(HU), 2015
+“Evolution of chemical complexity”, Liblice(CZ), 2016
+EGU Galileo Conference “Geosciences for the Understanding of Habitability in the Solar System and Beyond”,
+Azores(PT), 2017
+
+Altogether, eight interdisciplinary training schools were organised by the action and mostly held at geolog-
+ically interesting sites (Iceland, Karelia, Saaremaa, Azores, La Palma). They involved “real science” ﬁeld work
+and attracted many early career researchers from different countries. The events received excellent feedback from
+participants. These schools inspired several teams of young scientists to perform follow-up expeditions leading
+to new cooperations and interesting scientiﬁc results. In addition, the Action supported the training schools
+“Rencontres Exobio pour Doctorants” covering the basics of astrobiology and obtained recognition by the IAU
+in 2016. Action members also successfully started an Erasmus+ strategic partnership “European Astrobiology
+Campus” devoted to optimising training in the ﬁeld.
+
+Two large-scale dissemination projects were carried out:
+• Publication of the second edition of the “Encyclopaedia of Astrobiology” containing 3000 entries by more than
+350 authors (many of them Action participants) and preparation of the third edition.
+• Design and translation into several languages of a travelling exhibition “River of Time” tracing the main stages
+of the history of our planet from the formation of the solar system until the emergence and diversiﬁcation of life.
+
+The Action has also created several scientiﬁc databases, e.g. on biosignatures and pseudo-signatures and
+the reconstruction of the Martian paleoenvironment. Finally, another ongoing major networking effort is the
+preparation to launch a European Astrobiology Institute providing a long-term sustainable structure for the
+European Astrobiology community.
+
+

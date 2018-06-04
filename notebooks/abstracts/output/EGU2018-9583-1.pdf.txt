@@ -1,0 +1,29 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-9583-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+ORCA: Future Antarctic Cosmic Ray Observatory
+
+Juan José Blanco (1), Óscar García-Población (1), José Medina (1), Ignacio García-Tejedor (1), Manuel Prieto
+(1), Sindulfo Ayuso (1), Raul Gómez-Herrero (1), Juan Garzón (2), Almudena Gomis (3), Victor
+Villasante-Marcos (3), Manuel Seco (2), Anna Morozova (4), Georgi Kornakov (5), Teresa Kurtukian (6), Alberto
+Blanco (7), Bernd Heber (8), Christian Steigies (8), and Helena Krüger (9)
+(1) University of Alcalá, (2) University of Santiago de Compostela, (3) Instituto Geograﬁco Nacional, (4) CITEUC-Univ. de
+Coimbra, (5) TU-Darmstadt, (6) CEN-Bordeaux, (7) LIP-Coimbra, (8) IEAP, Christian-Albrechts-Universität zu Kiel, (9)
+Faculty of Natural Sciences , North-West University Potchefstroom
+
+A new cosmic ray instrument, the Antarctic Cosmic Ray Observatory (ORCA), has been designed to perform a
+North to South latitudinal survey, onboard the research vessel Hesperide, in the end of 2018 and to be ﬁnally settled
+at Juan Carlos I Antarctic Station. ORCA will feature a 3NM64 neutron monitor, a set of three bare BP28 counters,
+a muon telescope (MITO) and a RPC based detector (TRISTAN). The combination of these detectors will allow
+us to measure neutrons, muons, protons, electrons and gamma rays arriving to the ORCA’s location. Both MITO
+and TRISTAN will provide direct directional information about incoming particles. These capabilities allows to
+study the effect of solar activity on the cosmic ray transport in the Heliosphere and the most energetic component
+of solar energetic particles. Together with ORCA, a mini-neutron monitor will also operate along this initial stage
+of the project. The set up of ORCA is scheduled in a three year period, commissioning (2017-2018), shipping (end
+of 2018) and initial operation (2019). Two main milestones will be tackled by ORCA in this period, a latitudinal
+survey on board the Spanish research vessel Hesperides, and its installation in the Antarctic Spanish Base Juan
+Carlos I. The current status of ORCA is presented and the close future working plans.
+
+

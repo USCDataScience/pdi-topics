@@ -1,0 +1,48 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-878, 2018
+EGU General Assembly 2018
+© Author(s) 2017. CC Attribution 4.0 license.
+
+A 34-year climatology and trends of CM SAF CLARA-A2 global cloud
+cover and comparison with ISCCP
+
+Vasileios Tzallas (1), Nikolaos Hatzianastassiou (1), Nikos Benas (2), Jan Fokke Meirink (2), Christos Matsoukas
+(3), and Ilias Vardavas (4)
+(1) Laboratory of Meteorology, Department of Physics, University of Ioannina, 45110, Ioannina, Greece
+(vasileios.tzallas@gmail.com), (2) R & D Satellite Observations Department, Royal Netherlands Meteorological Institute
+(KNMI), Netherlands , (3) Department of Environment, University of the Aegean, 81100 Mytilene, Greece, (4) Department of
+Physics, University of Crete, 71110 Heraklion, Crete, Greece
+
+Clouds are vital for the Earth’s shortwave, longwave radiation and energy budgets, and thus for global climate.
+However, despite the great progress in their observation during the last two decades, there is still considerable
+uncertainty even about their basic properties such as their fractional cloud cover (CC). More speciﬁcally, uncer-
+tainties related to their long-term changes hinder their inclusion in assessments of ongoing and future climate
+changes. To this aim, continued efforts to improve capabilities of observing CC and its inter-annual variability and
+trends are necessary, with remote sensing playing a key role and assisting in creating relevant long-term uniform
+global databases.
+The Cloud Albedo Radiation, AVHRR-based, edition 2 (CLARA-A2) data record has been created using measure-
+ments of the Advanced Very High Resolution Radiometer (AVHRR) instrument onboard the polar orbiting NOAA
+and the EUMETSAT METOP satellites. In the present study the global distribution, variability and trends of CC
+over the period 1982 – 2015 are analyzed using monthly averages of CLARA-A2 data on a spatial resolution of
+2.5◦ × 2.5◦ latitude-longitude. Furthermore, a comparison of CLARA-A2 is attempted against the International
+Satellite Cloud Climatology Project (ISCCP-D2) over their common period 1984-2009. CLARA-A2 has the ad-
+vantage of enabling a longer temporal coverage (34 against 26 years) while ensuring complete spatial coverage,
+also including the polar areas which are often missing in ISCCP-D2.
+The analysis for the common 26-year common period shows that both CLARA-A2 and ISCCP-D2 reproduce
+well-known global CC patterns, such as the increased values of high-level CC (up to 80 %) along the Intertropical
+Convergence Zone (ITCZ) and the extended low-level cloud decks off the western coasts of South America and
+southern Africa (coverage up to 60 %). The computed 26-year global mean total CC is equal to 62.3 and 65.6
+% according to CLARA-A2 and ISCCP-D2, respectively. The corresponding global mean values of CLARA-A2
+low-, mid- and high-level cloud cover are equal to 19.8, 17.4 and 24.1 %, respectively, while those for ISCCP-
+D2 are 22.9, 20.1 and 22.6 %, i.e. CLARA-A2 underestimates low and middle and overestimates high-level CC
+with respect to ISCCP-D2. The 34-year time series of CLARA-A2 global mean total CC reveal an overall linear
+decrease equal to -2 %, arising from a stronger decrease of mid-level CC (-2.9 %) and weak increases of low-
+and high-level CC (0.4 and 0.3 %, respectively). A more detailed analysis indicates decadal-scale increases and
+decreases of total CC, consisting in slight modiﬁcations up to mid-90s, a subsequent prolonged decrease through to
+the end of 2000s and a following increase in the 2010s. Such long-term changes of cloud cover are very important
+in the context of ongoing climate change, but need to be further assessed and evaluated given the inhomogeneity
+issues in their time series. In this context, a comparison of CLARA-A2 with the latest release of ISCCP -H series
+will be made, while CLARA-A2 CC data shall be used in a detailed radiative transfer model in order to estimate
+the 34-year global cloud radiative effects and the associated radiation budget.
+
+

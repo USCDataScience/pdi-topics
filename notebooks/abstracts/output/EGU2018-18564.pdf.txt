@@ -1,0 +1,35 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18564, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Satellite Detection of Atmospheric CO2 Emissions from Volcanoes
+Florian M. Schwandner (1,2) and Simon A. Carn (3)
+(1) NASA Jet Propulsion Laboratory, Pasadena, CA 91109, USA (ﬂorian.schwandner@jpl.nasa.gov), (2) Joint Institute for
+Regional Earth System Science and Engineering (JIFRESSE), University of California, Los Angeles (UCLA), Los Angeles,
+CA 90095, USA, (3) Department of Geological and Mining Engineering and Sciences, Michigan Technological University,
+Houghton MI 49931, USA
+
+Quiescent volcanic emissions of carbon dioxide (CO2) -much alike anthropogenic point-source emissions- vary
+spatially at the 0.1-10 kilometer-scale and are useful to track to detect phases of unrest, including pre-eruptive
+emission pulses which may indicate magma movement, or to document source strengths. CO2 emissions create
+short-range broad plumes which may diverge in their dispersion behavior from sulfur dioxide (SO2) from the
+same source, due to the largely unreactive diffusion-dominated behavior of CO2 in the atmosphere. Plumes may
+be discernible from space within their spatial context but the characteristics of aging plumes may pose additional
+challenges to quantiﬁcation and attribution.
+We will compare the different space-borne assets potentially useful to volcanic CO2 detections and monitoring ap-
+plications, and discuss results recently published (Schwandner et al. 2017, Science) that showed the ﬁrst volcanic
+CO2 detections from space-borne sensors: Space-borne measurements by NASA’s Orbiting Carbon Observatory-
+2 (OCO-2) have exposed distinct structures of atmospheric CO2 on kilometer scales over known anthropogenic
+and volcanic point sources. However, the 16-day repeat cycle of OCO-2 was not optimized to meaningfully track
+the temporal evolution of these emissions. The Japanese Greenhouse Gas Observing SATellite (GOSAT) has little
+option for spatial context, but a faster 3 days repeat cycle. Future observations by the OCO-3 instrument, to be
+launched and installed on the International Space Station, will have pointing optics and will provide better op-
+portunities to track CO2 emissions from individual volcanoes at meaningful spatial and temporal modes. NASA’s
+scheduled GeoCARB mission will in the longer term provide additional opportunities to quantify CO2 emissions
+from geostationary orbit.
+Schwandner, F.M., et al. (2017). Space-Borne Detection of Localized Carbon Dioxide Sources. SCIENCE, October
+13, 2017, 358 (6360), eaam5782, p. 192, DOI: 10.1126/science.aam5782.
+© California Institute of Technology.
+
+

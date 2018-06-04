@@ -1,0 +1,41 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-4459, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+A novel approach for monitoring hydrothermal systems by continuous
+magnetotelluric observations
+
+Rolando Carbonari (1), Rosa Di Maio (1), and Zaccaria Petrillo (2)
+(1) Università degli Studi di Napoli Federico II, Dipartimento di Scienze della Terra, dell’Ambiente e delle Risorse, Naples,
+Italy (rolandocarbonari@hotmail.com), (2) Istituto Nazionale di Geoﬁsica e Vulcanologia, Sezione di Napoli, Naples, Italy
+
+Understanding the behavior and the evolution of hydrothermal systems is of great interest for both scientiﬁc and
+commercial purposes, such as volcanic hazard assessment and geothermal energy exploitation. To this aim, a
+novel approach based on continuous magnetotelluric (MT) data is proposed for characterizing and monitoring
+hydrothermal systems. The use of such an exploration method has a double advance: it allows i) to monitor time
+variations of the electrical resistivity distribution in the underground, closely related to changes in the physical
+state of the hydrothermal system, ii) to investigate different depth ranges (from few hundred meters to hundreds
+of kilometers) without the aid of artiﬁcial sources, as the energy for the magnetotelluric technique is from natural
+electromagnetic source of external origin.
+In order to test the effectiveness of the proposed approach, a sensitivity analysis has been performed by simulating
+different evolution scenarios of a hydrothermal system and calculating the MT response at different time intervals
+corresponding to different stages of the system dynamics. The study proved to be essential for understanding
+the degree of sensitivity of the MT method to changes of the hydrothermal system with reference to its possible
+temporal evolutions. Indeed, the results of tests carried out for a hydrothermal system in an active volcanic area,
+show that if the variations of the system are exclusively determined by an increase in the rate of the ﬂuid ﬂow
+emitted by the hydrothermal source, the variations of the parameters that affect the resistivity (i.e. gas saturation
+and temperature) are too slow to be appreciated through continuous MT observations within a time period useful
+for monitoring purposes. This result, if conﬁrmed also for other types of systems currently under study, would
+provide important indications for the monitoring of hydrothermal systems of active volcanoes. In fact, it suggests
+that the geophysical methods based on resistivity measurements are not able to detect an increase in the rate of the
+ﬂuid ﬂow from the source in a relatively short time. On the contrary, if the variations of the hydrothermal system
+are determined by changes in the permeability distribution of the system, caused, for example, by an increase
+in pressure or ﬂow of ﬂuids emitted by the source and/or by a variation of their physico-chemical properties,
+signiﬁcant variations in the gas saturation distribution are observed over a period ranging from three months
+to a year and a half, which give rise to variations in the resistivity values that can be appreciated through MT
+observations in the same time interval. This result is of considerable interest, as it proves the usefulness of the MT
+method in identifying possible changes in the hydraulic parameters of the hydrothermal system, likely related to
+changes in its dynamics.
+
+

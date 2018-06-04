@@ -1,0 +1,35 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-2174, 2018
+EGU General Assembly 2018
+© Author(s) 2017. CC Attribution 4.0 license.
+
+Increased wind risk from sting-jet mid-latitude cyclones in a warmer
+climate
+
+Oscar Martinez-Alvarado (1), Suzanne Gray (1), Neil Hart (2), Peter Clark (1), Kevin Hodges (1), and Malcolm
+Roberts (3)
+(1) University of Reading, Department of Meteorology, Reading, United Kingdom, (2) University of Oxford, School of
+Geography and the Environment, Oxford, United Kingdom, (3) Met Ofﬁce, Exeter, United Kingdom
+
+One of the mechanisms whereby a mid-latitude cyclone can produce strong damaging surface winds is through
+the generation of sting jets: highly-localised transient jets, descending from the tip of the hooked cloud head
+towards the top of the boundary layer within the dry slot. Recent research, based on ERA-Interim data from 1979-
+2012, has shown that around 30% of November-March North Atlantic mid-latitude cyclones had the potential to
+produce sting jets, with this percentage rising to around 40% for those cyclones classiﬁed as meteorological bombs.
+
+To investigate the changes to these statistics under a warming climate, 13-year global climate simulations
+under both present-climate and the IPCC RCP8.5 scenario conditions have been analysed and compared, focusing
+again on the North Atlantic region during September - May. As for the ERA-Interim data, a sting-jet precursor
+diagnostic is applied to tracked cyclones. This diagnostic, designed for climate-resolution datasets, requires the
+presence of conditional symmetric instability and the necessary environmental conditions for it to be released. We
+show that the present-day simulation shares the statistical features of sting jet storms found in ERA-Interim. In
+contrast, the proportion of extratropical cyclones with the potential to generate sting jets increases to around 45%
+in the RCP8.5-scenario simulation. Furthermore, while the proportion of meteorological bombs is similar in the
+two climate simulations, the proportion of these storms with the potential to generate sting jets increases to nearly
+70% in the RCP8.5 simulation.
+
+The resolved-wind risk over Europe associated with meteorological bombs containing a sting-jet precursor
+increases substantially in the future climate; in reality this wind risk is likely to be further enhanced by the release
+of localised moist instability, unresolved by typical climate models.
+
+

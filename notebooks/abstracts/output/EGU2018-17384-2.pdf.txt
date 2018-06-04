@@ -1,0 +1,38 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-17384-2, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Climatology of the surface energy balance over the Metropolitan Area of
+Rio de Janeiro (MARJ) based on remote sensing data
+
+Vitor Miranda (1), Leonardo Peres (1,2), and Andrews Lucena (3)
+(1) Federal University of Rio de Janeiro (UFRJ), Institute of Geosciences (IGEO), Department of Meteorology, Rio de
+Janeiro, Brazil (vitormiranda91@yahoo.com.br; leonardo.peres@igeo.ufrj.br), (2) Portuguese Institute for Sea and
+Atmosphere (IPMA), Lisbon, Portugal, (3) Federal Rural University of Rio de Janeiro (UFRRJ), Institute of Agronomy (IA),
+Department of Geosciences, Rio de Janeiro, Brazil (lucenageo@yahoo.com.br)
+
+The knowledge of the energy balance is fundamental to understanding the urban heat island (UHI) phenomenon and
+urban thermal behavior. As urban materials have different thermal capacities and conductivities they can remove
+surface water and change the natural drainage networks. The net effect is a modiﬁcation in radiative, thermal,
+aerodynamic and moisture of the preexisting surface features, changing the heat ﬂuxes regimes and humidity. The
+development of the Metropolitan Area of Rio de Janeiro (MARJ) was very fast in the past few years becoming one
+of the megacities of the world and increasing the need to understand the implications of urbanization on different
+environmental parameters as there is an energy balance intensiﬁcation associated with the urbanization increase.
+However, the energy balance components are not easily obtained in large areas, as they are measured by expensive
+and often private sensors, which do not cover all existing surface types. An alternative means to these sensors is
+the use of remote sensing as a tool to obtain the net radiation (Rn) and the sensible (H) and latent (LE) heat ﬂuxes.
+In this context, the aim of this work is to study UHI in MARJ based on the analysis of Rn, H and LE and land-use
+patterns retrieved from Landsat data covering a 32-year period between 1984 and 2015. The different heat ﬂuxes
+were obtained based on Surface Energy Balance Algorithm for Land (SEBAL) whereas land cover maps were
+produced in the Ecognition 8.9 software to characterize the heat ﬂuxes in the “urban”, “rural/urban low density”
+and “vegetation” classes. Climatology of Rn, H and LE were constructed for MARJ and a monthly analysis was
+performed. UHI intensity, based on Rn, H and LE, between “urban”, “rural/urban low density” and “vegetation”
+areas was established for each month. The joint analysis of the land-use maps and Rn, H and LE have shown
+that 1) “urban” and “vegetation” classes always present the highest (lowest) and lowest (highest) H (LE) values,
+respectively. The H (LE) of “rural or urban low density” is high (low), but always in between the “urban” and
+“vegetation” ones, representing a transition area involving rural and urban landscapes; and 2) Rn, H and LE were
+higher in the summer months and the differences between “urban” and “vegetation” classes are more intense for
+these months.
+
+

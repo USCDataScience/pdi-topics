@@ -1,0 +1,30 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-13293, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Evolution of asymmetrically displaced footpoints during substorms
+
+Anders Ohma (1), Nikolai Østgaard (1), Jone Peter Reistad (1), Paul Tenfjord (1), Karl M. Laundal (1), Kristian
+Snekvik (1), and Matthew O. Fillingim (2)
+(1) University of Bergen, Birkeland Centre for Space Science, Department of Physics and Technology, Bergen, Norway
+(anders.ohma@uib.no), (2) Space Sciences Laboratory, University of California, Berkeley, CA, United States
+
+It is well established that a transverse (y) component in the Interplanetary Magnetic Field (IMF) induces a By
+component in the closed magnetosphere through asymmetric loading and/or redistribution of magnetic ﬂux. Simul-
+taneous images of the aurora in the two hemispheres have revealed that conjugate auroral features are displaced
+longitudinally during such conditions, indicating that the ﬁeld-lines are displaced from their symmetric conﬁgura-
+tion. Although the direction and magnitude of this displacement show correlations with IMF clock angle and dipole
+tilt, events show large temporal and spatial variability of this displacement. For instance, it is currently unknown
+how substorms affect the displacement.
+In a previous case study it has been demonstrated that displaced auroral forms, associated with the prevailing IMF
+orientation, returned to a more symmetric conﬁguration during the expansion phase of two substorms. Using IM-
+AGE and Polar, we have identiﬁed multiple events where conjugate auroral images during substorms are available.
+By visual inspection and by applying a correlation analysis, we identify conjugate auroral features and investigate
+how the asymmetry evolves during the expansion phase. We ﬁnd that the system returns to a more symmetric state,
+in agreement with the earlier published case study. This is also true for the events where the solar wind driving
+is stable, indicating that the asymmetric displacement is indeed reduced or removed by the substorm. This can
+be interpreted as the result of increased reconnection rate in the magnetotail during the expansion phase, which
+reduces the asymmetric lobe pressure.
+
+

@@ -1,0 +1,53 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-8033, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Airborne hyperspectral thermal data to characterize the thermal behavior
+of urban materials: preliminary results of the Potenza and Matera (Italy)
+TASI survey
+
+Stefano Pignatti (1), Angelo Palombo (1), Simone Pascucci (1), Nicola Pergola (1), Valerio Tramutoli (2), and
+Federico Santini (1)
+(1) Institute of Methodologies for Environmental Analysis (CNR IMAA), Tito Scalo (PZ), Italy, (2) Università della
+Basilicata, Scuola di Ingegneria, Potenza, Italy
+
+Analysis of the urban materials thermal behavior is challenging because it requires the use of high spatial and
+spectral resolution thermal data in order to detect impervious surfaces and urban vegetation, which can change
+signiﬁcantly the local average surface temperature. Their distribution affects the urban surface heat island that is
+one of the most important matters in urban climatology studies [1].
+To study and analyze the urban thermal behavior and material properties (i.e. land surface temperature, emissivity)
+in the study area, thermal infrared airborne remote hyperspectral data were used. The survey was carried out on
+December 12, 2015, using TASI-600 sensor [3, 4, 5], on two urban districts pertaining to the Basilicata Region in
+Italy. TASI-600 data were acquired with a spatial resolution of 1m/pixel and 32 channels from 8 to 11.5 µm with
+a spectral resolution of 100 nm. The airborne surveys interested two urban and one industrial districts: the city of
+Potenza (surveyed @ about 9:00 a.m. local time) with recently build urban functional areas and the city of Matera
+(surveyed @ about 1:00 p.m. local time) with its ancient historical centre much appreciated and renowned for its
+“Sassi” districts.
+The advantage of the TASI airborne survey relies in the high spatial resolution that permits to clearly discriminate
+objects and single roof buildings, while the high spectral resolution assures the detection of the major atmospheric
+absorption bands required for an efﬁcient atmospheric correction. Temperature emissivity separation (TES) proce-
+dure was efﬁciently applied to the TASI imagery to retrieve both temperature and spectral emissivity of the main
+urban surfaces [2].
+Temperature emissivity separation (TES) was carried out by solving the following equation,
+
+Lλ,i = [ελ,iBλ(Ti) + (1 − ελ,i)LSKY λ]τλ + LAT M λ
+
+where Lsky is the measured radiance, the downwelling radiance, Bλ(T i)the radiance from the surface, τλ is the
+atmospheric transmittance, and LAT M λis the radiance associated with TIR self-emission of all atmospheric com-
+ponents.
+The obtained preliminary results are encouraging, as they show the beneﬁts of the use of airborne TIR hyperspectral
+imaging for characterizing the main urban surfaces and understanding the urban temperature gradients which are
+the main factor affecting the Urban Heat Island Effect.
+This research was carried out in the framework of the project ‘Smart Basilicata’, Notice MIUR n.84/Ric 2012,
+PON 2007-2013 of 2 March 2012 and was funded with the Cohesion Fund 2007–2013 of the Basilicata Regional
+authority.
+References
+1. Rasul, A., Balzter, H., Smith, C., Remedios, J., Adamu, B., Sobrino, J. A. & Weng, Q. (2017). A Review on
+Remote Sensing of Urban Heat and Cool Islands. Land, 6(2), 38.
+2. Santini, F.; Palombo, A.; Dekker, R.J.; Pignatti, S.; Pascucci, S.; Schwering, P.B.W. (2014, June). Advanced
+Anomalous Pixel Correction Algorithms for Hyperspectral Thermal Infrared Data: The TASI-600 Case Study.
+Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Journal of, vol.7, no.6, pp. 2393-2404.
+doi: 10.1109/JSTARS.2014.2324654.
+
+

@@ -1,0 +1,30 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-9071-2, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Numerical modeling of observed fast streams in the solar wind – plasma
+instabilities and energy exchange between ﬁelds and particles
+
+Yana Maneva (1), Roberto Bruno (2), Daniele Telloni (3), and Stefaan Poedts (1)
+(1) KU Leuven, CmPA, Wiskunde, Heverlee, Belgium, (2) Institute for Space Astrophysics and Planetology IAPS, Rome,
+Italy, (3) National Institute of Astrophysics ONAF, Astrophysical Observatory, Turin, Italy
+
+Collisionless fast solar wind streams comprise of ubiquitous electromagnetic ﬂuctuations and highly non-
+equilibrium electrons and ions, whose distributions exhibit various non-thermal features, such as faster ﬁeld aligned
+beams, temperature anisotropies and relative drifts between the multiple ion populations. The nature of these ki-
+netic features, their origin and the inter-relation with the ambient electromagnetic ﬁelds and ﬂuctuations are still
+open problems which need to be better understood. In this work we perform series of 2.5D hybrid simulations
+with ﬂuid electrons and kinetic ions to study the in situ heating and particle acceleration by local ﬂuctuations, such
+as plasma waves. We also consider the particle heating and acceleration by small-scale spatial structures, such as
+locally generated current sheets. We initialize the system with a set of ion-cyclotron and kinetic Alfven waves.
+The latter ﬂuctuations co-exist with self-generated small-scale turbulent current sheets in an anisotropic drifting
+proton-alpha particles plasma. We investigate the nonlinear evolution of the modeled observed fast stream parcels
+and follow the relaxation of the initial ion temperature anisotropies and relative drifts and their interaction with the
+plasma oscillations and the small-scale currents. We test the predicted linear evolution of the ion-cyclotron plasma
+micro-instability in the case of initially larger perpendicular temperature for the protons and determine the nonlin-
+ear time-scales. Further, we follow the dissipation of the imposed spectra of magnetic ﬂuctuations and study the
+related ﬁeld-particle correlations and the energy transfer between the multiple ion species. In all cases we observe
+preferential heating for the minor ions, while the protons cool off in perpendicular direction.
+
+

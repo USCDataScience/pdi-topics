@@ -8,4 +8,5 @@ dependencies:
 - conda-forge::nltk=3.2.5=py_0
 - conda-forge::jupyter=1.0.0=py35_0
 - conda-forge::gensim=3.2.0=py35_0
+- conda-forge::pdfminer.six=20170720=py35_0
 - vida-nyu::pyldavis=2.1.0=py35_0

@@ -1,0 +1,35 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-6413, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Achievements of the ESA Aerosol_cci project
+
+Thomas Popp (1), Gerrit de Leeuw (2), Simon Pinnock (3), and the Aerosol_cci2 team
+(1) Deutsches Zentrum fuer Luft- und Raumfahrt, Deutsches Fernerkundungsdatenzentrum, Wessling, Germany
+(thomas.popp@dlr.de), (2) Finnish Meteorological Institute, Finland, (3) European Space Agency, ESCAT, Harwell, UK
+
+The Aerosol_cci project within the ESA Climate Change Initiative (CCI) has ﬁnished. In this paper we summarize
+its main achievements and discuss the future needs for algorithm development (i. a. in the ESA CCI+ program). We
+also highlight the perspectives for routine dataset processing within the Copernicus Climate Change Service (C3S).
+
+The main outcome of Aerosol_cci is as follows:
+- substantial improvement of dataset quality
+- consistent long-term records over 1-3 decades
+- complementary parameters (Dust AOD, Fine Mode AOD, Total AOD, Absorbing AOD, stratospheric extinction)
+from different sensors AATSR, IASI, POLDER, MERIS, GOMOS
+- demonstration of the information content for layer height (IASI), diurnal cycles (SEVIRI)
+- establishment of a concept for pixel-level uncertainties
+- establishment of AEROSAT as international forum
+- integration and visibility of the European aerosol retrieval community
+- evaluation of the usefulness of the datasets in 8 user case studies
+- transfer of the routine tasks to C3S
+- qualitative understanding of the reasons for differences between datasets processed with different algorithms
+(cloud masking, quality ﬁltering – trade-off between accuracy and coverage)
+- derivation of robust trends from different algorithms (with remaining biases)
+
+Future algorithm work is needed for record extension (i. a. with Sentinel sensors), consolidation (e. g.
+propagation to gridded product uncertainties) and consistent integration of the various complementary datasets (e.
+g. ensembles, integrated products).
+
+

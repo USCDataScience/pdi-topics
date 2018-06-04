@@ -1,0 +1,25 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18695, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The Cassini-Huygens Mission: Huygens legacy
+
+Jean-Pierre Lebreton (1)
+(1) LPC2E (CNRS-Universite d’Orleans), Orleans Cedex 2, France (jean-pierre.lebreton@cnrs-orleans.fr), (2) LESIA
+(Observatoire de Paris-Meudon), France, (3) (*) former ESA Huygens Project Scientist and Mission Manager
+
+The Huygens Titan probe was carried by Cassini to Saturn and targeted towards Titan on December 25th, 2004.
+Twenty one days later, on January 14th 2005, Huygens entered in Titan’s atmosphere and descended under
+parachute for about 2,5 hours. It safely landed and continued to operate on the surface for more than 3 hours.
+During the descent, and for about 70 minutes after landing, Huygens radioed its data stream to the Cassini orbiter
+for later relay to the Earth. Doppler and VLBI data were also acquired through a network of ground-based radio
+telescopes that detected the faint Huygens signal. The Huygens Probe performed above expectation despite the
+loss of one of the two redundant radio channels whose receiver on board Cassini was not conﬁgured properly.
+An overview of the Huygens mission is provided and a selected set of science results are presented. Huygens
+legacy for future in situ Titan atmospheric and surface exploration missions is discussed. Huygens dynamics under
+parachute, in particular its rotation, was not as expected. This is the subject of a special 2-year study that started at
+the end of 2017. Initial results of that study will be reported. The Cassini/Huygens is a joint undertaking between
+NASA, ESA and ASI. It was launched on 15 October 1997 and placed in orbit around Saturn on 1st July 2004.
+
+

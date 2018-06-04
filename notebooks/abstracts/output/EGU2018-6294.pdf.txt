@@ -1,0 +1,23 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-6294, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Use of UAVs for intertidal sediment type mapping
+
+Iain Fairley, Anouska Mendzil, and Dominic Reeve
+College of Engineering, Swansea University, Swansea, UK (i.a.fairley@swansea.ac.uk)
+
+Mapping of intertidal sediment using in-situ sampling is time-consuming and has health and safety complications,
+especially for higher tidal range regions. Remote sensing is attractive to overcome these difﬁculties. Previous
+investigators utilised hyperspectral sensors on aircraft and satellites to map intertidal sediment type; however, cost
+and spatial resolution mean additional tools are desirable. One option is the exploitation of UAVs carrying a range
+of sensors.
+In this study a small ﬁxed wing UAV is ﬂown with RGB cameras, thermal cameras and multispectral cameras at
+various locations in a mega-tidal environment (Swansea Bay, UK). Sediment is characterised over the ﬂight areas
+by in-situ surface moisture content measurements, temperature and grain size distribution. This presentation will
+describe the variation of remotely sensed parameters over the intertidal region and their relation to sediment type
+and moisture content. Discussion of the potential to utilise this variation to identify different sediment types will
+be made.
+
+

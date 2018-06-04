@@ -1,0 +1,22 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10345, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Parker Solar Probe: A NASA Mission to Touch the Sun
+
+Nicola Fox
+Johns Hopkins University, Applied Physics Lab, Space Exploration Sector, United States (nicola.fox@jhuapl.edu)
+
+The newly renamed, Parker Solar Probe (PSP) mission will be the ﬁrst mission to ﬂy into the low solar corona,
+revealing how the corona is heated and the solar wind and energetic particles are accelerated, solving fundamental
+mysteries that have been top priority science goals since such a mission was ﬁrst proposed in 1958. The scale
+and concept of such a mission has been revised at intervals since that time, yet the core has always been a close
+encounter with the Sun. The primary science goal of the Parker Solar Probe mission is to determine the structure
+and dynamics of the Sun’s coronal magnetic ﬁeld, understand how the solar corona and wind are heated and
+accelerated, and determine what mechanisms accelerate and transport energetic particles. PSP uses an innovative
+mission design, signiﬁcant technology development and a risk-reducing engineering development to meet the
+science objectives. In this presentation, we provide an overview of the mission science and design, and an update
+on the progress of the Parker Solar Probe mission as we prepare for the July 2018 launch.
+
+

@@ -1,0 +1,25 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-14347, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Objectively Detecting Streamﬂow Response to Megathrust Earthquakes
+
+Oliver Korup (1), Christian Mohr (1), and Michael Manga (2)
+(1) University of Potsdam, Earth and Environmental Science, Potsdam, Germany (oliver.korup@geo.uni-potsdam.de), (2)
+Department of Earth and Planetary Science, University of California, Berkeley, United States
+
+Numerous observations demonstrate that river discharge can change during seismic ground shaking caused by
+earthquakes. Many studies have used stream-gauge data to report distinct co-seismic peaks or drops in river ﬂow,
+although little guidance is available to how objectively identify these changes in time series. To this end, we
+review the available R packages for detecting change points in time series. We offer an alternative by adapting an
+analytical Bayesian approach for ﬁnding a single change point in raw daily discharge time series from some 250
+Chilean gauging stations covering the timing of several historic megathrust earthquakes. We show that our approach
+produces high (>0.95) posterior probabilities of credible discharge changes coinciding with the earthquake dates,
+and exclusively at stations close to the rupture zone. We also show that this spatial pattern of credible river response
+is consistent with empirical observations and theoretical considerations, and capable of masking out local effects
+of storm runoff. We discuss the constraints of our approach in terms of ﬁnding an optimal search interval or pre-
+processing the input data; compare it to other, more sophisticated techniques; and highlight the scope of simple
+and reproducible change-point detection methods for other common tasks in the geosciences.
+
+

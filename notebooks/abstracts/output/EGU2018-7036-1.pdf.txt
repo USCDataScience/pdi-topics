@@ -1,0 +1,35 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-7036-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Prototype of multi-hazard early warning from EUNADICS-AV systems to
+trigger model forecasts of European airspace
+
+Hugues Brenot (1), Nicolas Theys (1), Lieven Clarisse (2), Daniel Hurtmans (3), Pascal Hedelt (3), Margarita
+Vasquez (3), Lucia Mona (4), Gelsomina Pappalardo (4), Simona Scollo (5), Mauro Coltelli (5), Tuomas Peltonen
+(6), Juhani Lahtinen (6), Marcus Hirtl (7), Delia Arnold (7), Timo Virtanen (8), Gerrit de Leeuw (8), Guðrún Nína
+Petersen (9), Sara Barsotti (9), Matthieu Plu (10), Gerhard Wotawa (7), and the EUNADICS-AV WP5 team
+(1) Royal Belgian Institute for Space Aeronomy (BIRA), Belgium, (2) Université Libre de Bruxelles (ULB), Belgium, (3)
+Deutsches Zentrum für Luft-und Raumfahrt (DLR), Germany, (4) Consiglio Nazionale delle Ricerche (CNR), Italy, (5)
+Instituto Nazionale di Geoﬁsica e Vulcanologia (INGV), Italy, (6) Radiation and Nuclear Safety Authority (STUK), Finland,
+(7) Zentralanstalt für Meteorologie und Geodynamik (ZAMG), Austria, (8) Finnish Meteorological Institute (FMI), Finland,
+(9) Icelandic Meteorological Ofﬁce (IMO), Iceland, (10) CNRM, UMR 3589, Météo-France/CNRS, France
+
+Aviation is one of the most critical infrastructures of the 21st century. In Europe, safe ﬂight operations, air trafﬁc
+management (ATM) and air trafﬁc control (ATC) are the shared responsibilities of EUROCONTROL, national
+authorities, airlines and pilots. The common goal of all stakeholders is to warrant and maintain the safety of ﬂight
+crews and passengers. However, there is still currently a signiﬁcant gap in the availability of real-time monitor-
+ing/modelling of airborne hazards. The main objective of the Horizon 2020 project EUNADICS-AV (European
+Natural Airborne Disaster Information and Coordination System for Aviation; http://www.eunadics.eu) is to close
+this gap in data availability, enabling all stakeholders in the aviation system to obtain fast, coherent, and consistent
+information.
+This study reports on WP5 of EUNADICS-AV, showing the development of a prototype multi-hazard monitor-
+ing and early warning system. For this task, improved near real-time retrievals from satellite and ground-based
+platforms (maximum delay of a few hours), are used in order to detect and send notiﬁcation of volcanic ash
+and SO2 plumes, sandstorms, dust clouds, aerosols produced from forest ﬁres, and radioactive plumes. to facili-
+tate the required information to trigger atmospheric transport and dispersion model forecasts/analyses aiming at
+demonstrating the added-value of integrating observed aerosols/radionuclide data for selected case crises affecting
+European air space. An example of the chain of actions, from retrievals to triggering and modelling is shown.
+
+

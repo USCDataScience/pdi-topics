@@ -1,0 +1,50 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-5609, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Contributions of clouds to Greenland’s surface melt: multi-year
+observations from automatic weather stations
+
+Wenshan Wang (1), Charles Zender (1), Dirk van As (2), Paul Smeets (3), Michiel van den Broeke (3), and
+Nathaniel Miller (4)
+(1) University of California Irvine, Irvine, United States, (2) Geological Survey of Denmark and Greenland (GEUS),
+Copenhagen, Denmark, (3) Institute for Marine and Atmospheric Research, Utrecht University (UU/IMAU), Utrecht,
+Netherlands, (4) University of Colorado Boulder, Boulder, United States
+
+Clouds have a strong impact on surface radiation ﬂuxes and may have triggered multiple massive melt events in
+the Arctic. However, harsh and distinctive physical conditions there make it difﬁcult to obtain the regular and
+reliable in-situ observations of clouds and radiation necessary to study the cloud radiative effects (CRE). In this
+study, we use radiation observed by 30+ automatic weather stations (AWS) all over Greenland, facilitated by a
+radiative transfer model, to establish the ﬁrst ground-truth dataset of surface CRE temporal variability and spatial
+distribution in Greenland’s melt season. We then use our novel dataset of CRE estimated from in-situ measurements
+to evaluate the surface CRE estimated by ﬁve well-known large-scale datasets from satellite retrievals, reanalyses,
+and climate models.
+Clouds currently warm Greenland during most of the melt season. However, seasonal CRE shows contrasting
+trends in the accumulation and ablation zones. CRE increases from May to July in the accumulation zone, mainly
+due to enhanced longwave CRE by cloud fraction and liquid water content. CRE decreases from May to July in the
+ablation zone, mainly due to strengthened shortwave CRE by surface albedo reduction. These different trends in
+different geographical regions explain a dispute in previous CRE studies: A study at Summit, Greenland exhibits
+a seasonal trend similar to that in the accumulation zone. Studies over sea ice exhibit ablation-zone-like seasonal
+trends. Moreover, the contrasting seasonal trends of longwave CRE indicate different cloud formation mechanisms
+in the ablation and central accumulation zones.
+CRE generally decreases with elevation, forming a “warm center” spatial distribution. In the accumulation zone,
+both longwave and shortwave CRE decrease with elevation. In the ablation zone, shortwave CRE with its strong
+spatial variability dominates the decreasing CRE trends towards coasts.
+We then evaluate ﬁve well-known gridded datasets by assessing their CRE spatial distributions against AWS esti-
+mates and examine their cloud-radiation physics as well as simulations of the major CRE determinants. CRE areal
+averages from the ﬁve datasets are similar (all around 10 W m−2). CRE estimates from MERRA-2, ERA-Interim,
+and CERES CRE estimates agree with in-situ estimates and reproduce the “warm center” distribution. However,
+the NCAR Arctic System Reanalysis (ASR) and the CESM Large ENSemble community project (LENS) show
+strong warming in the south and northwest, forming a “warm L-shape” CRE distribution. Discrepancies are mainly
+caused by longwave CRE in the accumulation zone. MERRA-2, ERA-Interim, and CERES successfully reproduce
+cloud fraction and its dominant positive inﬂuence on longwave CRE in this region. On the other hand, longwave
+CRE from ASR and LENS correlates strongly with ice water path instead of with cloud fraction or liquid water
+path.
+This study provides the ﬁrst surface CRE estimate over the entirety of Greenland using multi-year high-quality
+in-situ observations. It identiﬁes the unique features of CRE temporal and spatial distributions, and uses them to
+evaluate the verisimilitude of large-scale observations and simulations. Our new methods and ﬁndings improve
+understanding of and ability to predict cloud-related contributions to the increasing widespread melting events in
+Greenland and, by extension, other polar regions.
+
+

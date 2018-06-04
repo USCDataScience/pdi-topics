@@ -1,0 +1,51 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-11401, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Deciphering land-atmosphere interactions of reactive nitrogen using
+high-frequency isotope analysis
+
+Emily M. Elliott (1), Lucy A. Rose (2), and Zhongjie Yu (1)
+(1) University of Pittsburgh, Pittsburgh, Pennsylvania U.S.A., (2) University of Minnesota, St. Paul, Minnesota U.S.A.
+
+Methodological advances in sample collection and isotopic analyses have facilitated an exponential increase in the
+measurement of reactive nitrogen (N) isotopes in atmospheric systems. Despite rapid advances in our production of
+new data, most prior studies have characterized NOx emission and NO−
+3 deposition dynamics on seasonal, annual,
+and longer time scales. In contrast, much less attention has focused on NO−
+3 deposition dynamics over short time
+scales (e.g., individual storm events). Because NOx emissions from certain sources, such as lightning and biogenic
+emissions, are highly transient, improved characterization of N emission and deposition dynamics on episodic time
+scales is needed to clarify the importance of these sources to atmospheric NO−
+3 formation and deposition. Here we
+examine, on episodic time scales, shifts in the isotopic composition of rainwater nitrate and soil derived NOx in
+two separate case studies.
+We coupled the triple isotopic composition of NO−
+3 (δ15N, δ18O, and ∆17O) in hourly precipitation samples with
+regional air mass back trajectory analysis to evaluate nitrate formation pathways, fractionation dynamics, and
+NOx source contributions to precipitation NO−
+3 at Fernow Experimental Forest (West Virginia, USA) during six
+growing season storms. δ15N, δ18O, and ∆17O values in precipitation exhibited extreme variability, varying by up
+to 16(cid:104) 26(cid:104) and 9(cid:104) respectively, over two hours during some events. The wide range of ∆17O-NO−
+3 values
+encompassed by the precipitation NO−
+3 measured during these growing season storms, combined with the patterns
+in δ15N and δ18O of NO−
+3 over short time periods, demonstrate the dynamic nature of atmospheric NO−
+3 formation
+and deposition during storm events and the utility of triple nitrate isotopes for evaluating N deposition sources and
+processes.
+While soil NO emission is expected to be an important source driving the intra-precipitation variations of δ15N-
+NO−
+3 , δ15N of soil-emitted NO is notoriously hard to measure and predict due to the high chemical reactivity of
+NO and the episodic and complex nature of soil NO-producing processes. Here we highlight a new NO collection
+approach that is capable of collecting soil-emitted NO for δ15N analysis at time scale of minutes. Coupling this new
+method with a dynamic ﬂux chamber system under both laboratory and ﬁeld conditions, we show that transient, but
+pronounced variations in magnitude (up to nine-fold) and δ15N (up to 36%¸) of soil NO emission can be triggered
+by rewetting dry soils using different N substrates. These results collectively demonstrate the promising potential
+of high-frequency isotope analysis in characterizing the dynamic nature of soil NO emission, discerning microbial
+processes governing pulse soil NO emissions, and ultimately elucidating the complex land-atmosphere interactions
+of reactive N in natural and human-dominated ecosystems.
+
+

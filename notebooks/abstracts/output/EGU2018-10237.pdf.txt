@@ -1,0 +1,46 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10237, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Designing the Climate Observing System of the Future
+
+Bruce Wielicki (1), Elizabeth Weatherhead (2), and Venkatachalam Ramaswamy (3)
+(1) NASA Langley, Hampon, VA, United States (b.a.wielicki@nasa.gov), (2) University of Colorado, Boulder, CO, United
+States (betsy.weatherhead@colorado.edu), (3) NOAA Geophysical Fluid Dynamics Laboratory, Princeton, NJ, United States (
+v.ramaswamy@noaa.gov)
+
+Climate observations remain a serious challenge for current and future Earth observations. The number of
+essential climate variables to measure and monitor is ∼ 50, about 10 times the number for weather observations.
+Observing the critical small decadal changes in those variables commonly requires 10 times the accuracy of
+weather observations. Maintaining very high accuracy continuous global observations over many decades provides
+a third challenge. As a result, the world lacks a designed, complete, and rigorous climate observing system. Such
+a system would include global long term high accuracy monitoring of the 50 essential climate variables, as well as
+much more detailed observations of poorly understood climate processes such as aerosols, clouds, carbon cycle,
+ocean and ice sheet dynamics. It would provide independent observations to allow conﬁrmation of surprising
+results and independent analysis to discover and resolve observational system shortcomings. While progress has
+been made (e.g. WCRP GCOS, NASA Earth Observing System, Copernicus) very serious shortcomings remain
+(Trenberth et al. 2013).
+
+Given the magnitude of the task, what is the appropriate level of investment? What would the economic
+value of such a system be? Recent estimates based on narrowing uncertainty in climate sensitivity suggest a value
+of $10 to $20 Trillion U.S. dollars in net present value at a typical discount rate of 3%. The cost to provide such
+an advanced climate observing system might require tripling current investments of $4 Billion per year, for 30
+years or longer. But compared to its value, such an observing system would provide a return on investment of
+50:1 to 100:1, much higher than typical societal investments. How would such a system be designed? Several
+concepts have recently been suggested including the use of Quantiﬁed Science Objectives based on key IPCC
+uncertainties, climate model and process model Observing System Simulation Experiments (OSSEs) to improve
+the understanding of the relationship between observations and their ability to achieve a quantiﬁed science
+objective, and the required Quality of the observation especially for rigorous monitoring of critical long term
+trends (NASEM 2015, 2018). These concepts are in addition to traditional use of measures of technical readiness,
+risk, and cost.
+
+The need, value, and methods for designing such an observing system have been described in a recently
+published paper (Weatherhead et al. 2017, AGU Earth’s Future). This presentation will summarize that paper as
+well as interpret the need in terms of the recent U.S. Academy of Sciences Decadal Survey released in January
+2018. The Decadal Survey set of quantiﬁed climate science objectives allows a measure of how short we remain
+of the required observations. In most cases, the technology exists, but the resources to apply it do not. How do
+climate scientists better communicate this need to society as well as the large return on investment it represents?
+What is the right amount to invest? The goal of this paper is to prompt such discussion.
+
+

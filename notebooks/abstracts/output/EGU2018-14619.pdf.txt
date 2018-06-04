@@ -1,0 +1,26 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-14619, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+SO2 retrievals from TROPOMI: towards an improved monitoring of
+global volcanic degassing
+
+Nicolas Theys (1), Pascal Hedelt (2), Isabelle De Smedt (1), Christophe Lerot (1), Huan Yu (1), Hugues Brenot
+(1), Thomas Danckaert (1), Jonas Vlietinck (1), Mattia Pedergnana (2), and Diego Loyola (2)
+(1) BIRA-IASB, Bruxelles, Belgium (theys@aeronomie.be), (2) Institut für Methodik der Fernerkundung (IMF), Deutsches
+Zentrum für Luft und Raumfahrt (DLR), Oberpfaffenhofen, Germany
+
+Satellite remote sensing of sulfur dioxide is widely used to monitor volcanic degassing globally, in particular since
+2004 with measurements from the Ozone Monitoring Instrument (OMI). In this study, we present the ﬁrst SO2
+results from the TROPOspheric Monitoring Instrument (TROPOMI) which was launched onboard the Sentinel-5
+Precursor (S5P) platform on October 2017. While OMI and TROPOMI have similar spectral performances, the
+TROPOMI instrument has a spatial resolution of 7x3.5 km2, which is a factor of 12 better than OMI (13x24
+km2, before the OMI instrument gets affected by the so-called row anomaly issue). For a selection of degassing
+volcanoes, we illustrate the improved capability of TROPOMI to monitor volcanic SO2 emissions compared to
+OMI. In particular, we discuss the ability of the new sensor to detect smaller volcanic sources with better accuracy
+and selectivity. The retrieval challenges associated with higher resolution measurements are addressed, as well as
+new opportunities provided by TROPOMI to estimate volcanic SO2 ﬂuxes, with a detection limit of about a factor
+of 3 better than OMI. Plans for future work including validation are presented.
+
+

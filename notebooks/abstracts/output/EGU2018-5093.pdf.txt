@@ -1,0 +1,46 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-5093, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The Air Pollution and Human Heath in a Chinese Megacity research
+program: some early results
+
+James Lee
+Univeristy of York, National Centre for Atmospheric Science, Chemistry, York, United Kingdom (james.lee@york.ac.uk)
+
+In China, air pollution is a severe problem with occurrence of haze increasing in severity and frequency between
+the 1950s and 2000s. Chinese cities face high particulate matter concentrations, in particular PM2.5 concentrations,
+which regularly exceed World Health Organisation (WHO) air quality guidelines. This has been linked to higher
+health risks to the cardiovascular system, cerebrovascular system and an increase in the probability of cancer and
+premature death.
+Atmospheric Pollution and Human Health in a Chinese Megacity is a strategic research programme jointly sup-
+ported by the UK’s Natural Environment Research Council and Medical Research Council, and the National Nat-
+ural Science Foundation of China. Its aims are to identify the concentrations and sources of urban air pollution in
+Beijing, identify how people are exposed, to understand how it affects their health and to determine what can be
+done about it. The research is largely based around measurement campaigns that took place in Beijing in winter
+2016 and summer 2017.
+During summer, elevated levels of ozone were regularly observed, with maximum concentrations of 180 ppbv. On
+∼75% of days during this period, ozone breached the recommended WHO 8 hour exposure limit of 60 ppbv. The
+highest levels of ozone were observed on days when CO, volatile organic compounds (VOCs) and SO2 concentra-
+tions were highest, showing the importance of industrial emissions of precursor VOCs for ozone formation. The
+importance of different VOCs for in-situ ozone formation is investigated using a simple steady state analysis of
+OH reactivity, along with a more detailed analysis using the Master Chemical Mechanism.
+The mean daily concentration of PM2.5 in Beijing was 92.0 µg/m3 and 31.2 µg/m3 for winter and summer cam-
+paigns respectively. The concentration of organic and elemental carbon measured during the winter campaign was
+22.3 and 3.4 µg/m3 respectively. It was found that secondary inorganic aerosols and soil dust accounted for 32.6%
+and 9.7% of ﬁne particles at IAP. High contributions of potassium and chloride which represented 4.8% of PM2.5
+mass, suggested a large contribution of coal/biomass burning during winter.
+In order to understand emissions of primary air pollutants and improve emissions inventories, ﬂuxes of a large
+range of pollutants (CO2, CO, NOx, ozone, VOCs and NH3) were measured. In addition, aerosol ﬂuxes were
+measured using an Aerosol Mass Spectrometer (non-refractory NH4+, NO3-, SO42-, Cl- and organic aerosol) and
+trialling a single particle soot spectrometer for black carbon. Fluxes were similar in magnitude to Western city cen-
+tre locations, but with important differences: (a) aerosol emissions included SO2- and Cl- not previously observed;
+(b) NH3 ﬂuxes were larger than estimated for UK cities; (c) NOx ﬂuxes were lower than predicted by the emission
+inventories.
+In addition, the exposure of Beijing inhabitants to key health related pollutants was studied using personal air
+pollution monitors and the associated between air pollution exposure and key cardiopulmonary measures was as-
+sessed. The contribution of speciﬁc activities, environments and pollution sources to the personal exposure of the
+Beijing population to air pollutants derived from outdoor sources was also studied.
+
+

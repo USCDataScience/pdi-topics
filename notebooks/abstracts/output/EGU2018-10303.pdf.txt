@@ -1,0 +1,41 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10303, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+ProcEss studies at the Air-sEa Interface after dust deposition in the
+MEditerranean sea : results from the PEAcEtIME project
+
+Cecile Guieu (1), Karine Desboeufs (2), and the PEACETIME team
+(1) CNRS/Univ Paris VI, LOV, Villefranche sur Mer, France (guieu@obs-vlfr.fr), (2) LISA (Laboratoire Interuniversitaire des
+Systèmes Atmosphériques) UMR 7583, Universités Paris Diderot et Paris Est
+
+Processes occurring at the atmosphere-ocean interface are critical to the regulation of the Earth climate and to the
+delivery of key services provided by marine ecosystems. The Mediterranean Sea, a hot spot for biodiversity but
+also for climate change and anthropogenic pressure, is an ideal natural laboratory to study these processes. The
+goal of the PEACETIME project is to provide the understanding necessary to accurately represent natural and
+anthropogenic chemical exchanges at the air-sea interface and their impacts on marine ecosystems and services,
+today and in the future.
+In the frame of the PEACETIME project (http://peacetime-project.org/), an oceanographic cruise onboard the R/V
+‘Pourquoi Pas?’ took place in the Western/Central Mediterranean Sea May 10–June 11, 2017. The purpose of this
+expedition was to study the processes induced by atmospheric deposition, in particular Saharan dust, occurring at
+the air-sea interface in the Mediterranean Sea, a region of the world where atmospheric input plays a key role as a
+nutrient source for the marine biosphere.
+Combining in situ observations in the atmosphere and ocean with process studies in the water column as well as
+Climate Reactors incubation experiments, we characterized the chemical, biological and physical properties of the
+atmosphere, the marine surface micro-layer, and the deeper layers of the Mediterranean. Incubation experiments
+were set to reproduce different water temperatures and pCO2 conditions so that scientists could assess the atmo-
+spheric impacts in both present and future climate conditions.
+Moreover, the PEACETIME strategy included an “in-situ, real-time” approach: catching a real event of atmo-
+spheric deposition in Mediterranean waters, and documenting the ensemble of interactions induced on the surface
+ocean ecosystem. A ﬁne-tuned team of people (on and off-board) worked together to examine quasi-real time dust
+transport forecasts and satellite observations, adjust the cruise track, and position the ship in an area where deposi-
+tion events were forecasted. This unique coordinated effort succeeded, and the scientists were able to sample and
+measure the “real-time” effects of a dust deposition event on the marine surface waters.
+PEACETIME yields insights into the impact of atmospheric deposition on the cycle of chemical elements (nutri-
+ents, metals), on the biogeochemical functioning of the pelagic ecosystem and on the retroaction to the atmosphere.
+A ﬁrst set of results concerning physical, chemical, and biological measurements on both the marine stations, the
+atmospheric and marine underway and the incubation experiments will be presented to highlight the major ﬁndings
+so far.
+
+

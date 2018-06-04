@@ -1,0 +1,47 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10568, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Regionalizing sensitivity of long-term forecasts over Europe
+
+Louise Crochemore and Ilias Pechlivanidis
+SMHI, Hydrology Research Unit, Norrköping, Sweden (louise.crochemore@smhi.se)
+
+Many socio-economic sectors, such as energy production, risk management or tourism, can beneﬁt from hydro-
+logic forecasts at monthly to seasonal horizons. An increasing number of hydrologic forecasting systems are
+being developed along these lines, for scales ranging from the catchment through to the continental and global
+scales. Such forecasts are communicated along with a diagnostic of their performance with the month of the year
+and the lead time. The skill of hydrologic forecasts results from and is subject to different sources of uncertainty,
+i.e. model structure, parameters, initial conditions and meteorological forcing input. Identifying and quantifying
+the sensitivity of forecast systems to these different sources of uncertainty can guide the choice of components
+of a forecast system, or more generally foster efforts and investments for a given catchment, such as model
+improvements, new data acquisition tools or better meteorological forecasts.
+
+We investigate the relative contributions of initial hydrologic conditions (IHCs) and meteorological forcing
+(MF) to the skill of a pan-European seasonal hydrological forecasting system. The end point blending (EPB,
+Arnal et al., 2017), a computationally-light version of the variational ensemble streamﬂow prediction assessment
+(VESPA, Wood et al., 2016), which provides diagnostics of skill sensitivity to IHC and MF over forecast months
+and forecast aggregations, is applied in a set of catchments that are representative of the European hydro-climatic
+gradient. For this analysis, four ensembles are produced based on the European version of the HYPE hydrological
+model (E-HYPE) for the period 1981-2010. An ensemble based on modelled climatology blends uncertainties
+in IHCs and MF, an ensemble based on perfect forecasts without uncertainty from any of the two, Extended
+Streamﬂow Prediction (ESP) representing uncertainties in MF, and reverse ESP representing uncertainties in
+IHCs. In all analyses, both model state initialisation and provision of climatology are based on forcing input
+derived from the WFDEI product, a combination of the ERA-Interim reanalysis and of satellite products.
+
+In a previous study, eleven types of European catchments were identiﬁed in terms of prevailing hydro-
+climatic conditions and seasonal forecast skill. Here, the EPB method is applied in 550 basins selected uniformly
+within these eleven catchment types. From this analysis, we highlight characteristic patterns in skill sensitivity to
+IHCs and MF over Europe, and link these patterns to catchment hydrological features. We also investigate how
+and how fast sensitivity in IHCs and MF changes with the lead time. Finally, a regionalization of statistics in
+sensitivity patterns is investigated.
+
+Arnal, L., Wood, A. W., Stephens, E., Cloke, H. L. and Pappenberger, F.: An Efﬁcient Approach for Estimating
+Streamﬂow Forecast Skill Elasticity, J. Hydrometeorol., 18(6), 1715–1729, doi:10.1175/JHM-D-16-0259.1, 2017.
+
+Wood, A. W., Hopson, T., Newman, A., Brekke, L., Arnold, J. and Clark, M.: Quantifying Streamﬂow
+Forecast Skill Elasticity to Initial Condition and Climate Prediction Skill, J. Hydrometeorol., 17(2), 651–668,
+doi:10.1175/JHM-D-14-0213.1, 2016.
+
+

@@ -1,0 +1,32 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-14448, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Mechanisms of Indian Summer Monsoon Change in the HAPPI 1.5 ◦C
+and 2.0 ◦C Future Climate Experiments
+Jon Shonk and Andrew Turner
+NCAS, University of Reading, Reading, United Kingdom
+
+The Indian Summer Monsoon is an important part of the tropical climate system. As millions of people are
+dependent on its rainfall, the need to be able to produce reliable projections of how monsoon rainfall is likely
+to change in a future warmer climate is clear. In this work, part of the REAL Projections project, we use data
+from the HAPPI (Half a Degree Additional Warming: Prognosis and Projected Impacts) project, which comprises
+ten-year multi-model climate simulations imposing current climate conditions, and two sets of additional ten-year
+simulations in a future climate that is either 1.5 ◦C or 2.0 ◦C warmer.
+
+We compare both current climate simulations and changes in a warmer climate across ﬁve models from the
+HAPPI dataset. While the models agree on the general large-scale pattern of monsoon circulation and how
+that pattern could change, there is a great deal of disagreement in the detail. Consistency maps show that,
+even though the models all capture the general patterns of change, there is a disagreement in the sign and the
+magnitude of the predicted rainfall changes over India. We then compare the 1.5◦ C warmer and 2.0◦ C warmer
+scenarios and ﬁnd that, in terms of monsoon rainfall and circulation strength, the extra 0.5 ◦C of warming
+generally enhances the change from the initial 1.5 ◦C, but not in every model. We also examine the timing of
+the monsoon onset and the structure of its vertical circulation, which reveals different behaviours across the models.
+
+Next, we will investigate the changes to the Indian Summer Monsoon in more detail using the large num-
+ber of ensemble members available in the HAPPI data. We will examine the ranges of interannual variability
+of various monsoon indices and how these change in a warmer climate. We will also examine changes in the
+occurrence of extreme weather events.
+
+

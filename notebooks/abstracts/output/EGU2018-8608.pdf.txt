@@ -1,0 +1,27 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-8608, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Empirical Models of Atmospheric Pressure Fluctuations at the Ground
+Surface from 1-day period to 8 Hz
+
+Julien Marty
+CTBTO, Austria (julien.marty@ctbto.org)
+
+The infrasound component of the International Monitoring System (IMS) is composed of sixty stations, among
+which ﬁfty are already certiﬁed and continuously transmit data to the International Data Centre. Each infrasound
+station is composed of an array of infrasound measurement systems capable of measuring the pressure ﬂuctuations
+produced at ground surface. These pressure ﬂuctuations are produced by a combination of atmospheric phenomena
+such as meteorological processes, atmospheric tides, gravity waves, wind turbulence and acoustic sources. The
+objective of this presentation is to deﬁne reliable low- and high-noise empirical models for pressure ﬂuctuations
+measured at the ground surface from 1-day period to 8 Hz. These models support several IMS applications such as
+sensor testing, sensor self-calibration, data quality control and wind-noise reduction system design. While several
+models were proposed in the past, they were band-limited and included several limitations such as the use of non-
+calibrated or erroneous data or the non-correction of system responses. The progress recently made with system
+response modelling and calibration together with the use of advanced signal processing techniques now allow to
+propose reliable and extremely large-band models. In addition the obtained results allow characterizing processes
+such as gravity wave saturation or ﬂuctuation in the buoyancy frequency. They also allow distinguishing between
+the different types of wind turbulence responsible for background pressure ﬂuctuations.
+
+

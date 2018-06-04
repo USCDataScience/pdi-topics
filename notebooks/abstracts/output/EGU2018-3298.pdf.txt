@@ -1,0 +1,32 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-3298, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Robust intensiﬁcation of hydroclimatic intensity over East Asia from
+multi-model ensemble regional projections
+
+Joong-Bae Ahn (1), Eun-Soon Im (2), and Yeon-Woo Choi (1)
+(1) Pusan National University, Division of Earth Environmental System, Busan, Korea, Republic Of (jbahn@pusan.ac.kr), (2)
+Hong Kong University of Science and Technology, Hong Kong, China
+
+This study assesses the hydroclimatic response to global warming over East Asia from multi-model ensemble
+regional projections. Four different regional climate models (RCMs), namely, WRF, HadGEM3-RA, RegCM4,
+and GRIMs, are used for dynamical downscaling of the Hadley Centre Global Environmental Model version
+2–Atmosphere and Ocean (HadGEM2-AO) global projections forced by the representative concentration pathway
+(RCP4.5 and RCP8.5) scenarios. Annual mean precipitation, hydroclimatic intensity index (HY-INT), and wet and
+dry extreme indices are analyzed to identify the robust behavior of hydroclimatic change in response to enhanced
+emission scenarios using high-resolution (12.5 km) and long-term (1981–2100) daily precipitation. Ensemble
+projections exhibit increased hydroclimatic intensity across the entire domain and under both the RCP scenarios.
+However, a geographical pattern with predominantly intensiﬁed HY-INT does not fully emerge in the mean
+precipitation change because HY-INT is tied to the changes in the precipitation characteristics rather than to those
+in the precipitation amount. All projections show an enhancement of high intensity precipitation and a reduction
+of weak intensity precipitation, which lead to a possible shift in hydroclimatic regime prone to an increase of both
+wet and dry extremes. The forced responses of HY-INT and the two extreme indices are more robust than that of
+mean precipitation, in terms of the statistical signiﬁcance and model agreement.
+Acknowledgement: This work was funded by the Korea Meteorological Administration Research and Develop-
+ment Program under grant KMIPA 2015-2081.
+Reference: Im, E. S., Choi, Y. W., & Ahn, J. B. (2017). Robust intensiﬁcation of hydroclimatic intensity over East
+Asia from multi-model ensemble regional projections. Theoretical and Applied Climatology, 129(3-4), 1241-1254.
+
+

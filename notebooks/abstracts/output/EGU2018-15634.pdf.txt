@@ -1,0 +1,30 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-15634, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Future changes in intense precipitation over Europe at the daily and
+sub-daily time scales
+
+Enrico Scoccimarro (1), Gabriele Villarini (3), Marcello Vichi (4), Matteo Zampieri (5), Alessio Bellucci (1), Pier
+Giuseppe Fogli (1), and Silvio Gualdi (2)
+(1) Fondazione Centro euro-Mediterraneo sui Cambiamenti Climatici, Centro euro Mediterraneo sui Cambiamenti Climatici,
+Italy (enrico.scoccimarro@cmcc.it), (2) Istituto Nazionale di Geoﬁsica e Vulcanologia, (3) IIHR-Hydroscience &
+Engineering, The University of Iowa, Iowa City, (4) Department of Oceanography, University of Cape Town, (5) European
+Commission, Ispra, Italy
+
+Heavy precipitation is a major hazard over Europe. It is well established that climate model projections indicate
+a tendency towards more extreme daily rainfall events. It is still uncertain, however, how this changing intensity
+translates at the sub-daily time scales. The main goal of the present study is to examine possible differences in
+projected changes in intense precipitation events over Europe at the daily and sub-daily (3-hourly) time scales
+using a state-of-the-art climate model. The focus will be on one Representative Concentration Pathway (RCP8.5),
+considered as illustrative of a high rate of increase in greenhouse gas concentrations over this century. There are
+statistically signiﬁcant differences in intense precipitation projections (up to 40%) when comparing the results
+at the daily and sub-daily time scales. Over north-eastern Europe, projected precipitation intensiﬁcation at the
+3-hour scale is lower than at the daily scale. On the other hand, Spain and the western seaboard exhibit an opposite
+behaviour, with stronger intensiﬁcation at the 3-hour scale rather than daily scale. While the mean properties of
+the precipitation distributions are independent of the analysed frequency, projected precipitation intensiﬁcation
+exhibits regional differences. This ﬁnding has implications on the extrapolation of impacts of intense precipitation
+events, given the daily time scale the analyses are usually performed at.
+
+

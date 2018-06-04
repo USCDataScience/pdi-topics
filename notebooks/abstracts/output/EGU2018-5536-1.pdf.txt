@@ -1,0 +1,32 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-5536-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Wildﬁre-Driven Thunderstorms Cause a Volcano-Like Stratospheric
+Injection of Smoke
+
+David Peterson (1), James Campbell (1), Edward Hyer (1), Michael Fromm (2), George (Pat) Kablick (2), Joshua
+Cossuth (1), and Matthew DeLand (3)
+(1) U. S. Naval Research Laboratory, Monterey, CA, USA (david.peterson@nrlmry.navy.mil), (2) U. S. Naval Research
+Laboratory, Washington, DC, USA, (3) Science Systems and Applications, Inc. (SSAI), Lanham, MD, USA
+
+Intense heating by wildﬁres can generate a deep, smoke-infused thunderstorm, known as pyrocumulonimbus (py-
+roCb), which can release a large quantity of smoke particles into the upper troposphere and lower stratosphere.
+To date, however, the impact of pyroCb on climate has never been systematically explored, and remains almost
+completely unquantiﬁed. Here we employ satellite observations to quantify the mass of smoke aerosol injected
+into the lower stratosphere from ﬁve near-simultaneous intense pyroCb observed in western North America on
+12 August 2017. We ﬁnd that the stratospheric aerosol mass injected by this extreme event was comparable to a
+moderate volcanic eruption, or a Volcanic Explosivity Index (VEI) event measured between 3 and 4. The strato-
+spheric impact was an order of magnitude larger than the most signiﬁcant single-event stratospheric intrusion of
+smoke aerosol recorded to date, producing a high-altitude smoke layer that encircled the Northern Hemisphere
+over several months. This extreme event likely exceeded the total stratospheric aerosol mass injected by all py-
+roCb activity (26 events) observed during the ﬁre season of 2013 across western North America. These results
+demonstrate that that pyroCb activity, quantiﬁed as either large singular events or a ﬁre season inventory, can sig-
+niﬁcantly inﬂuence the lower-stratosphere in a manner similar to infrequent volcanic intrusions. The meteorology
+driving pyroCb occurrence, combined with increasingly active ﬁre seasons, indicates that pyroCb are a signiﬁcant
+and endemic summertime feature in several temperate regions worldwide. We anticipate that this study will es-
+tablish a foundation for understanding the effects of pyroCb smoke on lower-stratospheric chemistry and dynamic
+circulation.
+
+

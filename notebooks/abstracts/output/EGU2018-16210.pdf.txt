@@ -1,0 +1,46 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-16210, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The terrestrial paleo-magnetosphere and its implications on the origin
+and evolution of the nitrogen-dominated atmosphere
+
+Manuel Scherf (1), Maxim Khodachenko (1,2), Helmut Lammer (1), Igor Alexeev (2), Colin Johnstone (3),
+Manuel Guedel (3), Lin Tu (3), Marina Blokhina (2), John Tarduno (4), Herbert Lichtenegger (1), and Yuri
+Kulikov (5)
+(1) Space Research Institute, Austrian Academy of Sciences, Graz, Austria (manuel.scherf@oeaw.ac.at), (2) Skobeltsyn
+Institute of Nuclear Physics, Moscow State University, Moscow, Russia, (3) Institute of Astrophysics, University of Vienna,
+Vienna, Austria, (4) Department of Earth and Environmental Sciences, University of Rochester, Rochester, NY 14627, USA,
+(5) Polar Geophysical Institute, Russian Academy of Sciences, Murmansk, Russian Federation
+
+The present-day terrestrial atmosphere, as dominated by the volatile elements nitrogen and oxygen, is provid-
+ing a habitable environment for a diverse range of life forms. However, simulations of the terrestrial paleo-
+magnetosphere as well as of the solar wind induced atmospheric ion-pickup escape ∼4 Gyr ago (see e.g. [1])
+are indicating that during the harsh conditions of the Hadean and early Archean eons a nitrogen dominated atmo-
+sphere would not have been able to survive, but would have been eroded within a few million years due to the
+high EUV ﬂux and the strong solar wind of the early Sun [2][3]. In addition, these results are suggesting that the
+present-day nitrogen-dominated atmosphere has its origin during later stages of the geological history of the Earth,
+whereas for the late Hadean and early Archean, CO2 can be considered as the dominating atmospheric constituent.
+However, the small 14N/15N isotope disequilibrium between internal and surface reservoirs at the Earth [4] is in-
+dicating that some atmospheric escape of nitrogen should have taken place in the past. This escape, as well as the
+overall historical composition of the atmosphere are strongly coupled to the shape of the paleo-magnetosphere and
+to its interplay with the varying solar activity factors.
+We will present simulations of the terrestrial paleo-magnetosphere during the late Hadean and Archean eons and
+its inﬂuence on the evolution of the terrestrial nitrogen atmosphere. This also includes an estimation of nitrogen
+lost to space based on the observed terrestrial 14N/15N fractionation. Our results support the idea that the nitro-
+gen dominated atmosphere started to build up during the Archean eon and slowly evolved from a low-pressure
+atmosphere via outgassing of N2 into the present-day habitable environment. Important environmental conditions
+for this evolution and its interconnections will be discussed within this presentation. This also includes a potential
+solution for the before mentioned 14N/15N disequilibrium.
+Acknowledgement. The authors acknowledge the support of the FWF NFN project Pathways to “Habitabil-
+ity: From Disks to Active Stars, Planets and Life”, in particular its related sub-projects S11604-N16, S11606-
+N16 and S11607-N16. This publication is supported by the Austrian Science Fund (FWF) and the 550 US NSF
+(EAR1015269 to JAT).
+References:
+[1] Lichtenegger, H. et al., Icarus, 210, 1-7, 2010.
+[2] Tu, L. et al., Astron. Astrophys, 577, L3, 2015.
+[3] Johnstone, C. et al., Astron. Astrophys. 577, A28, 2015.
+[4] Cartigny, P. & Marty, B., Elements, 9, 359-366, 2013.
+
+

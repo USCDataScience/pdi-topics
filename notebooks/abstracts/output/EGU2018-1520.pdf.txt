@@ -1,0 +1,37 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-1520, 2018
+EGU General Assembly 2018
+© Author(s) 2017. CC Attribution 4.0 license.
+
+Land surface temperature measurement with an infrared camera, in-situ
+emissivity measurement
+
+Jean-Pierre Monchau (1), Mario Marchetti (2), Laurent Ibos (3), Bruno Saintot (2), Mathieu Kremer (1), and
+Nicolas Lalanne (1)
+(1) THEMACS Ingénierie, France (monchau@themacs.fr), (2) CEREMA, Nancy, FRANCE, (3) CERTES Université Paris
+Est, Créteil, FRANCE
+
+Mobility in adverse winter conditions is a recurring problem that affects economy. The massive salting of roads
+affects the ecology of soils, surface waters and groundwater. To mitigate this alteration of ecosystems and to
+implement sustainable winter maintenance, thermal mapping of roads is a solution that enables to predict the
+risk of ice occurrence and snow accumulation and to limit the salting to what is strictly necessary. To achieve an
+unbiased result it is necessary to know the thermal behaviour of the road.
+In order to measure the surface temperature of the road with a radiative method, its emissivity and the radiation
+from the half space seen from the surface have to be determined. Since the thermal and environmental character-
+istics of the road may change along the section considered, the temperature measurement must be carried out on
+the entire road. This method is conventionally called "thermal mapping". It consists in measuring the radiation
+emitted from the road using an apparatus set on a vehicle embedded into the trafﬁc. It is important to have an
+accurate value of the directional emissivity of the monitored surface in the spectral band and in the direction the
+detector aimed.
+This study presents in-situ directional emissivity measurements in both broadband and in the speciﬁc spectral
+band of the infrared camera that was used. Spectral measurements have also been made in laboratory with several
+apparatus.
+These directional emissivity values have been used to correct the surface temperature measurements made along
+the roadway in Paris (France). Land measurements and an aerial thermography campaign have been simultane-
+ously carried out. These data were compared with those acquired by a radiometer. Another campaign has been
+carried out in the Namibian desert in June 2017 to compare land surface temperature with satellite measurements
+from ESA (European Space Agency). Results indicated a good agreement between the data collected by the
+different methods. Emissivity measurements have been made too, providing valuable information on pavement
+radiative properties.
+
+

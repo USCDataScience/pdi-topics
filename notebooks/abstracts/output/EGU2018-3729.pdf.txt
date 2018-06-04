@@ -1,0 +1,78 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-3729, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+Atmospheric Research from past to future- Personal Perspective
+
+Pinhas Alpert
+Tel-Aviv University, Tel-Aviv University, Geophysical, Atmospheric & Planetary Sciences, Tel-Aviv, Israel
+(pinhas@post.tau.ac.il)
+
+Atmospheric Research from past to future- Personal Perspective
+
+Pinhas Alpert
+School of Geosciences, Faculty of Exact Sciences
+Tel Aviv University, Israel, postal code 6997801 pinhas@post.tau.ac.il
+
+Abstract
+
+I will describe two of our inventions that had global spread and then discuss some major questions related
+to Mediterranean climate.
+Since our pioneering suggestion of the Factor Separation (FS) Methodology in the atmosphere (Stein and Alpert,
+1993), many different FS applications were performed, as summarized by Alpert and Sholokhman (2011). Several
+climate and weather FS applications with focus on the central role of synergies or interactions among different
+factors as ﬁrst revealed by this methodology are pointed out. Evidence for the role of climate synergies from the
+leaf cell up to global scale will be shown (Alpert et al., 2006). Lessons from recent 20 years FS studies in weather
+& climate will be highlighted.
+Another global problem to be discussed is the global dimming and our suggestion that the increased urbanization
+particularly over world megacities had the major contribution to the solar dimming.
+The important of novel monitoring systems in solving some of the current and future major atmospheric challenges
+will be highlighted. For instance, the Commercial Microwave Links (CML) to monitor near-surface moisture in
+its different phases including rainfall, fog and air-moisture (Alpert et al., 2016) that we have suggested (Messer et
+al., 2006) is an example that spread just in one decade to many groups worldwide.
+Another new monitoring approach for aerosols, i.e. the ceilometer data, will be shown as useful to study the recent
+dust storm from Syria and whether there is a potential new aerosol source in the E. Mediterranean from Syria-Iraq
+(Uzan et al., 2017).
+A central issue in global warming is the recognized Mediterranean "hot spot" with its predicted drying and
+warming. How will this endanger the poor population of the E. Mediterranean and the Mid-East and cause of
+potential spread of unrest to other regions of the world?
+
+References:
+P. Alpert and P. Kishcha, "Quantiﬁcation of the effect of urbanization on solar dimming", Geophys. Res. Lett., 35,
+L08801, 2008.
+P. Alpert, H. Messer and N.David, "Meteorology: Mobile networks aid weather monitoring", Nature, 537, 617,
+(September 2016).
+P. Alpert, D. Niyogi, R.A. Pielke,Sr., J. L. Eastman, Y.K. Xue, and S. Raman, "Evidence for carbon dioxide and
+moisture interactions from the leaf cell up to global scales: Perspective on human-caused climate change", Global
+Planetary Change (LCLUC Issue), 54, 2006.
+P. Alpert
+ture
+http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521191739
+H. Messer, A. Zinevich and P. Alpert, "Environmental monitoring by wireless communication networks", Science,
+312, 2006.
+U. Stein and P. Alpert, "Factor separation in numerical simulations", J. Atmos. Sci., 50, 2107, 1993.
+L. Uzan, S. Egert, and P. Alpert, " New insights into the vertical structure of the September 2015 dust storm
+employing 8 ceilometers over Israel", ACP, 2018 (in revision)
+
+in
+(Eds.), Cambridge University
+
+the Atmosphere, Applications
+
+"Factor Separation
+Sholokhman
+
+T.
+
+and T. Sholokhman,
+
+Prospects",
+
+P. Alpert
+
+and
+
+and Fu-
+Press,2011.
+
+

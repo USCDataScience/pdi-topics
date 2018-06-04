@@ -1,0 +1,23 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-5030, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Paleoclimatic insights into forcing and response of monsoon rainfall
+
+Mahyar Mohtadi and Matthias Prange
+MARUM, University of Bremen, Bremen, Germany (mohtadi@uni-bremen.de)
+
+Paleoclimatic evidence of monsoon rainfall dynamics across different regions and timescales could help us to
+understand and predict the sensitivity and response of monsoons to varying environmental conditions. Monsoon
+rainfall records show that large-scale meridional temperature gradients and the related position of the intertropical
+convergence zone strongly shape the monsoon dynamics. However, study of past monsoons also reveals that these
+temperature gradients are sensitive to many types of forcing, the inﬂuence of which seems to vary in time and space.
+For instance, orbital forcing affects all the monsoon domains by changing the meridional gradient in insolation
+and, hence, heating. However, there is no consistent response of the speciﬁc monsoon systems to orbitally forced
+insolation changes. This is partly due to the internal feedback mechanisms such as ocean–atmosphere interaction.
+We discuss some of the main forcings of monsoon variability and their uncertainties, and argue that a coordinated
+effort to quantify past variations in meridional temperature gradients and the connection between oceanic heat
+transport and monsoon systems will provide a crucial test bed for model improvement.
+
+

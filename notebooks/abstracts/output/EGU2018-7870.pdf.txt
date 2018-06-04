@@ -1,0 +1,29 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-7870, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Global Modeling of Oceanic Carbon Monoxide Emissions
+
+Ludivine Conte (1), Sophie Szopa (1), and Laurent Bopp (2)
+(1) Laboratoire des Sciences du Climat et de l’Environnement-IPSL-CEA-UVSQ, France, (2) Laboratoire de Météorologie
+Dynamique-IPSL, Ecole Nationale Supérieure Paris, France
+
+Carbon monoxide (CO) is an important compound for tropospheric chemistry. It is the dominant sink for hydroxyl
+radicals and is involved in ozone chemistry. Hence, atmospheric CO concentrations indirectly affect the lifetime
+of greenhouse gases like methane and have impacts on air quality. The ocean has long been recognized as a source
+of atmospheric CO. Even if in minority at the global scale, it plays a key role far from continental anthropized
+zones. Its marine production is linked to both photooxidation of organic matter and phytoplanktonic activity
+and can thus have a large interannual variability. Several campaigns have been carried out to characterize these
+emissions and were used to assess the global oceanic source but due to their scarcity and to large heterogeneities
+in phytoplankton and organic matter distributions, the extrapolation is rather imprecise. Our study aims to quantify
+the CO oceanic emissions at the global scale and to characterize their interannual variability and trends considering
+multidecadal global changes. The marine biogeochemical model PISCES, coupled to the ocean general circulation
+model NEMO, explicitly represents CO source and sink terms in the ocean. These terms include photoproduction,
+which is related to the action of UV on colored dissolved organic matter, phytoplankton production, bacterial
+consumption and ﬂuxes at the ocean-atmosphere interface. Simulated oceanic CO concentrations have been
+compared to literature reported surface data as well as vertical proﬁles collected around the world during the last
+30 years. First results show a global emission of a few TgC per year, with large spatial and seasonal variabilities
+in both oceanic concentrations and emissions.
+
+

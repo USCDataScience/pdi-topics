@@ -1,0 +1,51 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18357, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+A Thermal Imaging Instrument with Uncooled Detectors
+
+Alicia Joseph (1), Emily Barrentine (2), and Ari Brown (2)
+(1) NASA GSFC, Code 617, Greenbelt, United States (alicia.t.joseph@nasa.gov), (2) NASA GSFC, Code 553, Greenbelt,
+United States
+
+The National Research Council’s Committee on Implementation of a Sustained Land Imaging Program has
+identiﬁed the inclusion of a thermal imager as critical for both current and future land imaging missions. Such
+an imaging instrument operating in two bands located at approximately 11 and 12 microns (for example, in
+Landsat 8, and also Landsat 9 when launched) will provide essential information for furthering our hydrologic
+understanding at scales of human inﬂuence, and produce ﬁeld-scale moisture information through accurate
+retrievals of evapotranspiration (ET). Landsat 9 is slated to recycle the TIRS-2 instrument launched with Landsat
+8 that uses cooled quantum well infrared photodetectors (QWIPs) operating at about 43-65 K temperature, hence
+requiring expensive and massive cryocooler technology to achieve its required spectral and spatial accuracies.
+
+Our goal is to conceptualize and develop a thermal imaging instrument which leverages recent and immi-
+nent technology advances in uncooled detectors. Such detector technology will offer the beneﬁt of greatly reduced
+instrument cost, mass, and power at the expense of some acceptable loss in detector sensitivity. It would also
+allow a thermal imaging instrument to be ﬁelded on board a low-cost platform, e.g., a CubeSat. This would enable
+capitalizing on the greater number of launch opportunities available for launch vehicles.
+
+Sustained and enhanced land imaging is crucial for providing high-quality science data on change in land
+use, forest health, crop status, environment, and climate. Accurate satellite mapping of ET at the agricultural ﬁeld
+scale (the ﬁnest spatial scale of the environmental processes of interest) requires high-quality thermal data to
+produce the corresponding accurate land surface temperature (LST) retrievals used to drive an ET model. Such an
+imaging instrument would provide important information on the following: 1) the relationship between land-use
+and land/water management practices and water use dynamics; 2) the interconnections between anthropogenic
+water management and changes in hydrologic budget at scales of human inﬂuence; and 3) complimentary
+ﬁeld-scale moisture values for interpreting coarser resolution datasets.
+
+There is clear need for continuing innovation in thermal remote sensing detector technology. By 2023,
+scheduled launch year for Landsat 9, its thermal detector technology will be ﬁfteen years old, and Landsat 8 will
+be approaching the end of its useful life. In the near term, ESA’s launch of Sentinel-2, a constellation of two
+satellites with multi-spectral imagers, will provide high-resolution imaging in the 443-2190 nm spectral range, but
+with no thermal coverage.
+
+Recent advances in uncooled detector technology, by developing novel types of ultrasensitive thermopiles
+like doped-silicon thermopiles, offer the prospect of realizing a viable thermal instrument.
+
+We reviewed low-TRL technologies: Vanadium oxide bolometers, Bi-Te thermopile technologies, and doped-Si
+thermopiles, a new detector concept developed by our team, then compared them and their potential for improve-
+ment to the current leading cooled detector technology for land imaging, QWIPs. We modiﬁed our doped-Si
+design to meet TIRs instrument requirements including pixel size and speed. Based on the results of these studies
+we decided to pursue doped-Si thermopile technology for development efforts.
+
+

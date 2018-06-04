@@ -1,0 +1,42 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-13801, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Pollution tracks in clouds provide direct observational evidence for weak
+cloud water response to aerosols
+
+Velle Toll (1), Nicolas Bellouin (1), Matthew Christensen (2), Andrew Gettelman (3), Santiago Gassó (4,5)
+(1) Department of Meteorology, University of Reading, Reading, UK (v.toll@reading.ac.uk), (2) Atmospheric, Oceanic and
+Planetary Physics, University of Oxford, Oxford, UK, (3) National Center for Atmospheric Research, Boulder, Colorado,
+USA, (4) GESTAR, Morgan State University, Baltimore, MD, USA, (5) Climate and Radiation Laboratory, NASA/GSFC,
+Greenbelt, MD, USA
+
+Aerosol-cloud interaction is the most uncertain mechanism of anthropogenic radiative forcing of Earth’s climate,
+and aerosol-induced cloud water changes are particularly poorly constrained in climate models. Ship tracks,
+linear cloud features in marine stratocumulus clouds impacted by ship emissions, have been long recognized as
+real-world experiments of aerosol-cloud interactions. We demonstrate that similar cloud tracks occur in various
+type of warm clouds over ocean and land as a response to aerosols from various natural and anthropogenic sources.
+Using aerosol-induced tracks in clouds, we compare polluted cloud properties with the properties of the nearby
+unpolluted clouds using remote sensing data from MODerate-resolution Imaging Spectroradiometer.
+
+In this research, we extend observations of volcano and ship tracks from Toll et al.
+(2017, GRL;
+https://doi.org/10.1002/2017GL075280) with observations of industry (oil reﬁneries, smelters etc) and wild-
+ﬁre tracks over land. Industry and wildﬁre tracks have been detected on most continents providing a near-global
+observational constraint on cloud responses to aerosols together with volcano and ship tracks over oceans. Track
+observations suggest that cloud water both increases and decreases in tracks, resulting in weak average cloud water
+response. Strong decreases in cloud droplet sizes are seen in all types of tracks. Track observations show that cloud
+water increases in precipitating clouds due to suppression of rain. Cloud water decreases in non-precipitating
+clouds with dry air above the clouds. The relative humidity dependence of the cloud response suggests that
+enhanced entrainment leads to decreased cloud water in non-raining clouds. Preliminary results suggest that the
+cloud water tends to decrease more readily over land, partly offsetting the radiative forcing through the ﬁrst
+aerosol indirect effect.
+
+Finally, we compare track observations with cloud water responses in the Hadley Centre climate model
+and Community Atmosphere Model. In stark contrast to observations, strong systematic cloud water increases
+occur in climate models as only aerosol-induced suppression of rain is accounted for in the models. The discrep-
+ancy between climate models and track observations suggests that model estimates of radiative forcing through
+aerosol-cloud interactions may be overly negative.
+
+

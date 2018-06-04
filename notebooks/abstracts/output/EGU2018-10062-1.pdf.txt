@@ -1,0 +1,39 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-10062-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Analysis of aerosol deposition on snowpack over global high mountain
+ranges
+
+Paul Ginoux (1), Sarah Kapnick (1), Sergey Malyshev (1), Veronica Chan (1,2), Huan Guo (1,3), Chris Milly (4),
+Vaishali Naik (1), Salvatore Pascale (1,2), Bing Pu (1,2), Elena Shevliakova (1), and Ming Zhao (1)
+(1) NOAA-GFDL, Atmospheric Physics, Chemistry, and Climate, Princeton, United States, (2) Atmospheric and Oceanic
+Sciences Program, Princeton University, Princeton, United States, (3) UCAR Visiting Scientist Program, Princeton, United
+States, (4) Geological Survey, Princeton, United States
+
+Snow and ice over high mountain ranges are often not pure, but contains absorbing aerosols such as black carbon
+or dust. These impurities can alter the surface albedo and inﬂuence cryosphere melt dynamics and feed back on
+broader circulation. These effects will depend on the intensity of snowfall accumulation and aerosol deposition, as
+well as their spatial and temporal distributions.
+Here, we present an analysis of a 36-year simulation (1980-2015) with the new Geophysical Fluid Dynamics
+Laboratory (GFDL) atmospheric and land model (AM4-LM4) using the latest CMIP6 inventory of emission of
+aerosols, GHGs and other forcing agents, with a 50 km resolution, and nudging of wind components by NCEP
+re-analysis. After brieﬂy presenting the evaluation of AM4 performances by comparing precipitation, snow and
+aerosol properties with observations, we will discuss the key features of the variability and trends of snow and
+aerosol deposition over major mountain ranges in North America (Alaska and Rockies), South America (Andes),
+Europe (Alps), and Central (Caucasus) and East (Hindu Kush, Karakoram, Tian Shan, Hengduan, and Himalayas)
+Asia.
+While most mountain ranges have nearby sources of dust or pollutants, they are rarely collocated. This will
+translate into distinct spatial distributions and temporal variations. One important factor is the vertical distribution
+of aerosol deposition, which generally does not coincide with maximum snow depth. Regional sources have their
+maximum deposition rates on the ﬂank of the mountain with large contribution from dry deposition. Remote
+sources will contribute dominantly by wet deposition at higher elevation. We can then classify mountain ranges
+where one or both aerosol depositions are in phase or out of phase with the snow accumulation season. Our results
+indicate considerable variability of aerosol deposition between mountain ranges, and the importance of taking into
+account their spatial and seasonal variability. We are also able to classify high mountain snowpack with signiﬁcant
+trends of aerosol deposition since the 1980s. The sign of these trends varies not only between mountain ranges,
+but also by aerosol classiﬁcation within a single range, highlighting the importance of regional aerosol-snowpack
+assessments.
+
+

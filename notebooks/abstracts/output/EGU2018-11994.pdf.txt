@@ -1,0 +1,52 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-11994, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+ACE-SPACE: Overview of Southern Ocean aerosols, CCN and INP from a
+recent circumnavigation of Antarctica
+
+Julia Schmale (1), Silvia Henning (2), Andrea Baccarini (1), André Welti (2), Iris Thurnherr (3), Franziska
+Aemisegger (3), Daniel Rosenfeld (4), Leighton Regayre (5), Irina Gorodetskaya (6), Frank Stratmann (2), Josef
+Dommen (1), Martin Gysel (1), Urs Baltensperger (1), Ken Carslaw (5), and the ACE-Atmosphere Team
+(1) Paul Scherrer Institute, Villigen, Switzerland (julia.schmale@psi.ch), (2) Leibniz-Institute for Tropospheric Research,
+Leipzig, Germany, (3) Institute of Atmospheric and Climate Science, ETH, Zürich, Switzerland, (4) Institute of Earth
+Sciences, Hebrew University of Jerusalem, Jerusalem, Israel, (5) Institute for Climate and Atmospheric Sciences, University
+of Leeds, Leeds, UK, (6) Centre for Environmental and Marine Sciences, Department of Physics, University of Aveiro,
+Portugal, (7) University of Tromso, Tromso, Norway, (8) Centre for Environmental and Agricultural Informatics, University of
+Cranﬁeld, Cranﬁeld, UK, (9) University of Helsinki, Helsinki, Finland, (10) Karlsruhe Institute ofKarlsruhe Institute of
+Technology, Institute for Meteorology and Climate Research, Karlsruhe, 76344, Germany Technology, (11) Centre for
+Atmospheric Science, University of Cambridge, Cambridge, UK
+
+Aerosol-cloud interactions are the least understood anthropogenic inﬂuence on climate change. A major cause of
+this limited understanding is the poorly quantiﬁed state of aerosols in the pristine preindustrial atmosphere, which
+deﬁnes the baseline against which anthropogenic effects are calculated. Especially over the Southern Ocean,
+models grossly underestimate cloud albedo, resulting in biases as large as 30 W m-2 in reﬂected short wave
+radiation.
+
+This contribution will provide an overview of the project ‘Antarctic Circumnavigation Expedition: Study of
+Preindustrial-like-Aerosol Climate Effects’ (ACE SPACE) whose main purpose was to conduct a comprehensive
+aerosol characterization in preindustrial-like conditions over the Southern Ocean. The campaign took place from
+December 2016 to March 2017 and covered the Indian, Paciﬁc and Atlantic Oceans between Cape Town, Hobart,
+Punta Arenas, and Cape Town, recording aerosol data in some regions for the ﬁrst time. The data set is not only
+of interest to understand atmospheric processes under pristine conditions, but also particularly useful to validate
+satellite retrievals of aerosol properties and model simulations, which are both essentially unconstrained over the
+Southern Ocean.
+
+Here, we will present aerosol microphysical and chemical characteristics and discuss particle and cloud
+condensation nuclei (CCN) origin. Important factors inﬂuencing aerosol properties were meteorology, the ther-
+modynamic structure of the boundary layer and ocean biological activity (phytoplankton blooms). For example,
+the leg between South Africa and Australia experienced a series of low-pressure systems characterized by a
+signiﬁcant fraction of Aitken mode particles. Contrary to previous observations, the small mode dominated the
+size distribution under calmer conditions and was not necessarily associated with air mass trajectories arriving
+from higher altitudes. Near the West-Antarctic coast between Australia and South America, accumulation mode
+particles were found to dominate the size distributions that were associated with open ocean air masses and
+potentially cloud processing. The mode also contained methane-sulfonic acid, a product from phytoplankton
+related dimethyl sulfate emissions. These particles were found to activate between 90 and 100 % as CCN at a
+supersaturation of 0.3 %. Conversely, only 26 % of particles arriving with air masses from Antarctica activated as
+CCN, primarily because their dominant mode was < 30 nm. A small number of new particle formation events was
+observed as well. Preliminary analyses suggest that they were associated with coastal air masses and particles did
+not grow into the CCN size range. In addition, throughout the whole voyage, ice nucleating particles (INP) were
+measured with a ﬁlter-based method. Cumulative concentrations were low in the order of 1 m-3 at -15◦C.
+
+

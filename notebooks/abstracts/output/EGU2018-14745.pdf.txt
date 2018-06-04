@@ -1,0 +1,31 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-14745, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Modelling soil Organic Carbon and mineral composition using reﬂectance
+and emissivity data
+
+Veronika Kopaˇcková (1), Jan Jelének (1), Lucie Koucká (1), Kateˇrina Fárová (1), and Miroslav Pikl (2)
+(1) Czech Geological Survey, Remote sensing, Czech Republic (veronika.kopackova@seznam.cz), (2) Global Change
+Research Institute CAS - CzechGlobe, Belidla 986/4a, Brno, Czech Republic
+
+Conventional laboratory analysis such as X-ray diffraction (XRD), silicate analysis and organic carbon (OC) are
+time-consuming and expensive. On the other hand, soil spectroscopy has shown to be a fast and reproducible
+technique that has been increasingly used for rapid, non-destructive and cost-effective soil analyses. In this
+study, optical (reﬂectance) and thermal (emissivity) soil spectroscopy was employed to soil proﬁle samples
+that represent the all major variability in forest soils in the Czech Republic (the soil samples taken from all the
+horizons down to 80-cm depth were utilized). Optical spectral libraries were collected using a Spectral Evolution
+spectrometer (SR 2500, 0.4-2.5 µm), in order to normalize and align these spectral measurements taken during the
+summer 2016 the internal soil standard (ISS) concept, in which a soil standard sample exhibiting stable spectral
+performance was used. The emissivity spectra for selected soil samples were acquired in September 2017 using
+a Fourier transform infrared (FTIR, 8-14 µm) spectrometer. The reﬂectance and emissivity data of soil proﬁles
+together with mineral (XRD) and geochemical analysis were used to model the soil mineral compositions when
+focusing on the relationship between phyllosilicate composition and Organic Carbon (OC). Furthermore, soil
+reﬂectance/emissivity data were resampled to a spectral resolution of the following satellite sensors – WorldView3,
+Sentinel-2, EnMap and HispIRI – and potential capability of using these new-generation satellite data to model
+OC and soil mineral composition is further discussed.
+Acknowledgements: presented research has been conducted under the support of Czech Science Foundation (grant
+17-05743S) and the Ministry of Education Youth and Sports (8G15004).
+
+

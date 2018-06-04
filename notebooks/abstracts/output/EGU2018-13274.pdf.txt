@@ -1,0 +1,19 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-13274, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Reconstructing Solar Magnetic Field Evolution Over the Past Century
+
+Alexei Pevtsov
+National Solar Observatory, Boulder, United States (apevtsov@nso.edu)
+
+This talk will review the current state of long- term synoptic programs and present results of several recent projects
+aimed at reconstructing a more detailed picture of solar activity over the last century. In particular, we will present
+the recent ﬁndings and discuss open questions of research projects by international team 420 supported by the
+International Space Science Institute (Bern, Switzerland, see http://www.issibern.ch/teams/solheliomagnet/#). The
+team aims at developing methods to study the evolution of magnetic activity prior to modern age of solar magne-
+tography using historical data from Kodaikanal (India) and Mount Wilson (USA) observatories and modern surface
+ﬂux transport models.
+
+

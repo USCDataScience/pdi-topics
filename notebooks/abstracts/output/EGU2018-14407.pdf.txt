@@ -1,0 +1,42 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-14407, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Hydro-geomorphological monitoring of ungauged catchments with
+photogrammetric methods
+
+Anette Eltner (1), Hannes Sardemann (1), and Diana Spieler (2)
+(1) Technische Universität Dresden, Institute of Photogrammetry and Remote Sensing, Dresden, Germany, (2) Technische
+Universität Dresden, Institute of Hydrology and Meteorology, Dresden, Germany
+
+Monitoring of ungauged catchments is of increasing importance due to increasing occurrence of intense pre-
+cipitation events. Therefore, the risk for ﬂash ﬂoods increases, as well. However, due to the local appearance
+of these extreme events their measurement and hence modelling and prediction are very difﬁcult because of a
+commonly sparse gauging infrastructure in small-scaled catchments. Thus, the aim of this study is to develop
+new approaches to measure hydromorphological parameters ﬂexible, low-cost and with high temporal as well
+as spatial resolution and accuracy. The study is incorporated within the larger research project EXTRUSO
+(https://extruso.bu.tu-dresden.de/) aiming at the enhancement of ﬂash ﬂood monitoring, modelling and prediction.
+In the presentation two different applications are introduced, i.e. automatic water level measurement using a
+low-cost camera and measuring ﬂuvial morphology with an unmanned water vehicle (UWV).
+
+Two low-cost Raspberry Pi cameras are installed at a small-scale and a medium-scale river. The water lev-
+els are extracted using the following workﬂow: co-registration of image sequences, detection of water lines using
+image processing algorithms, and ﬁnally estimating the height of the water surface using spatial resection of a
+projected surface model of the river bank, retrieved with Structure-from-Motion (SfM), in the ﬁeld of view of the
+camera. Results reveal accuracies in the range of centimeters using automatically detected water lines and even
+sub-cm accuracies if water lines are measured manually in the images.
+
+In the second application an UWV is developed, which allows for an accurate measurement of the ﬂuvial
+terrain above and below the water surface with high resolution. Due to the ﬂexible utilization of the device
+immediate pre- and post-ﬂash ﬂood event change detection is possible. The UWV is equipped with a laser scanner
+that measures the terrain, resulting in a dense 3D point cloud describing the surface. An additional integrated 360◦
+camera is used to colorize the 3D point cloud. The third device is an echo sounder to measure the bathymetry. To
+realize a direct referencing of the UWV measurements an inertial measurement unit and GPS are implemented, as
+well. First results show the potential to measure river sections with sub-dm accuracy.
+
+Both introduced approaches support the densiﬁcation of necessary data to better understand the process of
+ﬂash ﬂoods, e.g. implementing the high resolution 3D point clouds in models and potentially use the gauge
+measurements as an additional warning tool.
+
+

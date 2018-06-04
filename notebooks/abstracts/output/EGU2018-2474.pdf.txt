@@ -1,0 +1,33 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-2474, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Scientiﬁc thinking about light-absorbing impurities in snow, 1920-2004
+
+Stephen Warren
+University of Washington, Department of Atmospheric Sciences, Seattle, United States (sgw@uw.edu)
+
+Beginning in the 1920s, reports of visibly-colored snow were attributed to winds carrying dust to Europe from the
+Sahara, to New Zealand from Australia, to Vermont from the U.S. Great Plains, and to the mountains of Central
+Asia from nearby deserts.
+
+Black carbon (BC) is more subtle; it is present in the atmosphere in the form of colorless submicron parti-
+cles, so it is not detected by eye in amounts present in natural snow even if it reduces the albedo by 10%.
+
+In the 1970s, scientiﬁc studies of BC appeared in the literature of weather and climate modiﬁcation, where
+BC was promoted as a tool to speed snowmelt on pastureland for grazing animals, or to enhance the melting of
+glaciers to provide water for irrigation.
+
+In the 1980s, trace amounts of BC were invoked in a radiative transfer model to explain the puzzle of low
+observed albedos for apparently-clean natural snow on Arctic sea ice; this inspired the ﬁrst geographical survey
+of soot in Arctic snow by Clarke and Noone. They estimated an average reduction of broadband albedo by 2%,
+which together with solar irradiance of 400 watts per square meter (typical of late spring and early summer in the
+Arctic) implied a sizeable local radiative forcing of 8 watts per square meter.
+
+Those results were mostly ignored until 2004, when Hansen and Nazarenko added soot-in-snow as a forc-
+ing agent in a global climate model. Their paper inspired a blossoming of research on all aspects of this problem:
+optical properties of carbonaceous particles, methods of BC measurement, Arctic air pollution, measurements of
+BC mixing ratio in snow, and modeling of this forcing and its climatic effects.
+
+

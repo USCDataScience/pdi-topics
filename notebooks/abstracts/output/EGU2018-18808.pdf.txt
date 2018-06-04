@@ -1,0 +1,30 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18808, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Deposition and dispersion of radio-cesium: sensitivity to meteorological
+models and aerosol properties
+
+Mizuo Kajino (1,2), Tsuyoshi Sekiyama (1), Yasuhito Igarashi (1), Kouji Adachi (1), Yuji Zaizen (1), Morihiro
+Sawada (2), Yukihiko Satou (3), and Yuichi Moriguchi (4)
+(1) Meteorological Research Institute, Tsukuba, Japan (kajino@mri-jma.go.jp), (2) University of Tsukuba, Tsukuba, Ibaraki,
+Japan, (3) Japan Atomic Energy Agency, Tokai, Ibaraki, Japan, (4) University of Tokyo, Bunkyo, Tokyo, Japan
+
+A great number of atmospheric simulations have been conducted to understand the consequences of FDNPP acci-
+dent. We came to know wet deposition is important but don’t know to what extent. We know simulations vary but
+we don’t know why. Meteorological model comparison with a single dispersion model was conducted to evaluate
+the magnitude of uncertainty in meteorological simulations. Among the deposition processes, rainout by liquid
+precipitation was the most important process. The fog deposition was the next, which was not considered in any
+other models but Katata et al., ACP (2015) and this study. Fog deposition is the main cause for the deposition
+in Gunma and Tochigi prefecture. All the simulation underestimated the airborne observation of Cs deposition,
+which amounted to 2.6 PBq. The underestimation is approximately 1.5 PBq (1 PBq in Hamadori and 0.4 PBq
+in Nakadori). It is due to underestimation of deposition process, which is the main ﬁnding of the meteorological
+model ensemble study: Some model overestimated while others underestimated both the precipitation and surface
+concentration, and therefore the precipitation and source term estimation should be reasonable and not be the cause
+of underestimation. By considering the A-type (Adachi et al., Sci. Rep., 2014) and S-type (Satou et al., Anthro-
+pocene, 2016) of Cs-ball particles, associated with the SRV opening of Unit 2 and Hydrogen explosion of Unit
+1, respectively, the underestimation of simulated Cs deposition could be signiﬁcantly improved. The maximum
+estimation of the additional deposition due to Cs-ball amounted approximately 1 PBq.
+
+

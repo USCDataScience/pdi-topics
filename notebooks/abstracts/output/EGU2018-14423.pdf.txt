@@ -1,0 +1,32 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-14423, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+An airborne observatory for land surface temperature and
+evapotranspiration
+
+Martin Schlerf (1), Kanishka Mallick (1), Max Gerhards (2), Kim Fischer (2), Martin Chamberland (3), Franz
+Ronellenﬁtsch (1), and Thomas Udelhoven (2)
+(1) Luxembourg Institute of Science and Technology, Luxembourg, (2) Trier University, Germany, (3) Telops, Canada
+
+Thermal infrared (TIR) remote sensing can provide useful measurements of surface temperatures and surface
+energy ﬂuxes which are of prime interest for many applications. However, in landscape ecological studies the
+use of TIR remote sensing data has been limited mainly by the availability of high spatial resolution TIR remote
+sensing data and a limited understanding of these data and associated difﬁculties in processing them into useful
+information.
+
+In this paper we introduce the Luxembourg Airborne Observatory System (LAOS) that has been developed
+to facilitate at the landscape scale (100-1000 km2) ﬂexible TIR image acquisition and accurate retrieval of
+land surface temperature (LST) and parameterisation independent estimation of evapotranspiration (ET). LAOS
+consists of a thermal hyperspectral camera (Telops Hyper-Cam LW) and an airborne observation platform operated
+from a third party aircraft (twin-engine Cessna T303). The data pre-processing scheme includes generation of
+radiance images from the raw FT-data and orthophoto mosaic generation. The science data ﬂow comprises LST
+retrieval through dedicated temperature-emissivity separation scheme and ET estimation through the STIC1.2
+model (Surface Temperature Initiated Closure, Mallick et al. 2014, 2015, 2016).
+
+Until know, LAOS has been tested over grassland, agriculture and forest ecosystems in Luxembourg, Bel-
+gium, Italy and Poland. Examples of TIR-image based LST and ET retrieval results in comparison to collected
+ground data are discussed for two sites.
+
+

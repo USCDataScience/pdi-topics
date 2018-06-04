@@ -1,0 +1,52 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-1932, 2018
+EGU General Assembly 2018
+© Author(s) 2017. CC Attribution 4.0 license.
+
+Winter Weather - Probabilistic Nowcasting to increase airport safety and
+capacity
+
+Harri Haukka (1), Ari-Matti Harri (1), Rudolf Kaltenboeck (2), Martin Hagen (3), Elena Saltikoff (1), Seppo
+Pulkkinen (1), Heikki Juntti (1), Herbert Pumpel (2), Martin Steinheimer (2), Kari Österberg (1), Annakaisa von
+Lerber (1), Harri Hohti (1), Tarja Riihisaari (1), Jaakko Nuottokari (1), Markus Peura (1), and Aulikki Lehkonen
+(1)
+(1) Finnish Meteorological Institute, Helsinki, Finland (harri.haukka@fmi.ﬁ), (2) Austro Control, Austria, (3) Deutsches
+Zentrum für Luft- und Raumfahrt (DLR), Germany
+
+Abstract
+We describe the intermediate results of a SJU/EU -funded research activity, called Probabilistic Nowcasting of
+Winter Weather for Airports (PNOWWA), developing methods to support the Air Trafﬁc Management (ATM)
+challenged by winter weather. Our methodology is based on probabilistic nowcasting of winter weather, which will
+enable the estimation of winter weather conditions affecting the ground part of air trafﬁc 4D trajectories. This kind
+of ATM methods and tools are called for, because the uncertainties during ﬂight, departure and arrival at airports
+create a need to effectively utilize probability forecasts, both in the local operational user environment and en-route.
+
+PNOWWA research work
+The PNOWWA project has following work package structure:
+- Management
+- Probabilistic winter weather prediction
+- Winter weather forcing
+- Assessment of the potential of the ATM tools and roadmap generation
+- Tools enhancing meteorological support for ATM decision making process
+- Demonstrators and data dissemination
+- SESAR2020 interaction and outreach
+
+PNOWWA will demonstrate very short-term (0-3h, "nowcast") probabilistic winter weather forecasts in
+15min time resolution based on an extrapolation of movement of weather radar echoes and improve predictability
+of changes in snowfall intensity caused by underlying terrain (such as mountains and seas). Research demonstra-
+tions are conducted both ofﬂine and online at the Operative User Environment (OUE) site representing inﬂuence
+of the underlying terrain to forecast accuracy. An extensive user consultation will analyze needs to ensure products
+are suitable to be integrated in various applications on the ATM side. The adjustment to user needs will cover
+the most relevant parameters (visibility, intensity and snow depth) and operationally important thresholds of the
+selected parameters (e.g. heavy snowfall).
+
+Links to other related activities
+The PNOWWA project has linkages to completed work in ongoing EU SESAR1 program, where FMI developed
+Step 1 (Time Based Operations) winter weather solutions based on deterministic forecasts to local OUE. The
+initial concept of short-range snowfall forecasts improvement with usage of weather radar has been validated
+in that context, and the second phase solutions (Step 2: Trajectory-based Operations) will be developed in EU
+SESAR 2020 program. The PNOWWA project will develop the methods for deducing probability forecasts of
+winter weather required by SESAR 2020. PNOWWA project will also deliver a roadmap towards implementation
+with connection points in future SESAR projects.
+
+

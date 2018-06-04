@@ -1,0 +1,26 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-11682, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Sun2Ice: Monitoring calving glaciers from solar-powered UAVs
+
+Guillaume Jouvet (1), Thomas Stastny (2), Philipp Oettershagen (2), Eef van Dongen (1), Michael Hugentobler
+(2), Thomas Mantel (2), Amir Melzer (2), Yvo Weidmann (1), Martin Funk (1), and Roland Siegwart (2)
+(1) ETHZ, VAW, Zurich, Switzerland (jouvet@vaw.baug.ethz.ch), (2) ETHZ, Autonomous Systems Laboratory, Zurich,
+Switzerland
+
+Here we present the ﬁrst outcomes of ETHZ’s Sun2Ice project, which aims to use a state-of-the-art, highly-
+optimized, solar-powered Unmanned Aerial Vehicle (UAV), AtlantikSolar, for long-range, and multi-day moni-
+toring of calving glaciers in the Arctic. The „midnight sun“ in polar summer time offers unique conditions for
+solar-powered ﬂights, including potentially energetically perpetual ﬂight, consequently enabling frequent, high-
+resolution and large-scale glacier surveys. In Sun2Ice, this cutting-edge technology is dedicated to the monitoring
+of iceberg calving, a still poorly understood process which plays a major role in the observed retreat of many
+ocean-terminating glaciers. The main achievement of Sun2Ice’s 2017 ﬁeldwork was the undertaking of the ﬁrst-
+ever autonomous, solar-powered ﬂights of a UAV in a polar region, including a ﬂight of more than 12 hours
+duration, and the survey of the calving front of Bowdoin Glacier, Northwest Greenland. This monitoring revealed
+the opening of a major crack, which led to a major calving event one week later. This presentation will focus on
+the technical challenges, the glaciological outcomes, and the potential of using such a technology for monitoring
+the Cryosphere with a spatial and temporal resolution not achievable by satellite remote sensing.
+
+

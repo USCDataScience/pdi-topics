@@ -1,0 +1,39 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-9541, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+The ARISTOTLE Multi-Hazard Expert Advice System for ERCC
+preparedness actions
+
+Alberto Michelini (1), Gerhard Wotawa (2), Delia Arnold-Arias (2), Gavin Iley (3), Giovanna Forlenza (1), and
+the ARISTOTLE Consortium
+(1) Istituto Nazionale Geoﬁsica e Vulcanologia, Centro Nazionale Terremoti, Roma, Italy (alberto.michelini@ingv.it), (2)
+Zentralanstalt für Meteorologie und Geodynamik, Vienna, Austria (gerhard.wotawa@zamg.ac.at), (3) Met Ofﬁce Fitzroy
+Road Exeter Devon EX1 3PB United Kingdom (gavin.iley@metofﬁce.gov.uk)
+
+The utilisation of multi-hazard information across the Disaster Risk Management Cycle has proven to be important
+but poses many challenges when a robust operational system needs to be implemented. The European Commis-
+sion’s Emergency Response and Coordination Centre (ERCC) of the European Commission’s Directorate-General
+for Humanitarian Aid and Civil Protection (DG-ECHO) is tasked with coordinating the response to crisis of
+EU Member States within Europe and also, as necessary, globally. Such task requires the processing of a large
+array of information with the primary goal of assessing rapidly the gravity of the crisis situation. To reduce such
+analytical load, in 2015 the DG-ECHO issued a tender pilot project to develop a multi-hazard advisory service
+for natural hazards. The ARISTOTLE Consortium, with 15 partner institutions (11 from EU Countries; 2 from
+non-EU countries and 2 European organizations) operating in the Meteorological and Geophysical domains, was
+selected and since then it has been working to overcome the many challenges of designing, building and running
+a multi-hazard advisory service for ERCC with information and expert assessment and advice with respect to
+ﬂooding, earthquakes, severe weather, volcanic emissions and tsunamis.
+
+Within the ﬁrst year of ARISTOTLE, an operational multi-hazard advisory service was designed in all its
+components. In the second year, the service was deployed and entered into full operations at the beginning of
+2017. The service focuses on the power of sharing information between the experts all belonging to national
+operational centers in the corresponding hazards. The service offered relies on an underpinning IT platform
+that gathers information automatically from available global and local hazard services as basis upon which
+the expert assessment is built-up and then delivered to ERCC both verbally and as reports. The system, with
+routine and emergency modes, has reached maturity within this year and provided advice into the ERCC for 37
+emergencies (by December, 2017) covering all the aforementioned hazards. The presentation will illustrate the
+basic components of the ARISTOTLE 24*7 advisory service, its modes of operations and lessons learnt within
+the one year operational phase.
+
+

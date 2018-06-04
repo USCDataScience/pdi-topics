@@ -1,0 +1,22 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-18786, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Shear generated turbulence in the ocean
+
+Kelvin Richards
+Univeristy of Hawaii, IPRC/SOEST, Honolulu, United States (rkelvin@hawaii.edu)
+
+Shear-generated turbulence is an important source of mixing in the ocean ending the cascade of energy from
+larger scales. Often because of sampling difﬁculties we are limited to deriving statistical relationships between
+the turbulence activity and the larger scale properties of the ﬂuid ﬂow. The Western Equatorial Paciﬁc proves to
+be an ideal natural laboratory to study shear-generated turbulence. Here turbulent production is dominated by the
+shear associated with relatively long-lived ﬂow structures in the form of high vertical mode inertia-gravity waves
+and ﬂow instabilities. With enough vertical resolution we can directly measure the characteristics of these ﬂow
+features. We ﬁnd a strong relationship between the vertical shear and stratiﬁcation and the turbulent dissipation.
+Using this relationship we can deduce the vertical mixing length scale and derive a parameterization scheme that
+is shown to work well when applied to ﬂows with similar characteristics. An important lesson from this work is
+the need to resolve adequately the ﬂow features generating the turbulence in both observations and models.
+
+

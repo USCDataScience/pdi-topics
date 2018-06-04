@@ -1,0 +1,48 @@
+Geophysical Research Abstracts
+Vol. 20, EGU2018-3157-1, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+
+Using global satellite and in-situ information to constrain CO2 emissions
+Philippe Ciais (1), Thomas Lauvaux (1), Felix Vogel (2), Yasjka Meijer (3), Yilong Wang (1), Franck Lespinas
+(1), Max Reuter (4), Michael Buchwitz (4), Grégoire Broquet (1), and François Marie Bréon (1)
+(1) Laboratoire des Sciences du Climat et de l’Environnement LSCE, Gif sur Yvette, France, (2) Environment and Climate
+Change Canada | Environnement et Changement Climatique Canada ECCC, Toronto, Canada, (3) EOP-SM - Earth and
+Mission Science Division ESA ESTEC, Noordwijk The Netherlands, (4) Institute of Environmental Physics (IUP), Bremen,
+Germany
+
+Attempts to use atmospheric CO2 and tracer measurements for constraining surface-atmosphere CO2 anthro-
+pogenic emissions at various scales using atmospheric inversions are motivated by the need to improve bottom
+up accounting of human-induced emissions following the Paris Agreement on Climate. Different scales are
+addressed below, from sub-continental regions to countries and from countries to cities and large point sources.
+Policy makers not only need accurate and transparent information on emissions, but also, and more importantly
+on emission trends. Because anthropogenic emissions are spatially concentrated in cities, industrial centers and
+power plants, a key focus is on urban and industrial ‘hot-spots’ of emissions with high resolution observations and
+to use tracers that can separate the signal of fossil fuel CO2 sources.
+
+The European Copernicus CO2 Report [Ciais et al., 2015] recommended an observing strategy based on
+sampling emissions hotspots using a constellation of satellites that could produce 2-d images of XCO2. Research
+studies showed that a typical spatial resolution of 2 km x 2 km and individual sounding precision of less than 1
+ppm would be sufﬁcient to provide an error reduction of up to 50% on the emission of a large city [Broquet et
+al., 2017] or a large power plant [Bovensmann et al., 2010]. Actual column CO2 measurements [Nassar et al.,
+2017] from OCO-2 acquired during satellite overpasses of a few large power plants and inverted with a Gaussian
+plume model showed U.S. power plants emission estimates could be constrained within 1–17% of reported
+daily emission values [Nassar et al., 2017]. Additional results on the estimation of CO2 emissions from large
+cities using OCO-2 data [Lauvaux et al. in prep] will be shown. The ability of a constellation of satellite XCO2
+imagers to quantitatively constrain the national or regional budgets of CO2 emissions from the sum of hotspots
+emissions observations, given the coverage and time sampling of the satellites, is still an open scientiﬁc question.
+Preliminary results from a global inversion of CO2 emissions from emission hotspots will be presented to illustrate
+the potential of imagers.
+
+Because smaller sources will not be detected from space, and because total CO2 also in hot-spot areas
+contain signiﬁcant contributions from ecosystem ﬂuxes, it has been proposed to complement satellites by
+continental scale sampling of 14C in CO2 and other fossil fuel CO2 tracers like carbon monoxide [Levin et al.,
+2003; Levin and Karstens, 2007]. Measuring 14C in CO2 (radiocarbon) represents the most promising approach
+for separating fossil CO2 in the atmosphere from the signal of natural ﬂuxes and hence for inversions to constrain
+fossil fuel CO2 emissions. Results from an OSSE study to quantify fossil fuel CO2 emissions at the scale of
+a mid-size European country was performed by [Wang et al., 2017], involving a coarse resolution transport
+model and continental scale networks consistent with ICOS to assess the ‘uncertainty reduction’ estimated from
+a Bayesian inversion and the performance of the inversion scheme to retrieve a ’true’ emission ﬁeld will be
+presented.
+
+
