@@ -34,7 +34,7 @@ docker logs pdi-topics
 ```
 docker run -d -t --add-host=docker:{HOST-IP} -p 8888:8888 --name pdi-topics pdi-topics
 ```
-4. Run sparkler_pdi-topics.ipynb and sparkler_pdi-scikit-topics.ipynb notebooks to view results for Sparkler data.
+4. Run sparkler-pdi-topics.ipynb and sparkler-pdi-scikit-topics.ipynb notebooks to view results for Sparkler data.
 
 ### Using Conda environments
 
