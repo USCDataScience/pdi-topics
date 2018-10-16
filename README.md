@@ -2,7 +2,7 @@
 
 LDA topic modeling for Polar Deep Insights.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder)
 
 ### Build and start a docker image
 
