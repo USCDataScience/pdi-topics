@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# download english model
+python -m spacy download en

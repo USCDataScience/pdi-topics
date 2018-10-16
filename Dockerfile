@@ -11,4 +11,4 @@ RUN conda env create -f environment.yml && \
 RUN mkdir -p /opt/pdi-topics/notebooks
 COPY ./notebooks /opt/pdi-topics/notebooks
 
-CMD bash -c "source activate pdi-topics; jupyter notebook --allow-root --notebook-dir=/opt/pdi-topics/notebooks --ip='*' --port=8888 --no-browser"
+CMD bash -c "source activate pdi-topics; jupyter notebook --allow-root --notebook-dir=/opt/pdi-topics/notebooks --ip='0.0.0.0' --port=8888 --no-browser"
