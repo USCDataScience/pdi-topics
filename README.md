@@ -6,11 +6,13 @@ LDA topic modeling for Polar Deep Insights.
 
 ### Build and start a docker image
 
+Copy the Dockerfile to the project foolder and run the following commands.
+
 ```sh
 docker build -t pdi-topics .
 ```
 
-Now to run it we can do
+To run a container we use the following command.
 
 ```sh
 docker run -d -t -p 8888:8888 --name pdi-topics pdi-topics
@@ -49,6 +51,6 @@ now to use the notebooks we need to activate the environment and run jupyter
 
 ```sh
 source activate pdi-topics
-jupyter notebook --allow-root --notebook-dir=$MY_DIR --ip='*' --port=8888 --no-browser
+jupyter notebook --allow-root --notebook-dir=$MY_DIR --ip='0.0.0.0' --port=8888 --no-browser
 ```
 
