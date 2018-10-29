@@ -1,4 +1,4 @@
-*/.ipynb_checkpoints/*
-*/models/*
-*/plots/*
+.ipynb_checkpoints
+notebooks/pdi/models/
+notebooks/pdi/plots
 
