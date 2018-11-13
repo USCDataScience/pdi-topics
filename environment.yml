@@ -17,4 +17,7 @@ dependencies:
 - elasticsearch=6.3.0
 - elasticsearch-dsl=6.1.0
 - pdfminer.six=20170720
+- wordcloud
+- matplotlib
+- pillow=4.3.0
 - vida-nyu::pyldavis=2.1.0=py35_0
