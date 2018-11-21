@@ -2,3 +2,6 @@
 
 # download english model
 python -m spacy download en
+
+curl -L "https://www.dropbox.com/s/32qk0nymcynu1cw/glove.6B.100d.vec.tar.gz?dl=1" | tar zx --directory=/home/jovyan/notebooks/pdi/models/
+
