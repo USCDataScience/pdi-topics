@@ -2,7 +2,13 @@
 
 LDA topic modeling for Polar Deep Insights.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu.ipynb)
+Run these notebooks in a browser by clicking on one of the buttons below.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-essi.ipynb)  __to launch essi session analysis__
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-all-corpus.ipynb)  __to launch EGU All Corpus topic visualization__
+
+The notebooks can also be executed on your own machine by using docker or in a conda environment. See below for instructions
 
 ### Build and start a docker image
 
@@ -30,16 +36,6 @@ You'll need the jupyter token in order to access the notebooks, you can get it b
 docker logs pdi-topics
 ```
 
-### Running pdi-topics on a local Solr index with Sparkler data
-
-1. Follow steps on https://github.com/USCDataScience/sparkler to run Sparkler on a seed url or file.
-2. After execution completes, you can find the data indexed on http://localhost:8983/solr/#/crawldb/query
-3. Build the docker image and run it using the following command. You need to replace HOST-IP with your system’s IP address. 
-```
-docker run -d -t --add-host=docker:{HOST-IP} -p 8888:8888 --name pdi-topics pdi-topics
-```
-4. Run sparkler-pdi-topics.ipynb and sparkler-pdi-scikit-topics.ipynb notebooks to view results for Sparkler data.
-
 ### Using Conda environments
 
 If we want to avoid using Docker we can also run the topic notebooks by creating an environment using conda3 or miniconda3
@@ -54,3 +50,12 @@ source activate pdi-topics
 jupyter notebook --allow-root --notebook-dir=$MY_DIR --ip='0.0.0.0' --port=8888 --no-browser
 ```
 
+### Running pdi-topics on a local Solr index with Sparkler data
+
+1. Follow steps on https://github.com/USCDataScience/sparkler to run Sparkler on a seed url or file.
+2. After execution completes, you can find the data indexed on http://localhost:8983/solr/#/crawldb/query
+3. Build the docker image and run it using the following command. You need to replace HOST-IP with your system’s IP address. 
+```
+docker run -d -t --add-host=docker:{HOST-IP} -p 8888:8888 --name pdi-topics pdi-topics
+```
+4. Run sparkler-pdi-topics.ipynb and sparkler-pdi-scikit-topics.ipynb notebooks to view results for Sparkler data.
