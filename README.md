@@ -1,12 +1,12 @@
-## pdi-topics
+# pdi-topics
 
-LDA topic modeling for Polar Deep Insights.
+Topic modeling Jupyter notebooks for Polar Deep Insights data and scientific text.
 
 Run these notebooks in a browser by clicking on one of the buttons below.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-essi.ipynb)  __to launch essi session analysis__
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-essi.ipynb)  __to launch essi session analysis__
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-all-corpus.ipynb)  __to launch EGU All Corpus topic visualization__
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-all-corpus.ipynb)  __to launch EGU All Corpus topic visualization__
 
 The notebooks can also be executed on your own machine by using docker or in a conda environment. See below for instructions
 
@@ -59,3 +59,7 @@ jupyter notebook --allow-root --notebook-dir=$MY_DIR --ip='0.0.0.0' --port=8888 
 docker run -d -t --add-host=docker:{HOST-IP} -p 8888:8888 --name pdi-topics pdi-topics
 ```
 4. Run sparkler-pdi-topics.ipynb and sparkler-pdi-scikit-topics.ipynb notebooks to view results for Sparkler data.
+
+
+### LICENSE
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
