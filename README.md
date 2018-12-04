@@ -5,8 +5,8 @@ Topic modeling Jupyter notebooks for Polar Deep Insights data and scientific tex
 Run these notebooks in a browser by clicking on one of the buttons below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-essi.ipynb)  __to launch essi session analysis__
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-all-corpus.ipynb)  __to launch EGU All Corpus topic visualization__
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-scattertext.ipynb)  __to launch ScatterText visualization on EGU abstracts__
 
 The notebooks can also be executed on your own machine by using docker or in a conda environment. See below for instructions
 
