@@ -4,9 +4,9 @@ Topic modeling Jupyter notebooks for Polar Deep Insights data and scientific tex
 
 Run these notebooks in a browser by clicking on one of the buttons below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-essi.ipynb)  __to launch essi session analysis__
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-all-corpus.ipynb)  __to launch EGU All Corpus topic visualization__
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/binder?filepath=notebooks%2Fpdi%2Fpdi-topics-scattertext.ipynb)  __to launch ScatterText visualization on EGU abstracts__
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-sessions.ipynb)  __to launch EGU sessions analysis__
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-all-corpus.ipynb)  __to launch EGU complete corpus topic modeling__
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2Fpdi-topics-scattertext.ipynb)  __to launch ScatterText visualization on EGU abstracts__
 
 The notebooks can also be executed on your own machine by using docker or in a conda environment. See below for instructions
 
@@ -54,7 +54,7 @@ jupyter notebook --allow-root --notebook-dir=$MY_DIR --ip='0.0.0.0' --port=8888 
 
 1. Follow steps on https://github.com/USCDataScience/sparkler to run Sparkler on a seed url or file.
 2. After execution completes, you can find the data indexed on http://localhost:8983/solr/#/crawldb/query
-3. Build the docker image and run it using the following command. You need to replace HOST-IP with your system’s IP address. 
+3. Build the docker image and run it using the following command. You need to replace HOST-IP with your system’s IP address
 ```
 docker run -d -t --add-host=docker:{HOST-IP} -p 8888:8888 --name pdi-topics pdi-topics
 ```
