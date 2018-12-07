@@ -4,15 +4,15 @@ Topic modeling Jupyter notebooks for Polar Deep Insights data and scientific tex
 
 Run these notebooks in a browser by clicking on one of the buttons below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-sessions.ipynb)  __to launch EGU sessions analysis__
+> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-sessions.ipynb)  __to launch EGU sessions analysis__
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2Fpdi-topics-egu-all-corpus.ipynb)  __to launch EGU complete corpus topic modeling__
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2Fpdi-topics-scattertext.ipynb)  __to launch ScatterText visualization on EGU abstracts__
 
-The notebooks can also be executed on your own machine by using docker or in a conda environment. See below for instructions
+The notebooks can also be executed on your own machine by using docker or in a Conda environment. See below for instructions
 
 ### Build and start a docker image
 
-Copy the Dockerfile to the project foolder and run the following commands.
+Copy the Dockerfile to the project folder and run the following commands.
 
 ```sh
 docker build -t pdi-topics .
@@ -63,3 +63,4 @@ docker run -d -t --add-host=docker:{HOST-IP} -p 8888:8888 --name pdi-topics pdi-
 
 ### LICENSE
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+
