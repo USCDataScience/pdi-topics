@@ -1,6 +1,6 @@
-# pdi-topics
+# Polar Deep Insights Topics (pdi-topics) <img align="right" width="60" height="60" src="https://nsidc.org/images/nsidc_logo-footer.svg">
 
-Topic modeling Jupyter notebooks for Polar Deep Insights data and scientific text.
+### Topic modeling Jupyter notebooks for Polar Deep Insights data and scientific text.
 
 Run these notebooks in a browser by clicking on one of the buttons below.
 
