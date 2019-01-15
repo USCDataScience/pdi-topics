@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 notebooks/pdi/models/
 notebooks/pdi/plots
+notebooks/pdi/wordclouds/
 .python-version
 .pyc

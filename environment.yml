@@ -19,5 +19,6 @@ dependencies:
 - pdfminer.six=20170720
 - wordcloud
 - matplotlib
+- line_profiler
 - pillow=4.3.0
 - vida-nyu::pyldavis=2.1.0=py35_0
