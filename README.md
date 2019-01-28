@@ -10,7 +10,10 @@ Run these notebooks in a browser by clicking on one of the buttons below.
 >
 > [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2Fpdi-topics-scattertext.ipynb)  __to launch ScatterText visualization on EGU abstracts__
 >
-> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2FASSW%20Testbed%20.ipynb)  __to launch ASSW abstract modeling
+> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2FASSW%20Testbed%20.ipynb)  __to launch ASSW abstract modeling__
+>
+> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USCDataScience/pdi-topics/master?filepath=notebooks%2Fpdi%2Fegu-all-corpus-bigrams.ipynb)  __to launch a bigram-based model for the EGU sessions__
+
 
 The notebooks can also be executed on your own machine by using docker or in a Conda environment. See below for instructions
 
